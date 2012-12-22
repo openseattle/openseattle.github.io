@@ -1,0 +1,11 @@
+      <div class="featurette">
+        <img class="featurette-image pull-left" src="images/noun_project_756_citizen.png">
+        <h2 class="featurette-heading">Works In Progress. <span class="muted">Here's Some Of Our Current Projects.</span></h2>
+        <p class="lead">
+          <ul class="lead">
+            {% for item in site.content.projects %}
+            <li>{{ item.content }}</li>
+            {% endfor %}
+          </ul>
+        </p>
+      </div>

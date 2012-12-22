@@ -1,0 +1,30 @@
+auto:    true
+
+blah:    Hello
+
+brigade:
+    name: Code for Area
+    city:   City
+    meetup-link: "http://www.meetup.com/cfabrigade/CityLink/"
+    google-group: "https://groups.google.com/a/codeforamerica.org/forum/#!forum/hrva-brigade"
+    github: "https://github.com/brigade-hrva"
+    idea-list: "http://www.meetup.com/cfabrigade/Virginia-Beach-VA/"
+
+content:
+    title: Code for City | A Code for America Brigade
+    meetup-invite: "A casual <a href='http://www.meetup.com/cfabrigade/Virginia-Beach-VA/'>meetup</a>, usually bi-weekly."
+    contact: "Our brigade captain is John Doe (johndoe@example.com or @johndoe)."
+    banner: ./images/sunrise-top.jpg
+    projects:
+      - name: Project 1
+        content: "<a href='example.com'>Example link 1</a>"
+
+      - name: Project 2
+        content: "<a href='example.com'>Example link 2</a>"
+
+      - name: Project idea
+        content: "<a href='http://citycamphrva.uservoice.com/forums/103669-innovate-for-hampton-roads'>List of Future Ideas!</a> Submit your Own Ideas, or Pick One To Help With"
+
+google-analytics:
+    use: false
+    code: UA-XXXXXXXX-X
