@@ -4,6 +4,7 @@ Landing template based on the Code for Virginia Beach landing page (http://codef
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 #Attribution and Thanks
+Many thanks to Jan Jorgenson for adapting the VB template for Jekyll.
 Thank you so much to Code for Virginia Beach for creating the original site this template was based on, especially Bret Fisher.
 
 #Quick Start:
