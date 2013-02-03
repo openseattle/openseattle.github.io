@@ -1,27 +1,21 @@
 auto:    true
 
 brigade:
-    name: Code for Area
-    city:   Area
-    meetup-link: "example.org"
-    google-group: "https://groups.google.com/a/codeforamerica.org/forum/#!forum/example"
-    github: "https://github.com/example"
-    idea-list: "http://opendatacatalog.ashevillenc.gov/opendata/nominate/?sort=rating_score&dir=desc"
+    name: Code for Seattle
+    city:   "Seattle, WA"
+    meetup-link: "#"
+    google-group: "https://groups.google.com/forum/#!forum/seattlewiki"
+    github: "https://github.com/codeforseattle"
+    idea-list: ""
 
 content:
-    title: Code for Area | A Code for America Brigade
-    meetup-invite: "A casual <a href='#'>meetup</a>, usually bi-weekly."
-    contact: "Our brigade captains are John Doe (johndoe@example.com or @johndoe)."
+    title: Code for Seattle
+    meetup-invite: ""
+    contact: ""
     banner: ./images/city_building2.jpg
     projects:
-      - name: Project 1
-        content: "<a href='example.com'>Example link 1</a>"
-
-      - name: Project 2
-        content: "<a href='example.com'>Example link 2</a>"
-
-      - name: Project idea
-        content: "<a href='example.org/futureideas'>List of Future Ideas!</a> Submit your Own Ideas, or Pick One To Help With"
+      - name: SeattleWiki.net
+        content: "<a href='http://seattlewiki.net'>SeattleWiki.net</a>"
     footer: "Thanks to Virginia Beach CfA for supplying this site's template, the Noun Project and brockamer@flikr for images,</br> and Jan Jorgensen for converting the template to Jekyll." 
 
 google-analytics:
