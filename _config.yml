@@ -12,7 +12,7 @@ content:
     title: Code for Seattle
     meetup-invite: ""
     contact: ""
-    banner: ./images/city_building2.jpg
+    banner: ./images/banner.jpg
     projects:
       - name: SeattleWiki.net
         content: "<a href='http://seattlewiki.net'>SeattleWiki.net</a>"
