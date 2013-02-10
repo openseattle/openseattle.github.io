@@ -185,9 +185,11 @@
         border-radius: 0;
         margin: -20px 0;
       }
-
+      .carousel-caption {
+        margin-top: 120px;
+      }
       .carousel .item {
-        height: 600px;
+        height: 500px;
       }
       .carousel img.banner {
         min-width: 100%;
