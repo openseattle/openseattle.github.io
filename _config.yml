@@ -3,15 +3,15 @@ auto:    true
 brigade:
     name: Code for Seattle
     city:   "Seattle, WA"
-    meetup-link: "#"
+    meetup-link: "http://www.meetup.com/Code-for-Seattle/"
     google-group: "https://groups.google.com/forum/#!forum/seattlewiki"
     github: "https://github.com/codeforseattle"
     idea-list: ""
 
 content:
     title: Code for Seattle
-    meetup-invite: ""
-    contact: ""
+    meetup-invite: "http://www.meetup.com/Code-for-Seattle/"
+    contact: "info@seattlewiki.net"
     banner: ./images/banner.jpg
     projects:
       - name: SeattleWiki.net
@@ -19,5 +19,5 @@ content:
     footer: "Thanks to Virginia Beach CfA for supplying this site's template, the Noun Project and brockamer@flikr for images,</br> and Jan Jorgensen for converting the template to Jekyll." 
 
 google-analytics:
-    use: false
-    code: UA-XXXXXXX-X
+    use: true
+    code: UA-38362883-1
