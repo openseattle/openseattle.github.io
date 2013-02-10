@@ -19,5 +19,5 @@ content:
     footer: "Thanks to Virginia Beach CfA for supplying this site's template, the Noun Project and brockamer@flikr for images,</br> and Jan Jorgensen for converting the template to Jekyll." 
 
 google-analytics:
-    use: false
-    code: UA-XXXXXXX-X
+    use: true
+    code: UA-38362883-1
