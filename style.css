@@ -83,19 +83,29 @@
       height: 500px;
 
     }
-    .carousel img {
+    .carousel img.banner {
       position: absolute;
       top: 0;
       left: 0;
       min-width: 100%;
       height: auto;
     }
-
+    .caption-logo {
+      width: 200px;
+      height: auto;
+      float: left;
+      margin-top: 10px;
+      margin-right: 20px;
+    }
+    .caption-logo img {
+      width: 100%;
+      height: auto;
+    }
     .carousel-caption {
       background-color: rgba(0,0,0,0.5);
       position: static;
-      max-width: 650px;
-      padding: 10px 0px 20px 20px;
+      max-width: 700px;
+      padding: 10px 10px 20px 20px;
       margin-top: 200px;
       -moz-border-radius: 5px;
       border-radius: 5px;
@@ -177,11 +187,11 @@
       }
 
       .carousel .item {
-        height: 500px;
+        height: 600px;
       }
-      .carousel img {
-        width: auto;
-        height: 500px;
+      .carousel img.banner {
+        min-width: 100%;
+        height: auto;
       }
 
       .featurette {
@@ -212,24 +222,36 @@
 
       }
       .carousel .item {
-        height: 300px;
+        height: 500px;
       }
-      .carousel img {
-        height: 300px;
+      .carousel img.banner {
+        display: none;
+      }
+      .caption-logo {
+        float: none;
+        margin: 10px auto;
       }
       .carousel-caption {
-        width: 96%;
-        padding: 10px;
-        margin-top: 56px;
+        background: none;
+        width: 100%;
+        padding: 0px;
+        margin-top: 80px;
         text-align: center;
         max-width: 767px;
       }
       .carousel-caption h1 {
         font-size: 30px;
+        color: #333;
+        text-shadow: none;
       }
       .carousel-caption .lead,
       .carousel-caption .btn {
         font-size: 18px;
+        padding: 10px 20px;
+      }
+      .carousel-caption .lead {
+        color: #333;
+        text-shadow: none;
       }
 
       .marketing .span4 + .span4 {
