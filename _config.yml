@@ -6,7 +6,7 @@ brigade:
     meetup-link: "http://www.meetup.com/Code-for-Seattle/"
     google-group: "https://groups.google.com/forum/#!forum/codeforseattle"
     github: "https://github.com/codeforseattle"
-    idea-list: ""
+    idea-list: "http://seattlewiki.net/Code_for_Seattle_ideas"
 
 content:
     title: Code for Seattle
