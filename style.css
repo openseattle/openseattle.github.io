@@ -1,271 +1,199 @@
+html,
+body,
+input,
+button,
+select,
+textarea {
+  font: 15px/25px "Helvetica Neue", Helvetica, arial, sans-serif;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
 
-    /* GLOBAL STYLES
-    -------------------------------------------------- */
-    /* Padding below the footer and lighter body text */
+body, html {
+  background-color: #f2f2f1;
+  min-height: 100%;
+}
 
-    body {
-      padding-bottom: 40px;
-      color: #5a5a5a;
-    }
-    .lead li{
-      margin-bottom: 10px;
-    }
+body {
+  border-top: 3px solid #b6b6b4;
+}
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
 
-    /* CUSTOMIZE THE NAVBAR
-    -------------------------------------------------- */
+a {
+  color: #4189C9;
+  text-decoration: none;
+}
 
-    /* Special class on .container surrounding .navbar, used for positioning it into place. */
-    .navbar-wrapper {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      z-index: 10;
-      margin-top: 20px;
-      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
-    }
-    .navbar-wrapper .navbar {
-
-    }
-
-    /* Remove border and change up box shadow for more contrast */
-    .navbar .navbar-inner {
-      border: 0;
-      -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
-         -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
-              box-shadow: 0 2px 10px rgba(0,0,0,.25);
-    }
-
-    /* Downsize the brand/project name a bit */
-    .navbar .brand {
-      padding: 14px 20px 16px; /* Increase vertical padding to match navbar links */
-      font-size: 16px;
-      font-weight: bold;
-      text-shadow: 0 -1px 0 rgba(0,0,0,.5);
-    }
-
-    /* Navbar links: increase padding for taller navbar */
-    .navbar .nav > li > a {
-      padding: 15px 20px;
-    }
-
-    /* Offset the responsive button for proper vertical alignment */
-    .navbar .btn-navbar {
-      margin-top: 10px;
-    }
+a:hover, a:focus {
+  color: #2F6FA7;
+}
 
 
+.container {
+  width: 100%;
+  margin: 0px auto;
+}
 
-    /* CUSTOMIZE THE NAVBAR
-    -------------------------------------------------- */
+.inner-wrapper {
+  width: 80%;
+  padding: 0px 10% 0px 10%;
+  margin: 0px auto;
+}
 
-    /* Carousel base class */
-    .carousel {
-      margin-bottom: 60px;
-    }
+main .container,
+header .container,
+footer .container {
+  background-color: #fff;
+  border-right: 1px solid #e2e2e1;
+  border-left: 1px solid #e2e2e1;
+}
 
-    .carousel .container {
-      position: relative;
-      z-index: 9;
-    }
+main .container {
+  border-top: 1px solid #f2f2f1;
+}
 
-    .carousel-control {
-      height: 80px;
-      margin-top: 0;
-      font-size: 120px;
-      text-shadow: 0 1px 1px rgba(0,0,0,.4);
-      background-color: transparent;
-      border: 0;
-    }
+main .inner-wrapper {
+  margin-top: 10px;
+}
 
-    .carousel .item {
-      height: 500px;
+header {
+}
 
-    }
-    .carousel img.banner {
-      position: absolute;
-      top: 0;
-      left: 0;
-      min-width: 100%;
-      height: auto;
-    }
-    .caption-logo {
-      width: 200px;
-      height: auto;
-      float: left;
-      margin-top: 10px;
-      margin-right: 20px;
-    }
-    .caption-logo img {
-      width: 100%;
-      height: auto;
-    }
-    .carousel-caption {
-      background-color: rgba(0,0,0,0.5);
-      position: static;
-      max-width: 700px;
-      padding: 10px 10px 20px 20px;
-      margin-top: 200px;
-      -moz-border-radius: 5px;
-      border-radius: 5px;
-    }
-    .carousel-caption h1,
-    .carousel-caption .lead {
-      margin: 0;
-      line-height: 1.25;
-      color: #fff;
-      text-shadow: 0 2px 2px rgba(0,0,0,.4);
-    }
-    .carousel-caption .btn {
-      margin-top: 10px;
-    }
+header .inner-wrapper {
+  margin-bottom: 25px;
+}
 
+.section {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+  margin-bottom: 100px;
+}
 
+header img {
+  display: block;
+  float: left;
+  width: 180px;
+  height: auto;
+  margin: 10px 50px 30px 0px;
+}
 
-    /* MARKETING CONTENT
-    -------------------------------------------------- */
+header h1 {
+  font-size: 25px;
+  padding-top: 40px;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-weight: 300;
+}
 
-    /* Center align the text within the three columns below the carousel */
-    .marketing .span4 {
-      text-align: center;
-    }
-    .marketing h2 {
-      font-weight: normal;
-    }
-    .marketing .span4 p {
-      margin-left: 10px;
-      margin-right: 10px;
-    }
+header h1 span {
+  font-size: 20px;
+}
 
+header h3 {
+  font-size: 18px;
+  line-height: 25px;
+  margin-top: 10px;
+  letter-spacing: 1px;
+}
 
-    /* Featurettes
-    ------------------------- */
+footer {
+  
+}
 
-    .featurette-divider {
-      margin: 40px 0; /* Space out the Bootstrap <hr> more */
-    }
-    .featurette {
-      padding-top: 20px; /* Vertically center images part 1: add padding above and below text. */
-      overflow: hidden; /* Vertically center images part 2: clear their floats. */
-    }
-    .featurette-image {
-      margin-top: 0px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
-      padding-bottom: 40px;
-    }
+ul.main {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  margin: 30px 0px 60px 0px;
+}
 
-    /* Give some space on the sides of the floated elements so text doesn't run right into it. */
-    .featurette-image.pull-left {
-      margin-right: 40px;
-    }
-    .featurette-image.pull-right {
-      margin-left: 40px;
-    }
+ul.main li {
+  display: inline-block;
+  padding: 0px 10px;
+}
 
-    /* Thin out the marketing headings */
-    .featurette-heading {
-      font-size: 50px;
-      font-weight: 300;
-      line-height: 1;
-      letter-spacing: -1px;
-    }
+.ndoch h3 {
+  text-align: center;
+  font-size: 15px;
+}
 
+img.full {
+  width: 100%;
+  height: auto;
+}
 
+.ndoch a.signup {
+  padding: 10px 15px 10px 10px;
+  background-color: #4189C9;
+  color: #fff;
+  margin: 35px 0px;
+  display: block;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
 
-    /* RESPONSIVE CSS
-    -------------------------------------------------- */
+.ndoch a.signup:hover, .ndoch a.signup:focus {
+  background-color: #2F6FA7;
+}
 
-    @media (max-width: 979px) {
+.section h2.title {
+  font-size: 40px;
+  line-height: 55px;
+  text-align: center;
+  margin-bottom: 60px;
+}
 
-      .container.navbar-wrapper {
-        margin-bottom: 0;
-        width: auto;
-      }
-      .navbar-inner {
-        border-radius: 0;
-        margin: -20px 0;
-      }
-      .carousel-caption {
-        margin-top: 120px;
-      }
-      .carousel .item {
-        height: 500px;
-      }
-      .carousel img.banner {
-        min-width: 100%;
-        height: auto;
-      }
+ul.contact {
+  margin-bottom: 50px;
+}
 
-      .featurette {
-        height: auto;
-        padding: 0;
-      }
-      .featurette-image.pull-left,
-      .featurette-image.pull-right {
-        display: block;
-        float: none;
-        max-width: 40%;
-        margin: 0 auto 20px;
-      }
-    }
+ul.contact li {
+  list-style-type: none;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
 
+@media only screen and (min-width: 500px) {
+  .container {
+    width: 480px;
+  }
 
-    @media (max-width: 767px) {
+  .inner-wrapper {
+    padding: 0px 30px 0px 30px;
+  }
+}
 
-      .navbar-inner {
-        margin: -20px;
-      }
+@media only screen and (min-width: 960px) {
+  .container {
+    width: 800px;
+  }
+}
 
-      .carousel {
-        margin-left: -20px;
-        margin-right: -20px;
-      }
-      .carousel .container {
+/* clearfix */
+.container:before,
+.container:after {
+  content: " ";
+  display: table;
+}
 
-      }
-      .carousel .item {
-        height: 500px;
-      }
-      .carousel img.banner {
-        display: none;
-      }
-      .caption-logo {
-        float: none;
-        margin: 10px auto;
-      }
-      .carousel-caption {
-        background: none;
-        width: 100%;
-        padding: 0px;
-        margin-top: 80px;
-        text-align: center;
-        max-width: 767px;
-      }
-      .carousel-caption h1 {
-        font-size: 30px;
-        color: #333;
-        text-shadow: none;
-      }
-      .carousel-caption .lead,
-      .carousel-caption .btn {
-        font-size: 18px;
-        padding: 10px 20px;
-      }
-      .carousel-caption .lead {
-        color: #333;
-        text-shadow: none;
-      }
+.container:after {
+  clear: both;
+}
 
-      .marketing .span4 + .span4 {
-        margin-top: 40px;
-      }
-
-      .featurette-heading {
-        font-size: 30px;
-      }
-      .featurette .lead {
-        font-size: 18px;
-        line-height: 1.5;
-      }
-
-    }
+.container {
+  *zoom: 1;
+}

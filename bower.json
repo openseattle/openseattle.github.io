@@ -1,0 +1,8 @@
+{
+  "name": "codeforseattle.github.com",
+  "version": "0.0.0",
+  "dependencies": {
+    "html5shiv": "~3.6.2",
+    "normalize-css": "~2.1.2"
+  }
+}

@@ -1,4 +1,4 @@
-auto:    true
+baseurl: ""
 
 brigade:
     name: Code for Seattle
@@ -15,7 +15,9 @@ content:
     banner: ./images/banner.jpg
     projects:
       - name: SeattleWiki.net
-        content: "<a href='http://seattlewiki.net'>SeattleWiki.net</a>"
+        content: "<a href='http://seattlewiki.net' target='_blank'>SeattleWiki.net</a>"
+      - name: Localwiki_Client
+        content: "<a href='https://github.com/codeforseattle/localwiki_client' target='_blank'>LocalWiki_Client</a>"
     footer: "Thanks to Virginia Beach CfA for supplying this site's template, the Noun Project and brockamer@flikr for images,</br> and Jan Jorgensen for converting the template to Jekyll." 
 
 google-analytics:
