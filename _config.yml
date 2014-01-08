@@ -18,6 +18,10 @@ content:
         content: "<a href='http://seattlewiki.net' target='_blank'>SeattleWiki.net</a>"
       - name: nwdata.org
         content: "<a href='http://nwdata.org' target='_blank'>nwdata.org</a>"
+      - name: 'Seattle Food Trucks'
+        content: "<a href='http://seattlefoodtrucks.herokuapp.com/' target='_blank'>Seattle Food Trucks</a>"
+      - name: 'GeoSub'
+        content: "<a href='https://github.com/willscott/geosub' target='_blank'>GeoSub</a>"
       - name: 'Seattle Blogs API'
         content: "<a href='http://seattle-blogs.herokuapp.com/' target='_blank'>Seattle Blogs API</a>"
       - name: Ruby LocalWiki client
