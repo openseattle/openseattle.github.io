@@ -16,8 +16,14 @@ content:
     projects:
       - name: SeattleWiki.net
         content: "<a href='http://seattlewiki.net' target='_blank'>SeattleWiki.net</a>"
-      - name: Localwiki_Client
-        content: "<a href='https://github.com/codeforseattle/localwiki_client' target='_blank'>LocalWiki_Client</a>"
+      - name: nwdata.org
+        content: "<a href='http://nwdata.org' target='_blank'>nwdata.org</a>"
+      - name: 'Seattle Blogs API'
+        content: "<a href='http://seattle-blogs.herokuapp.com/' target='_blank'>Seattle Blogs API</a>"
+      - name: Ruby LocalWiki client
+        content: "<a href='https://github.com/codeforseattle/localwiki_client' target='_blank'>Ruby LocalWiki client</a>"
+      - name: Node.js LocalWiki client
+        content: "<a href='https://github.com/codeforseattle/node-localwiki-client' target='_blank'>Node.js LocalWiki client</a>"
     footer: "Thanks to Virginia Beach CfA for supplying this site's template, the Noun Project and brockamer@flikr for images,</br> and Jan Jorgensen for converting the template to Jekyll." 
 
 google-analytics:
