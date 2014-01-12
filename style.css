@@ -135,6 +135,7 @@ img.full {
 }
 
 img.half {
+  display: block;
   width: 50%;
   height: auto;
   margin-left: auto;
