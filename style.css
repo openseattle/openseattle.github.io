@@ -134,6 +134,13 @@ img.full {
   height: auto;
 }
 
+img.half {
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .ndoch a.signup {
   padding: 10px 15px 10px 10px;
   background-color: #4189C9;
