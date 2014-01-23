@@ -1,13 +1,14 @@
 <div class="section">
   <h2 class="title" id="projects">Works in progress.</h2>
   <h3>Here's some of our current projects:</h3>
-  <p class="lead">
-    <ul class="lead">
-      {% for item in site.content.projects %}
-      <li>{{ item.content }}</li>
-      {% endfor %}
-    </ul>
-  </p>
+  <div class="project-list">
+    {% for project in site.content.projects %}
+        <div class="project-card">
+          <a class="" href="{{ project.link }}"><img class="project-img" src="{{ project.card-img }}" alt=""></a>
+          <a class="project-link" href="{{ project.link }}">{{ project.name }}</a>
+        </div>
+    {% endfor %}
+  </div>
   <p>See more at <a href="https://github.com/codeforseattle" target="_blank">github.com/codeforseattle</a> and at <a href="http://seattlewiki.net/Code_for_Seattle_Projects" target="_blank">seattlewiki.net/Code_for_Seattle_Projects</a></p>
   <p>Also check  out <a href="http://codeforseattle.org/hackforchange/2013/">the projects teams worked on at our June 1, 2013 hackathon</a>.</p>
 </div>

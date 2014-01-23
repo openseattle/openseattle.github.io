@@ -209,3 +209,35 @@ ul.contact li {
 .container {
   *zoom: 1;
 }
+
+.project-list {
+  overflow: hidden;
+  padding: 3px;
+}
+
+.project-card {
+  float: left;
+  width: 110px;
+  border: 1px solid #f2f2f1;
+  margin: 0 10px 10px 0;
+  -webkit-box-shadow: 1px 1px 5px 1px #f2f2f1;
+  box-shadow: 1px 1px 5px 1px #f2f2f1;
+}
+
+.project-card:hover {
+  -webkit-box-shadow: 2px 2px 5px 0px #2F6FA7;
+  box-shadow: 2px 2px 5px 0px #2F6FA7;
+}
+
+
+.project-img {
+  width: 110px;
+  display: block;
+  line-height: 1.2em;
+  text-align: center;
+}
+
+.project-link {
+  border-top: 1px solid #f2f2f1;
+  display: block;
+}
