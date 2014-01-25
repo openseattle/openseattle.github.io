@@ -11,14 +11,13 @@ layout: default
 </header>
 
 <main role="main">
+  {% include navbar.html %}
   <div class="container">
     <div class="inner-wrapper">
 
-      {% include navbar.html %}
-
-      <h1>Code <span>for</span> Seattle</h1>
-      <h3>Developers, designers, data geeks, leaders, artists, and idea-makers who help Seattle 
-  government and civic orgs adopt open web technologies.</h3>
+      <h1 class="site-title">Code <span>for</span> Seattle</h1>
+      <h3 class="home-welcome">Developers, designers, data geeks, leaders, artists, and idea-makers who help Seattle 
+  government and civic organizations adopt open web technologies.</h3>
 
       {{ content }}
     </div>

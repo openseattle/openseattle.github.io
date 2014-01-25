@@ -102,10 +102,11 @@ header.page img.logo {
 }
 
 ul.main {
-  padding: 0px;
   margin: 0px;
   text-align: center;
-  margin: 30px 0px 40px 0px;
+  margin: 30px 0px 20px 0px;
+  border-bottom: 1px solid #efefef;
+  padding: 0px 0px 26px 0px;
 }
 
 ul.main li {
@@ -118,6 +119,7 @@ header.page ul.main {
   padding: 0px;
   text-align: center;
   margin: 25px auto 0px auto;
+  border-bottom: 0px;
 }
 
 @media only screen and (min-width: 500px){
@@ -147,6 +149,24 @@ header.page ul.main {
     margin: 40px 0px 0px 0px;
     float: right;
   }
+}
+
+h1.site-title {
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #cccccc;
+}
+
+h3.home-welcome {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.6;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #efefef;
+  margin-bottom: 30px;
 }
 
 header h1 {
@@ -233,7 +253,12 @@ ul.contact li {
   margin-bottom: 100px;
 }
 
-.code-across .welcome {
+.code-across-teaser {
+  border-radius: 3px;
+}
+
+.code-across .welcome,
+.code-across-teaser {
   background-color: #EF4E4B;
   padding: 20px 50px;
   text-align: center;
@@ -242,23 +267,48 @@ ul.contact li {
   color: #fff;
 }
 
-.code-across .welcome h1.title {
+.code-across .welcome h1.title,
+.code-across-teaser h1.title {
   font-weight: 900;
   font-size: 45px;
   letter-spacing: -2px;
 }
 
-.code-across .welcome h3.date {
+.code-across .welcome h3.date
+.code-across-teaser h3.date {
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 14px;
 }
 
-.code-across .welcome h2.about {
+.code-across .welcome h2.about,
+.code-across-teaser h2.about {
   font-size: 20px;
   line-height: 1.4;
   padding: 0px 2%;
+}
+
+.code-across-teaser a {
+  color: #fff;
+}
+
+.button {
+  display: inline-block; 
+  border-radius: 2px; 
+  padding: 15px 20px; 
+  margin: 10px auto 0px auto;
+  font-weight: 500;
+}
+
+.button.white {
+  background-color: #fff; 
+  color: #EF4E4B
+}
+
+.button.red {
+  background-color: #EF4E4B; 
+  color: #fff;
 }
 
 @media only screen and (min-width: 500px) {
@@ -284,6 +334,10 @@ ul.contact li {
   .code-across .welcome h2.about {
     font-size: 30px;
     padding: 0px 24%;
+  }
+
+  h3.home-welcome {
+    font-size: 25px;
   }
 }
 
