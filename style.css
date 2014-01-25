@@ -11,12 +11,11 @@ textarea {
 }
 
 body, html {
-  background-color: #f2f2f1;
+  background-color: #fcfcfe;
   min-height: 100%;
 }
 
 body {
-  border-top: 3px solid #b6b6b4;
 }
 
 h1,
@@ -39,6 +38,10 @@ a:hover, a:focus {
   color: #2F6FA7;
 }
 
+img.full {
+  width: 100%;
+  height: auto;
+}
 
 .container {
   width: 100%;
@@ -51,15 +54,7 @@ a:hover, a:focus {
   margin: 0px auto;
 }
 
-main .container,
-header .container,
-footer .container {
-  background-color: #fff;
-  border-right: 1px solid #e2e2e1;
-  border-left: 1px solid #e2e2e1;
-}
-
-main .container {
+main {
   border-top: 1px solid #f2f2f1;
 }
 
@@ -67,7 +62,19 @@ main .inner-wrapper {
   margin-top: 10px;
 }
 
-header {
+
+header.home {
+  background: url(/images/sui-01.jpg);
+  background-position: bottom center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 300px;
+}
+
+header.page {
+  height: 180px;
 }
 
 header .inner-wrapper {
@@ -80,12 +87,86 @@ header .inner-wrapper {
   margin-bottom: 30px;
 }
 
-header img {
+header img.logo {
   display: block;
-  float: left;
-  width: 180px;
+  width: 250px;
   height: auto;
-  margin: 10px 50px 30px 0px;
+  margin: 30px auto 30px auto;
+}
+
+header.page img.logo {
+  display: block;
+  width: 100px;
+  height: auto;
+  margin: 10px auto;
+}
+
+ul.main {
+  margin: 0px;
+  text-align: center;
+  margin: 30px 0px 20px 0px;
+  border-bottom: 1px solid #efefef;
+  padding: 0px 0px 26px 0px;
+}
+
+ul.main li {
+  display: inline-block;
+  padding: 0px 5px;
+  font-size: 12px;
+}
+
+header.page ul.main {
+  padding: 0px;
+  text-align: center;
+  margin: 25px auto 0px auto;
+  border-bottom: 0px;
+}
+
+@media only screen and (min-width: 500px){
+  ul.main li {
+    display: inline-block;
+    padding: 0px 10px;
+    font-size: 15px;
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  header.page {
+    height: 100px;
+  }
+
+  header.page img.logo {
+    display: block;
+    width: 80px;
+    height: auto;
+    margin: 10px 0px;
+    float: left;
+  }
+
+  header.page ul.main {
+    padding: 0px;
+    text-align: right;
+    margin: 40px 0px 0px 0px;
+    float: right;
+  }
+}
+
+h1.site-title {
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #cccccc;
+}
+
+h3.home-welcome {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.6;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #efefef;
+  margin-bottom: 30px;
 }
 
 header h1 {
@@ -106,22 +187,6 @@ header h3 {
   line-height: 25px;
   margin-top: 10px;
   letter-spacing: 1px;
-}
-
-footer {
-  
-}
-
-ul.main {
-  padding: 0px;
-  margin: 0px;
-  text-align: center;
-  margin: 30px 0px 60px 0px;
-}
-
-ul.main li {
-  display: inline-block;
-  padding: 0px 10px;
 }
 
 .ndoch h3 {
@@ -179,6 +244,82 @@ ul.contact li {
   margin-bottom: 15px;
 }
 
+
+/*
+* Code Across Seattle
+*/
+
+.code-across {
+  margin-bottom: 100px;
+}
+
+.code-across-teaser {
+  border-radius: 3px;
+}
+
+.code-across .welcome,
+.code-across-teaser {
+  background-color: #EF4E4B;
+  padding: 20px 50px;
+  text-align: center;
+  -webkit-box-shadow: inset 0px 0px 80px 0px rgba(0, 0, 0, .15);
+  box-shadow: inset 0px 0px 80px 0px rgba(0, 0, 0, .15);
+  color: #fff;
+}
+
+.code-across .welcome h1.title,
+.code-across-teaser h1.title {
+  font-weight: 900;
+  font-size: 45px;
+  letter-spacing: -2px;
+}
+
+.code-across .welcome h3.date
+.code-across-teaser h3.date {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.code-across .welcome h2.about,
+.code-across-teaser h2.about {
+  font-size: 20px;
+  line-height: 1.4;
+  padding: 0px 2%;
+  font-weight: 300;
+}
+
+.code-across h1,
+.code-across h2,
+.code-across h3,
+.code-across h4 {
+  font-weight: 500;
+}
+
+.code-across-teaser a {
+  color: #fff;
+}
+
+.button {
+  display: inline-block; 
+  border-radius: 2px; 
+  padding: 15px 20px; 
+  margin: 10px auto 0px auto;
+  font-weight: 500;
+}
+
+.button.white {
+  background-color: #fff; 
+  color: #EF4E4B
+}
+
+.button.red {
+  background-color: #EF4E4B; 
+  color: #fff;
+}
+
 @media only screen and (min-width: 500px) {
   .container {
     width: 480px;
@@ -187,11 +328,25 @@ ul.contact li {
   .inner-wrapper {
     padding: 0px 30px 0px 30px;
   }
+
+  .code-across .welcome h2.about {
+    font-size: 25px;
+    padding: 0px 15%;
+  }
 }
 
 @media only screen and (min-width: 960px) {
   .container {
     width: 800px;
+  }
+
+  .code-across .welcome h2.about {
+    font-size: 30px;
+    padding: 0px 24%;
+  }
+
+  h3.home-welcome {
+    font-size: 25px;
   }
 }
 
@@ -208,4 +363,36 @@ ul.contact li {
 
 .container {
   *zoom: 1;
+}
+
+.project-list {
+  overflow: hidden;
+  padding: 3px;
+}
+
+.project-card {
+  float: left;
+  width: 110px;
+  border: 1px solid #f2f2f1;
+  margin: 0 10px 10px 0;
+  -webkit-box-shadow: 1px 1px 5px 1px #f2f2f1;
+  box-shadow: 1px 1px 5px 1px #f2f2f1;
+}
+
+.project-card:hover {
+  -webkit-box-shadow: 2px 2px 5px 0px #2F6FA7;
+  box-shadow: 2px 2px 5px 0px #2F6FA7;
+}
+
+
+.project-img {
+  width: 110px;
+  display: block;
+  line-height: 1.2em;
+  text-align: center;
+}
+
+.project-link {
+  border-top: 1px solid #f2f2f1;
+  display: block;
 }

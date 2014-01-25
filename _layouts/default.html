@@ -19,31 +19,8 @@
   </head>
 
   <body>
-    <header>
-      <div class="container">
-        <div class="inner-wrapper">
-          {% include header.html %}
-        </div>
-      </div>
-    </header>
 
-    <main role="main">
-      <div class="container">
-        <div class="inner-wrapper">
-
-          {% include navbar.html %}
-
-          {{ content }}
-        </div>
-      </div>    
-    </main>
-
-    <footer>
-      <div class="container">
-        <div class="inner-wrapper">
-        </div>
-      </div>
-    </footer>
+  {{ content }}
 
     {% if site.google-analytics.use %}
       {% include google-analytics.html %}
