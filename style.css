@@ -280,6 +280,7 @@ ul.contact li {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 14px;
+  font-weight: 300;
 }
 
 .code-across .welcome h2.about,
@@ -287,6 +288,14 @@ ul.contact li {
   font-size: 20px;
   line-height: 1.4;
   padding: 0px 2%;
+  font-weight: 300;
+}
+
+.code-across h1,
+.code-across h2,
+.code-across h3,
+.code-across h4 {
+  font-weight: 500;
 }
 
 .code-across-teaser a {
