@@ -174,8 +174,6 @@ header h3 {
   font-size: 15px;
 }
 
-<<<<<<< HEAD
-=======
 img.full {
   width: 100%;
   height: auto;
@@ -189,7 +187,6 @@ img.half {
   margin-right: auto;
 }
 
->>>>>>> a4ead152f26f4d5a5fefcaf5d231cd930b227f8c
 .ndoch a.signup {
   padding: 10px 15px 10px 10px;
   background-color: #4189C9;
@@ -231,6 +228,10 @@ ul.contact li {
 /*
 * Code Across Seattle
 */
+
+.code-across {
+  margin-bottom: 100px;
+}
 
 .code-across .welcome {
   background-color: #EF4E4B;
