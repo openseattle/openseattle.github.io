@@ -285,6 +285,11 @@ ul.contact li {
 * Code Across Seattle
 */
 
+.come-to-codeacross {
+  text-align: center;
+  color: #8C8C8C;
+}
+
 .code-across {
   margin-bottom: 100px;
 }
