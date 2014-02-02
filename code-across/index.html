@@ -1,12 +1,39 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Code for Seattle</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<header class="page">
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="favicon.ico" />
+
+    <link href="/components/normalize-css/normalize.css" rel="stylesheet">
+    <link href="/style.css" rel="stylesheet">
+    <link href="/codeacross.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/components/html5shiv/dist/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+  <header class="page">
   <div class="container">
     <div class="inner-wrapper">
-      {% include header-page.html %}
-      {% include navbar.html %}
+      <a href="/">
+  <img src="/images/logo-300x300.png" class="logo" />
+</a>
+      <ul class="main">
+        <li><a href="/#meetups">Events</a></li>
+        <li><a href="/#projects">Projects</a></li>
+        <li><a href="http://codeforseattle.tumblr.com" target="_blank">Blog</a></li>
+        <li><a href="https://github.com/codeforseattle" target="_blank">GitHub</a></li>
+        <li><a href="/#contact">Contact</a></li>
+      </ul>
     </div>
   </div>
 </header>
@@ -16,7 +43,7 @@ layout: default
 	<div class="welcome">
 
 		<h1 class="title">CodeAcross Seattle</h1>
-		<h3 class="date">February 22, 2014 / 10 a.m. – 6 p.m.</h3>
+    <h3 class="date">February 22, 2014<br>10 a.m. – 6 p.m.</h3>
 
 		<h2 class="about">A one-day event focused on open data<br />
 		&amp; civic technology in Seattle</h2>
@@ -24,12 +51,21 @@ layout: default
 
   <div class="container">
     <div class="inner-wrapper">
+			<p><a class="button red register-button" href="http://www.meetup.com/Code-for-Seattle/events/162078952/">Register for CodeAcross Seattle on Meetup.com</a></p>
 
 			<h4><b>CodeAcross Seattle, February 22, is a full day of events for incubating civic innovation in our city.</b></h4> 
 			<h4>CodeAcross Seattle, on February 22, is a full day of events for incubating civic innovation in our city. We’re bringing together local governments, businesses, schools, and community organizations, as well as social service organizations, media outlets, foundations, and the public to collaborate on civic innovation that will help our residents and improve our region.</h4>
 
-			<p><a class="button red" href="http://www.meetup.com/Code-for-Seattle/events/162078952/">Register for CodeAcross Seattle on meetup.com</a></p>
+      <div class="toc">
+        <ol>
+          <li><a href="#whats-happening">What's happening?</a></li>
+          <li><a href="#what-to-work-on">What will people be working on?</a></li>
+          <li><a href="#schedule">Schedule</a></li>
+          <li><a href="#sponsorship">Sponsorship opportunities</a></li>
+        </ol>
+      </div>
 
+      <a name="whats-happening"></a>
 			<h2>What's happening?</h2>
 
 			<h3 id="opendataday">Open Data day</h3>
@@ -54,21 +90,60 @@ layout: default
 
 			<p>Make icons to represent Seattle neighborhoods, landmarks, city services, and more! You and others will then be able to use those icons in civic applications, data visualizations, etc.</p>
 
+      <a name="what-to-work-on"></a>
+			<h2 id="what-to-work-on">What will people be working on?</h2>
+      <p>Many in-progress Code For Seattle projects will be available for you to work on: contribute to <a href="http://seattlewiki.net">the Seattle Wiki</a>, finish <a href="http://seattlefoodtrucks.herokuapp.com">a map of local food trucks</a>, work on <a href="http://github.com/willscott/geosub">a location-based event notification service</a>, contribute to <a href="http://openstreetmap.org">OpenStreetMap</a>... the list goes on and on.</p>
+      <p>Code For America has also issued a list of challenges for local communities to tackle this year:</p>
+      <ul>
+        <li>
+          <strong>The Open Data Inventory Challenge</strong><br>
+          <p>Perform an audit of Seattle's <a href="http://data.seattle.gov">open data portal</a>. Does Seattle make 311 requests public? Budget data? Construction permits? Code For America will provid a dataset checklist to compare against (we will publish a link when available). If a dataset is missing, how can we work with the city to open that dataset? What can be done with the city's already-open data?</p>
+        </li>
+        <li>
+          <strong>The Open Data Policy Challenge</strong><br>
+          <p>Does Seattle have an open data policy? It's important for an open data policy to exist so that civic data remains open and current. Check out <a href="http://sunlightfoundation.com/opendataguidelines/">the Sunlight Foundation's Open Data Policy Guidelines</a> for inspiration.</p>
+        </li>
+      </ul>
+      <p>We will publish more information about Code For America's CodeAcross challenges as it becomes available.</p>
+      <p>And, as always, come with your own ideas of what can be built to improve your city.</p>
+
+      <a name="schedule"></a>
 			<h2 id="schedule">Schedule</h2>
 			<p>The schedule for the event will be announced soon!</p>
 
-			<p><a class="button red" href="http://www.meetup.com/Code-for-Seattle/events/162078952/">Register for CodeAcross Seattle on meetup.com</a></p>
-
+      <a name="sponsorship"></a>
 			<h2 id="sponsor">Sponsor CodeAcross Seattle</h2>
-			<p>We are grateful you are considering supporting our event. Code Across Seattle is a 100% volunteer driven event put on by Code for Seattle. <b>We need your support. Please email us at svincent@codeforamerica.org and/or wscott@codeforamerica.org if you can help!</b>
+      <p>We are grateful you are considering supporting our event. Code Across Seattle is a 100% volunteer driven event put on by Code for Seattle. <b>We need your support. Please email us at <a href="mailto:svincent@codeforamerica.org">svincent@codeforamerica.org</a> or <a href="mailto:wscott@codeforamerica.org">wscott@codeforamerica.org</a> if you can help!</b>
 			<p>We are seeking donations of cash, venue, goods, prizes, and services. The easiest way to support Code Across Seattle is to make a cash contribution by check or our web site (link below). Code for Seattle is our local arm of the national organization Code for America. As a 501(c)(3) nonprofit and nonpartisan organization, donations to Code for America (and our event) are tax deductible. All contributors who desire it will receive recognition through event marketing.</p>
 
-			<p><a href="http://codeforamerica.org/donate" class="button red" target="blank">Donate through codeforamerica.org</a></p>
+			<p><a href="http://codeforamerica.org/donate" class="button red" target="blank">Donate through CodeForAmerica.org</a></p>
 
 			<p>Enter <b>CODE ACROSS SEATTLE</b> In the field for “What inspired your contribution?”</p>
 
 			<h2>Why you should sponsor CodeAcross Seattle</h2>
 			<p>Because, like us, you want to help make Seattle better, together. We’re recruiting extensively from local governments, businesses, schools, communities, as well as social service organizations, media outlets, foundations, and the public. We want to bring these diverse communities together to take on civic innovation challenges that will help our residents and improve our region.</p>
+
+			<p><a class="button red register-button" href="http://www.meetup.com/Code-for-Seattle/events/162078952/">Register for CodeAcross Seattle on Meetup.com</a></p>
     </div>
   </div>    
 </main>
+
+
+    
+      <script type="text/javascript">
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-38362883-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+    
+  </body>
+</html>
