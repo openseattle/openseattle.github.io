@@ -281,67 +281,6 @@ ul.contact li {
 }
 
 
-/*
-* Code Across Seattle
-*/
-
-.come-to-codeacross {
-  text-align: center;
-  color: #8C8C8C;
-}
-
-.code-across {
-  margin-bottom: 100px;
-}
-
-.code-across-teaser {
-  border-radius: 3px;
-}
-
-.code-across .welcome,
-.code-across-teaser {
-  background-color: #EF4E4B;
-  padding: 20px 50px;
-  text-align: center;
-  -webkit-box-shadow: inset 0px 0px 80px 0px rgba(0, 0, 0, .15);
-  box-shadow: inset 0px 0px 80px 0px rgba(0, 0, 0, .15);
-  color: #fff;
-}
-
-.code-across .welcome h1.title,
-.code-across-teaser h1.title {
-  font-weight: 900;
-  font-size: 45px;
-  letter-spacing: -2px;
-  line-height: 1.2;
-  margin-top: 15px;
-}
-
-.code-across .welcome h3.date,
-.code-across-teaser h3.date {
-  font-weight: 300;
-  text-transform: uppercase;
-  line-height: 1.2;
-  letter-spacing: 1px;
-  font-size: 15px;
-  font-weight: 300;
-  margin-top: 20px;
-}
-
-.code-across .welcome h2.about,
-.code-across-teaser h2.about {
-  font-size: 20px;
-  line-height: 1.2;
-  padding: 0px 2%;
-  font-weight: 500;
-  margin-top: 15px;
-}
-
-
-.code-across-teaser a {
-  color: #fff;
-}
-
 .button {
   display: inline-block; 
   border-radius: 2px; 
@@ -358,6 +297,13 @@ ul.contact li {
 .button.red {
   background-color: #EF4E4B; 
   color: #fff;
+  transition: background-color 0.2s;
+  -webkit-transition: background-color 0.2s;
+}
+.button.red:hover {
+  background-color: #cd474c;
+  transition: background-color 0.2s;
+  -webkit-transition: background-color 0.2s;
 }
 
 @media only screen and (min-width: 500px) {
@@ -368,21 +314,11 @@ ul.contact li {
   .inner-wrapper {
     padding: 0px 30px 0px 30px;
   }
-
-  .code-across .welcome h2.about {
-    font-size: 25px;
-    padding: 0px 15%;
-  }
 }
 
 @media only screen and (min-width: 960px) {
   .container {
     width: 800px;
-  }
-
-  .code-across .welcome h2.about {
-    font-size: 30px;
-    padding: 0px 24%;
   }
 
   h3.home-welcome {
