@@ -30,6 +30,11 @@
   box-shadow: inset 0px 0px 80px 0px rgba(0, 0, 0, .15);
   color: #fff;
 }
+@media only screen and (max-width: 500px) {
+  .code-across-teaser {
+    padding: 20px;
+  }
+}
 
 .code-across .welcome h1.title,
 .code-across-teaser h1.title {
@@ -38,6 +43,11 @@
   letter-spacing: -2px;
   line-height: 1.2;
   margin-top: 15px;
+}
+@media only screen and (max-width: 500px) {
+  .code-across .welcome h1.title, .code-across-teaser h1.title {
+    font-size: 35px;
+  }
 }
 
 .code-across .welcome h3.date,
@@ -75,8 +85,14 @@
 }
 
 .register-button {
+  display: block;
   text-align: center;
   padding: 40px 53px;
   font-size: 1.6em;
   line-height: 1.4;
+}
+@media only screen and (max-width: 500px) {
+  .register-button {
+    padding: 20px;
+  }
 }
