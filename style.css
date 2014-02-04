@@ -62,6 +62,42 @@ main .inner-wrapper {
   margin-top: 10px;
 }
 
+main h1,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6 {
+  font-weight: 300;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  line-height: 1.3;
+}
+
+main h2 {
+  font-size: 2.5em;
+  margin-top: 80px;
+}
+
+main h3 {
+  font-size: 1.9em;
+}
+
+main h4 {
+  font-size: 1.4em;
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+main.home h1,
+main.home h2,
+main.home h3,
+main.home h4,
+main.home h5,
+main.home h6 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
 
 header.home {
   background: url(/images/sui-01.jpg);
@@ -245,63 +281,6 @@ ul.contact li {
 }
 
 
-/*
-* Code Across Seattle
-*/
-
-.code-across {
-  margin-bottom: 100px;
-}
-
-.code-across-teaser {
-  border-radius: 3px;
-}
-
-.code-across .welcome,
-.code-across-teaser {
-  background-color: #EF4E4B;
-  padding: 20px 50px;
-  text-align: center;
-  -webkit-box-shadow: inset 0px 0px 80px 0px rgba(0, 0, 0, .15);
-  box-shadow: inset 0px 0px 80px 0px rgba(0, 0, 0, .15);
-  color: #fff;
-}
-
-.code-across .welcome h1.title,
-.code-across-teaser h1.title {
-  font-weight: 900;
-  font-size: 45px;
-  letter-spacing: -2px;
-}
-
-.code-across .welcome h3.date
-.code-across-teaser h3.date {
-  font-weight: 300;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-size: 14px;
-  font-weight: 300;
-}
-
-.code-across .welcome h2.about,
-.code-across-teaser h2.about {
-  font-size: 20px;
-  line-height: 1.4;
-  padding: 0px 2%;
-  font-weight: 300;
-}
-
-.code-across h1,
-.code-across h2,
-.code-across h3,
-.code-across h4 {
-  font-weight: 500;
-}
-
-.code-across-teaser a {
-  color: #fff;
-}
-
 .button {
   display: inline-block; 
   border-radius: 2px; 
@@ -318,6 +297,13 @@ ul.contact li {
 .button.red {
   background-color: #EF4E4B; 
   color: #fff;
+  transition: background-color 0.2s;
+  -webkit-transition: background-color 0.2s;
+}
+.button.red:hover {
+  background-color: #cd474c;
+  transition: background-color 0.2s;
+  -webkit-transition: background-color 0.2s;
 }
 
 @media only screen and (min-width: 500px) {
@@ -328,21 +314,11 @@ ul.contact li {
   .inner-wrapper {
     padding: 0px 30px 0px 30px;
   }
-
-  .code-across .welcome h2.about {
-    font-size: 25px;
-    padding: 0px 15%;
-  }
 }
 
 @media only screen and (min-width: 960px) {
   .container {
     width: 800px;
-  }
-
-  .code-across .welcome h2.about {
-    font-size: 30px;
-    padding: 0px 24%;
   }
 
   h3.home-welcome {
