@@ -229,7 +229,7 @@ Learn more about the Sunlight Foundation: http://­sunlightfoundation.com­
 Learn more about the Open Knowledge Foundation: http://okfn.org
 
 ### City of Seattle
-Check out Seattle's open data portal, http://data.seattle.gov
+Check out Seattle's open data portal, [http://data.seattle.gov](http://data.seattle.gov)
 
 ### Socrata
 Socrata develops the open data portal used in Seattle and many other cities, counties, states, etc. Check out the Socrata developers site: [http://dev.socrata.com](http://dev.socrata.com)
