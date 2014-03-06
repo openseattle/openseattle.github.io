@@ -20,6 +20,20 @@ layout: home
 
 {% include help-your-city.html %}
 
+<div class="posts section">
+	<h2 class="title">Recent posts:</h2>
+  {% for post in site.posts %}
+    {% if post.published %}
+      <div class="post" id="{{ post.slug }}">
+        <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
+        <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
+        <p><a href="{{ post.url }}">Continue reading</a></p>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
 {% include projects.html %}
 
 {% include meetups.html %}

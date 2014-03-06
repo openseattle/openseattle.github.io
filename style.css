@@ -38,7 +38,9 @@ a:hover, a:focus {
   color: #2F6FA7;
 }
 
-img.full {
+img,
+img.full,
+img.post-image {
   width: 100%;
   height: auto;
 }

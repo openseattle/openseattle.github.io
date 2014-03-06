@@ -1,4 +1,5 @@
 baseurl: ""
+markdown: redcarpet
 
 brigade:
     name: Code for Seattle
