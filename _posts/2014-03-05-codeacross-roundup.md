@@ -253,4 +253,4 @@ We got some awesome cookies from The Cookie Department! Learn more about them he
 
 ## Have anything to add?
 
-You can edit this post on GitHub if we missed anything!
+You can [edit this post on GitHub](https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_posts/2014-03-05-codeacross-roundup.md) if we missed anything!
