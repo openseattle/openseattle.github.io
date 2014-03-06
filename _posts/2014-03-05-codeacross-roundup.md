@@ -87,7 +87,7 @@ Sourcing and aggregating stolen bike data for Seattle, with a particular focus o
 
 ## Visualizing Metro cuts
 
-![metro cuts team]({{ site.baseurl }}/images/code-across-roundup-metro-cuts.jpg)
+![metro cuts team]({{ site.baseurl }}/images/code-across-roundup/metro-cuts.jpg)
 
 It's not easy to get a sense of the impact of the proposed Metro bus cuts, so a team created a visualization to make that easier.
 
