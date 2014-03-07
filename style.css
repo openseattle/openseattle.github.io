@@ -76,13 +76,14 @@ main h6 {
   line-height: 1.3;
 }
 
+main h1,
 main h2 {
   font-size: 2.5em;
   margin-top: 80px;
 }
 
 main h3 {
-  font-size: 1.9em;
+  font-size: 1.5em;
 }
 
 main h4 {
@@ -283,12 +284,20 @@ ul.contact li {
 }
 
 
+input.email {
+  border: 1px solid #ababa9;
+  border-radius: 2px;
+  padding: 10px;
+  line-height: 35px;
+}
+
 .button {
   display: inline-block; 
   border-radius: 2px; 
   padding: 15px 20px; 
   margin: 10px auto 0px auto;
   font-weight: 500;
+  border: 0px;
 }
 
 .button.white {
@@ -298,14 +307,14 @@ ul.contact li {
 
 .button.red {
   background-color: #EF4E4B; 
+  border: 1px solid #EF4E4B;
   color: #fff;
-  transition: background-color 0.2s;
-  -webkit-transition: background-color 0.2s;
+  transition: all 0.2s;
+  -webkit-transition: all 0.2s;
 }
 .button.red:hover {
   background-color: #cd474c;
-  transition: background-color 0.2s;
-  -webkit-transition: background-color 0.2s;
+  border: 1px solid #cd474c;
 }
 
 @media only screen and (min-width: 500px) {
@@ -373,4 +382,12 @@ ul.contact li {
 .project-link {
   border-top: 1px solid #f2f2f1;
   display: block;
+}
+
+#newsletter {
+  text-align: center;
+}
+
+.center-text {
+  text-align: center;
 }
