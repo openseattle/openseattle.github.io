@@ -28,9 +28,9 @@ The day started with speakers meant to provide attendees with ideas and resource
 
 **Neil Berry**, a city employee who manages data.seattle.gov spoke about the role of Seattle's open data portal and how developers can request data that isn't currently available on the portal.
 
-![Matt Rosenburg](https://dl.dropboxusercontent.com/sh/07h4o4zc4cxer4u/IN2ENYpwGK/2014-02-22%2012.54.28.jpg?token_hash=AAECwO-QY6gQMpXDB0VrVBgMBlyAFxjiMz8Oa816CLS5kg)
+![Matt Rosenberg](https://dl.dropboxusercontent.com/sh/07h4o4zc4cxer4u/IN2ENYpwGK/2014-02-22%2012.54.28.jpg?token_hash=AAECwO-QY6gQMpXDB0VrVBgMBlyAFxjiMz8Oa816CLS5kg)
 
-**Matt Rosenburg**, who runs the Open Data Ferret, spoke about the role of open data, the importance of releasing data in usable formats, and how civic hacking isn't so different from journalism.
+**Matt Rosenberg**, who runs the Public Data Ferret, spoke about the role of open data, the importance of releasing data in usable formats, and how civic hacking isn't so different from journalism.
 
 ![Luis F. Borrero](https://dl.dropboxusercontent.com/sh/07h4o4zc4cxer4u/iaMtfGtGVI/2014-02-22%2013.10.51.jpg?token_hash=AAECwO-QY6gQMpXDB0VrVBgMBlyAFxjiMz8Oa816CLS5kg)
 
