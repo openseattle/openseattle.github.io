@@ -2,7 +2,61 @@
 layout: page
 ---
 
-<h1 class="title center-text">Hack for Change Seattle 2014</h1>
+<style type='text/css'>
+  #needle {
+    background: transparent center top no-repeat;
+    background-size: cover;
+    background-image: url(/images/hfc-2014/spaceneedle.jpg);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  #title {
+    position: fixed;
+    top: 0;
+    left: 48%;
+    height: 100%;
+  }
+  #title div {
+    background: white;
+    font-weight: 100;
+    font-size: 1.5em;
+  }
+  
+  #topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: white;
+    height: 50px;
+    width: 100%;
+  }
+</style>
+
+<div id="needle"
+     data-0="transform:translate(0,0%);"
+     data-100p="transform:translate(0,-100%);"></div>
+
+<div id="topbar"
+     data-0="transform:translate(0,-100%);"
+     data-30p="transform:translate(0,0%);"></div>
+
+<div id="title"
+     data-0="transform:translate(0, 30%);"
+     data-30p="transform:translate(0,0%);">
+  <div>
+    Hack for Change
+    <small>Seattle 2014</small>
+  </div>
+</div>
 
 <h3 class="center-text">Find out when more info is available:</h3>
 {% include newsletter.html %}
+
+<script type="text/javascript" src="../components/scrollr/dist/skrollr.min.js"></script>
+<script type="text/javascript">
+  skrollr.init({});
+</script>
