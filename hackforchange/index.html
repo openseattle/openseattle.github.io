@@ -2,27 +2,25 @@
 layout: page
 ---
 
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
 <style type='text/css'>
-  #needle {
-    background: transparent center top no-repeat;
-    background-size: cover;
-    background-image: url(/images/hfc-2014/spaceneedle.jpg);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  #container {
+    position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    padding:0;
+    margin:0;
   }
-  
   #title {
-    position: fixed;
-    top: 0;
+    z-index: 2;
     left: 48%;
-    height: 100%;
   }
   #title div {
-    background: white;
-    font-weight: 100;
+    background: black;
+    color: white;
+    font-family: 'Open Sans', "Helvetica";
+    font-weight: 700;
     font-size: 1.5em;
   }
   
@@ -30,33 +28,52 @@ layout: page
     position: fixed;
     top: 0;
     left: 0;
-    background: white;
+    background: black;
     height: 50px;
     width: 100%;
   }
+  
+  .red {
+    color: #cf1b41;
+  }
+  .blue {
+    color: #399fd3;
+  }
 </style>
 
-<div id="needle"
-     data-0="transform:translate(0,0%);"
-     data-100p="transform:translate(0,-100%);"></div>
+<div id="container">
 
-<div id="topbar"
-     data-0="transform:translate(0,-100%);"
-     data-30p="transform:translate(0,0%);"></div>
+<div style="position:relative">
+<img src="/images/hfc-2014/spaceneedle.jpg" alt="" width="100%" />
 
 <div id="title"
-     data-0="transform:translate(0, 30%);"
-     data-30p="transform:translate(0,0%);">
+     data-0="position:absolute;top:!27%"
+     data-_needle="position:fixed;top:!5px"
+     data-edge-strategy="set">
   <div>
-    Hack for Change
+    H<span class='red'>a</span>ck f<span class='blue'>o</span>r
+    Ch<span class='red'>a</span>ng<span class='blue'>e</span>
     <small>Seattle 2014</small>
   </div>
 </div>
+</div>
+
+<div id="topbar"
+     data-0="transform:translate(0,-100%);"
+     data-_needle="transform:translate(0,0%);"></div>
 
 <h3 class="center-text">Find out when more info is available:</h3>
 {% include newsletter.html %}
 
+</div>
+
 <script type="text/javascript" src="../components/scrollr/dist/skrollr.min.js"></script>
 <script type="text/javascript">
-  skrollr.init({});
+  skrollr.init({
+    constants: {
+      needle: function() {
+        return window.innerWidth / 1.5 * (0.27);
+      }
+    }
+  });
 </script>
