@@ -391,3 +391,13 @@ input.email {
 .center-text {
   text-align: center;
 }
+
+.share {
+  text-align: center;
+}
+
+.share a {
+  background-color: #f2f2f1;
+  margin: 0px 4px;
+  padding: 5px 8px;
+}

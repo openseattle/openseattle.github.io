@@ -1,10 +1,11 @@
 ---
 layout: page
+slug: hackforchange
 ---
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
 <style type='text/css'>
-  #container {
+  #wrapper {
     position:absolute;
     left:0;
     top:0;
@@ -12,16 +13,18 @@ layout: page
     padding:0;
     margin:0;
   }
+
   #title {
     z-index: 2;
-    left: 48%;
+    left: 49%;
   }
+
   #title div {
-    background: black;
     color: white;
     font-family: 'Open Sans', "Helvetica";
     font-weight: 700;
-    font-size: 1.5em;
+    font-size: 1em;
+    line-height: 1;
   }
   
   #topbar {
@@ -36,35 +39,74 @@ layout: page
   .red {
     color: #cf1b41;
   }
+
   .blue {
     color: #399fd3;
   }
+
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 300;
+  }
+
+  @media (min-width:600px){
+    #title div {
+      font-size: 2em;
+    }
+  }
 </style>
 
-<div id="container">
+<div id="wrapper">
 
-<div style="position:relative">
-<img src="/images/hfc-2014/spaceneedle.jpg" alt="" width="100%" />
+  <div style="position:relative">
+    <img src="/images/hfc-2014/spaceneedle.jpg" alt="" width="100%" />
 
-<div id="title"
-     data-0="position:absolute;top:!27%"
-     data-_needle="position:fixed;top:!5px"
-     data-edge-strategy="set">
-  <div>
-    H<span class='red'>a</span>ck f<span class='blue'>o</span>r
-    Ch<span class='red'>a</span>ng<span class='blue'>e</span>
-    <small>Seattle 2014</small>
+    <div id="title"
+         data-0="position:absolute;top:!27%"
+         data-_needle="position:fixed;top:!10px"
+         data-edge-strategy="set">
+
+      <div>
+        H<span class='red'>a</span>ck f<span class='blue'>o</span>r
+        Ch<span class='red'>a</span>ng<span class='blue'>e</span>
+        <small>Seattle 2014</small>
+      </div>
+    </div>
   </div>
-</div>
-</div>
 
-<div id="topbar"
-     data-0="transform:translate(0,-100%);"
-     data-_needle="transform:translate(0,0%);"></div>
+  <div id="topbar"
+       data-0="transform:translate(0,-100%);"
+       data-_needle="transform:translate(0,0%);"></div>
 
-<h3 class="center-text">Find out when more info is available:</h3>
-{% include newsletter.html %}
+  <div class="container">
+    <h3 class="center-text">Find out when more info is available:</h3>
+    {% include newsletter.html %}
 
+    <h3 style="text-align:center;"><b>May 31</b> <i>at</i> <b>Seattle City Hall</b></h3>
+
+    <p><b>The goal:</b> bring together technologists, entrepreneurs, social activists, designers, and citizens to improve address civic issues in Seattle communities and the governments that serve them.</p>
+
+    <p><b>Anyone can participate</b> You don’t have to be an expert in technology, but you do have to care about your neighborhood and community.</p>
+
+    <p>The Seattle event is one of dozens planned around the country, and will be <b>part hackathon, part unconference</b>. We're looking for speakers for the morning and suggestions for projects that teams will work on for the remainder of the day.</p>
+
+    <div class="share">
+      <h4>Share Hack for Change Seattle:</h4>
+      <a class="icon-twitter" href="https://twitter.com/share?text=Join me at Hack for Change Seattle!&url=http://codeforseattle.com/hackforchange"
+          onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+          <span class="hidden">Twitter</span>
+      </a>
+      <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://codeforseattle.com/hackforchange"
+          onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+          <span class="hidden">Facebook</span>
+      </a>
+      <a class="icon-google-plus" href="https://plus.google.com/share?url=http://codeforseattle.com/hackforchange"
+         onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+          <span class="hidden">Google+</span>
+      </a>
+    <div>
+  </div>
 </div>
 
 <script type="text/javascript" src="../components/scrollr/dist/skrollr.min.js"></script>
@@ -72,7 +114,7 @@ layout: page
   skrollr.init({
     constants: {
       needle: function() {
-        return window.innerWidth / 1.5 * (0.27);
+        return window.innerWidth / 1.6 * (0.27);
       }
     }
   });
