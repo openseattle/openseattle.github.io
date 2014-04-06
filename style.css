@@ -53,6 +53,14 @@ img.post-image {
   height: auto;
 }
 
+hr {
+  border-top: 1px solid #e2e2e2;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+  margin: 10px 0 30px 0;
+}
+
 .container {
   width: 100%;
   margin: 0px auto;
@@ -296,7 +304,6 @@ input.email {
   border: 1px solid #ababa9;
   border-radius: 2px;
   padding: 10px;
-  line-height: 35px;
   height: 57px;
 }
 
