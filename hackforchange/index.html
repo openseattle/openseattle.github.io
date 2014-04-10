@@ -15,7 +15,7 @@ slug: hackforchange
   }
 
   #title {
-    z-index: 2;
+    z-index: 3;
     left: 49%;
   }
 
@@ -28,6 +28,7 @@ slug: hackforchange
   }
   
   #topbar {
+    z-index: 2;
     position: fixed;
     top: 0;
     left: 0;
@@ -55,6 +56,27 @@ slug: hackforchange
       font-size: 2em;
     }
   }
+  
+  .signup:hover {
+    color: white;
+  }
+  
+  .signup {
+    text-align: center;
+    color: #eee;
+    display: block;
+  }
+  
+  .signup img {
+    width: 300px;
+  }
+  .signup span {
+    position: absolute;
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 20px;
+  }
 </style>
 
 <div id="wrapper">
@@ -80,8 +102,13 @@ slug: hackforchange
        data-_needle="transform:translate(0,0%);"></div>
 
   <div class="container">
-    <h3 class="center-text">Find out when more info is available:</h3>
-    {% include newsletter.html %}
+    <a href='http://www.meetup.com/Code-for-Seattle/events/175917132/'
+       class='signup'>
+       <span>
+      Sign up free on
+    </span>
+      <img id="meetup" alt="meetup" src="/images/meetup.jpg">
+    </a>
 
     <h3 style="text-align:center;"><b>May 31</b> <i>at</i> <b>Seattle City Hall</b></h3>
 
