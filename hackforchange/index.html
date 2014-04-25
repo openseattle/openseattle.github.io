@@ -1,6 +1,7 @@
 ---
 layout: page
 slug: hackforchange
+title: Hack for Change Seattle
 ---
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
@@ -15,7 +16,7 @@ slug: hackforchange
   }
 
   #title {
-    z-index: 2;
+    z-index: 3;
     left: 49%;
   }
 
@@ -28,6 +29,7 @@ slug: hackforchange
   }
   
   #topbar {
+    z-index: 2;
     position: fixed;
     top: 0;
     left: 0;
@@ -35,7 +37,7 @@ slug: hackforchange
     height: 50px;
     width: 100%;
   }
-  
+    
   .red {
     color: #cf1b41;
   }
@@ -54,6 +56,27 @@ slug: hackforchange
     #title div {
       font-size: 2em;
     }
+  }
+  
+  .signup:hover {
+    color: white;
+  }
+  
+  .signup {
+    text-align: center;
+    color: #eee;
+    display: block;
+  }
+  
+  .signup img {
+    width: 300px;
+  }
+  .signup span {
+    position: absolute;
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 20px;
   }
 </style>
 
@@ -77,19 +100,36 @@ slug: hackforchange
 
   <div id="topbar"
        data-0="transform:translate(0,-100%);"
-       data-_needle="transform:translate(0,0%);"></div>
+       data-_needle="transform:translate(0,0%);">
+       <div class="share" style="width:300px; padding-top:10px;">
+      <a class="icon-twitter" href="https://twitter.com/share?text=Join me at Hack for Change Seattle!&url=http://codeforseattle.org/hackforchange"
+          onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+          <span class="hidden">Twitter</span></a>
+      <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://codeforseattle.org/hackforchange"
+          onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+          <span class="hidden">Facebook</span></a>
+      <a class="icon-google-plus" href="https://plus.google.com/share?url=http://codeforseattle.org/hackforchange"
+         onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+          <span class="hidden">Google+</span></a>
+        </div>
+  </div>
 
   <div class="container">
-    <h3 class="center-text">Find out when more info is available:</h3>
-    {% include newsletter.html %}
+    <a href='http://www.meetup.com/Code-for-Seattle/events/175917132/'
+       class='signup'>
+       <span>
+      Sign up free on
+    </span>
+      <img id="meetup" alt="meetup" src="/images/meetup.jpg">
+    </a>
 
     <h3 style="text-align:center;"><b>May 31</b> <i>at</i> <b>Seattle City Hall</b></h3>
 
-    <p><b>The goal:</b> bring together technologists, entrepreneurs, social activists, designers, and citizens to improve address civic issues in Seattle communities and the governments that serve them.</p>
+    <p><b>The goal:</b> bring together technologists, entrepreneurs, social activists, designers, and citizens to address civic issues in Seattle.</p>
 
     <p><b>Anyone can participate</b> You don’t have to be an expert in technology, but you do have to care about your neighborhood and community.</p>
 
-    <p>The Seattle event is one of dozens planned around the country, and will be <b>part hackathon, part unconference</b>. We're looking for speakers for the morning and suggestions for projects that teams will work on for the remainder of the day.</p>
+    <p>The Seattle event is one of dozens planned around the country, and will be <b>part hackathon, part unconference</b>. We're looking for speakers for the morning and project suggestions that teams will work on for the rest of the day.</p>
 
     <h3>Schedule:</h3>
     <ul>
@@ -103,13 +143,13 @@ slug: hackforchange
 
     <div class="share">
       <h4>Share Hack for Change Seattle:</h4>
-      <a class="icon-twitter" href="https://twitter.com/share?text=Join me at Hack for Change Seattle!&url=http://codeforseattle.com/hackforchange"
+      <a class="icon-twitter" href="https://twitter.com/share?text=Join me at Hack for Change Seattle!&url=http://codeforseattle.org/hackforchange"
           onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
           <span class="hidden">Twitter</span></a>
-      <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://codeforseattle.com/hackforchange"
+      <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://codeforseattle.org/hackforchange"
           onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
           <span class="hidden">Facebook</span></a>
-      <a class="icon-google-plus" href="https://plus.google.com/share?url=http://codeforseattle.com/hackforchange"
+      <a class="icon-google-plus" href="https://plus.google.com/share?url=http://codeforseattle.org/hackforchange"
          onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
           <span class="hidden">Google+</span></a>
     <div>
