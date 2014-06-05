@@ -5,6 +5,8 @@ published: true
 layout: post
 type: post
 image: "http://www.socrata.com/wp-content/uploads/2014/02/output.jpg"
+image_credit: Chris Metcalf
+image_credit_url: "https://socrata.com"
 ---
 
 Hackers attended CodeAcross Seattle, but it wasn't just a hackathon. 

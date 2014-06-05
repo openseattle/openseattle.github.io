@@ -14,7 +14,10 @@ layout: default
 <main role="main">
   <div class="container">
     <div class="inner-wrapper">
-      <p><img src="{{ page.image }}" class="post-image"></p>
+      <p>
+        <img src="{{ page.image }}" class="post-image"><br>
+        <i>Photo by <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></i>
+      </p>
     	<h1 class="post-title">{{ page.title }}</h1>
       <div class="post-content">{{ content }}</div>
     </div>
