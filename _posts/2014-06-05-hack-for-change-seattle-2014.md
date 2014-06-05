@@ -171,4 +171,4 @@ _Photo by [Will Scott](https://plus.google.com/photos/+WillScottName/albums/6020
 The urban innovation award went to the Hacking Pedestrian and Bicycle counters team.
 
 ### This post is open source!
-Spot a typo or need to make additions to your team's description? [Find this post in the GitHub repo for this site]().
+Spot a typo or need to make additions to your team's description? [Find this post in the GitHub repo for this site](https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_posts/2014-06-05-hack-for-change-seattle-2014.md).
