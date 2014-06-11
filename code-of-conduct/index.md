@@ -1,12 +1,13 @@
 ---
-title: "Code for Seattle Code of Conduct"
+title: "Code of Conduct"
 slug: code-of-conduct
-layout: post
+layout: page
 ---
 
-Code for America network activities and events should foster meaningful collaboration between participants, community partners, and government partners.
+Code for Seattle activities and events should foster meaningful collaboration between participants, community partners, and government partners.
 
-- The Code for Seattle community expects that Code for Seattle network activities and events:
+The Code for Seattle community expects that Code for Seattle activities and events:
+
 - Are a safe and respectful environment for all participants.
 - Are a place where people are free to fully express their identities.
 - Presume the value of others. Everyone’s ideas, skills, and contributions have value.
@@ -19,6 +20,6 @@ Code for America network activities and events should foster meaningful collabor
 - Actively involve community groups and those with subject matter expertise in the decision-making process.
 - Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 
-Code for Seattle reserves the right to ask anyone in violation of these policies not to participate in Code for America events or network activities.
+Code for Seattle reserves the right to ask anyone in violation of these policies not to participate in Code for Seattle events or network activities.
 
 _Adapted from national Code for America code of conduct._

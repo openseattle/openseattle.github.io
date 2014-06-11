@@ -4,22 +4,18 @@
     <meta charset="utf-8">
     <title>
       {% if page.title %}
-        {{ page.title }}
+        {{ page.title }} ~ Code for Seattle
       {% else %}
-        {{ site.content.title }}
+        {{ site.content.title }} 
       {% endif %}
     </title>
     <meta name="description" content="{{site.meta-description}}">
     <meta name="viewport" content="initial-scale=1.0">
-
-    <!-- FAVICON -->
     <link rel="shortcut icon" href="/favicon.ico" />
-
     <link href="{{ site.baseurl }}/components/normalize-css/normalize.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/style.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/codeacross.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,400italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
+    <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="{{ site.baseurl }}/components/html5shiv/dist/html5shiv.js"></script>
     <![endif]-->

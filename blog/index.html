@@ -1,0 +1,16 @@
+---
+layout: page
+title: CfS Blog
+---
+
+<div class="posts section">
+  {% for post in site.posts %}
+    {% if post.published %}
+      <div class="post" id="{{ post.slug }}">
+        <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
+        <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

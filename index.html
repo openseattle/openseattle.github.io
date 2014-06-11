@@ -1,35 +1,30 @@
 ---
-layout: home
+layout: page
+title: Civic technology in Seattle, WA
 ---
 
-<h2 class="come-to-codeacross">Our next event:</h2>
-<p class="center-text"><a class="button red" href="/hackforchange/">Hack for Change Seattle</a></p>
-
-<hr>
-{% include upcoming.html %}
-
-{% include ndoch.html %}
-
-{% include civic-hacking.html %}
-
-{% include help-your-city.html %}
-
 <div class="posts section">
-	<h2 class="title">Recent posts:</h2>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:3 %}
     {% if post.published %}
       <div class="post" id="{{ post.slug }}">
         <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
         <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
-        <p><a href="{{ post.url }}">Continue reading</a></p>
       </div>
     {% endif %}
   {% endfor %}
+  <p><b><a href="{{site.baseurl}}/blog">More posts</a></b></p>
 </div>
 
-{% include projects.html %}
+<hr>
 
-{% include meetups.html %}
+<div style="text-align:center;">
+<h2>Join our meetup group to get event announcements</h2>
+<p>On our meetup group we announce the weekly civic hacking nights, <br>hackathons, and other events.</p>
+<p><a href="http://meetup.com/code-for-seattle" class="button" target="_blank">Join the CfS meetup group</a></p>
 
-{% include contact.html %}
+<hr>
+<h2 style="margin-bottom:10px;">Get updates about our projects:</h2>
+<p>Join the Code for Seattle email newsletter to get updates about our projects. Emails are sent at most once a week, and provide a look at what's new with CfS.</p>
+<div>{% include newsletter.html %}</div>
+</div>

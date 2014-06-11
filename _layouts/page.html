@@ -2,19 +2,28 @@
 layout: default
 ---
 
-<header class="page">
-  <div class="container">
+<div class="container">
+  <header class="page">
     <div class="inner-wrapper">
       {% include header-page.html %}
+      <h1 class="site-title">Code <span>for</span> Seattle</h1>
+      <p class="site-description"><i>Seattle residents using technology to support civic engagement and address local issues.</i></p>
       {% include navbar.html %}
+      <p style="text-align: center; margin-bottom:0px;"><a href="https://twitter.com/code4seattle" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @code4seattle</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+      <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FCodeForSeattle&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=1403685376571754" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:62px;" allowTransparency="true"></iframe>
     </div>
-  </div>
-</header>
+  </header>
 
-<main role="main">
-  <div class="container">
+  <main role="main">
     <div class="inner-wrapper">
-      {{ content }}
+      {% if page.image %}
+      <p>
+        <img src="{{ page.image }}" class="post-image"><br>
+        <i>Photo by <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></i>
+      </p>
+      {% endif %}
+      <h1 class="post-title">{{ page.title }}</h1>
+      <div class="post-content">{{ content }}</div>
     </div>
-  </div>    
-</main>
+  </main>
+</div> 

@@ -1,5 +1,12 @@
 baseurl: ""
 markdown: redcarpet
+permalink: /:categories/:year/:month/:day/:title
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
 
 brigade:
     name: Code for Seattle
@@ -36,7 +43,7 @@ content:
       - name: "Node.js LocalWiki client"
         card-img: "http://imgur.com/FTCRgDE.png"
         link: "https://github.com/codeforseattle/node-localwiki-client"
-    footer: "Thanks to Virginia Beach CfA for supplying this site's template, the Noun Project and brockamer@flikr for images,</br> and Jan Jorgensen for converting the template to Jekyll." 
+
 
 google-analytics:
     use: true

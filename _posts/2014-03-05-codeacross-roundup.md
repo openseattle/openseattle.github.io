@@ -2,7 +2,7 @@
 title: "Hacking together: creating a community of civic hackers at CodeAcross Seattle"
 slug: codeacross-2014-roundup
 published: true
-layout: post
+layout: page
 type: post
 image: "http://www.socrata.com/wp-content/uploads/2014/02/output.jpg"
 image_credit: Chris Metcalf

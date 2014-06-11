@@ -2,7 +2,7 @@
 title: "A roundup of the projects and activities from Seattle's National Day of Civic Hacking Event"
 slug: hack-for-change-seattle-2014
 published: true
-layout: post
+layout: page
 type: post
 image: "https://lh4.googleusercontent.com/-9emeat0N-FI/U4vyn6AmYOI/AAAAAAAAYwI/SF7vXkFnsVs/w928-h616-no/DSC_0099.jpg"
 image_credit: "Will Scott"

@@ -1,0 +1,19 @@
+{
+  "name": "codeforseattle.github.com",
+  "version": "0.0.0",
+  "description": "This is the repo for codeforseattle.org.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codeforseattle/codeforseattle.github.com.git"
+  },
+  "author": "sethvincent <sethvincent@gmail.com> (http://sethvincent.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeforseattle/codeforseattle.github.com/issues"
+  },
+  "homepage": "https://github.com/codeforseattle/codeforseattle.github.com"
+}
