@@ -13,13 +13,14 @@ Code for Seattle runs a weekly civic hacking night, as well as hackathons and ot
 On our meetup group we announce the weekly civic hacking nights, hackathons, and other events.
 
 <a href="http://meetup.com/code-for-seattle" class="button" target="_blank">Join the CfS meetup group</a>
-
+<hr>
 
 ## Projects
 
 Join the Code for Seattle email newsletter to get updates about our projects. Emails are sent at most once a week, and provide a look at what's new with CfS.
 
 {% include newsletter.html %}
+<hr>
 
 ## Code for Seattle is a "brigade" of Code for America
 
