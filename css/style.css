@@ -275,3 +275,43 @@ h1.post-title {
 .container {
   *zoom: 1;
 }
+
+/* ----- PROJECT LISTING ----- */
+
+.row {
+  overflow: auto;
+  margin-bottom: 20px;
+}
+
+.project-thumbnail {
+  overflow: hidden;
+}
+
+.project-thumbnail img {
+  max-width: 100%;
+  max-height: 300px;
+}
+
+.tag-cloud, .labels {
+  display: none;
+}
+
+.project-card {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+  overflow: auto;
+  margin-bottom: 10px;
+}
+
+.project-card h3 {
+  font-weight: bold !important;
+}
+
+.project-card dl, .project-card dd, .project-card dt {
+  margin: 0;
+  padding: 0;
+}
+
+.project-card td:first-child {
+  width: 120px;
+}
