@@ -14,7 +14,7 @@ LocalWiki a grassroots effort to collect, share, and open the world's local know
 
 Make sure that all the important information about your community is on the wiki.
 
-Links:
+### Links:
 - [http://localwiki.net/seattle](http://localwiki.net/seattle)
 
 ## City Website Research
