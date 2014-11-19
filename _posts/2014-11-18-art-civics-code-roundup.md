@@ -26,7 +26,7 @@ The code is on GitHub: [github.com/ethanpg/memory-lane](https://github.com/ethan
 
 ![](https://discuss.codeforseattle.org/uploads/default/40/02f7117a57c50d71.JPG)
 
-Josh Peterson & team worked on various ways of analyzing and visualizing comments from the Frye Museum's _#SocialMedium_ exhibit. Here is one of the visualizations created by Eric Valpey: https://public.tableausoftware.com/profile/valpey#!/vizhome/FryeComments/FryeComments
+Josh Peterson & team worked on various ways of analyzing and visualizing comments from the Frye Museum's _#SocialMedium_ exhibit. [Here is one of the visualizations created by Eric Valpey](https://public.tableausoftware.com/profile/valpey#!/vizhome/FryeComments/FryeComments). 
 
 ## Ambient, physical visualization of crime
 
