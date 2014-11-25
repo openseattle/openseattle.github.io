@@ -3,6 +3,10 @@ layout: page
 title: CfS Events
 ---
 
+This is a list of events organized by Code for Seattle & the events of other organizations that are relevant to civic engagement & technology.
+
+---
+
 _February 21, 2015_
 ### International Open Data Day
 We will organize a Seattle event in coordination with this! Check back here for more info.
