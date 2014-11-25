@@ -57,7 +57,7 @@ After you've made all the necessary changes, click the Pull Requests tab on the 
 
 On some pages it's collapsed, so all you'll see is the little icon.
 
-#### Click 'New Pull Request'
+### Click 'New Pull Request'
 
 Make sure to create a pull request to submit the changes in your repository to the codeforseattle.org/codeforseattle.github.com repository.
 
