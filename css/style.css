@@ -59,13 +59,34 @@ a:focus {
   color: #1e4062;
 }
 
-pre,
 code {
-  font-family: Monaco, Menlo, monospace;
   padding: 5px 10px;
-  background-color: #f8f8f8;
-  border: 1px solid #e2e2e2;
-  overflow: scroll;
+  background-color: #fcfcfa;
+  border: 1px solid #dadad8;
+  font-size: 16px;
+  border-radius: 3px;
+  white-space: nowrap
+}
+
+pre,
+pre.prettyprint
+.highlight pre {
+  font-size: 15px;
+  padding: 10px 15px;
+  background-color: #fcfcfa;
+  border: 1px solid #dadad8;
+  border-radius: 3px;
+  overflow: auto;
+  margin-bottom: 35px;
+}
+
+pre code,
+pre.prettyprint code,
+.highlight pre code {
+  background-color: none;
+  border: 0px;
+  padding: 0px;
+  white-space: pre;
 }
 
 hr {

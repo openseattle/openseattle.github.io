@@ -1,9 +1,7 @@
 ---
 title: "Art + Civics + Code roundup"
-slug: art-civics-code-roundup
 published: true
 layout: page
-type: post
 ---
 
 Our goals for [Art + Civics + Code](http://artcivicscode.com) were to get artists & technologists teamed up on addressing civic issues, and to build projects related to public art in Seattle.  One of the best outcomes of a hackathon is getting groups of people together who might not otherwise collaborate on projects to brainstorm and prototype solutions to problems they face in their communities. Art + Civics + Code was a playful event that produced fun & useful projects and brought out people who had never attended a hackathon before.
