@@ -1,444 +1,444 @@
-    - name: "Barn Cats 'R' Us"
-      description: null
-      project_tags: null
-      technology_tags: "rails"
-      code_url: "https://github.com/Cats-R-Us/CatTracker"
-      public_url: null
-      dev_status: "in progress"
-      contributors: "Al Boss"
-      screenshot_url: null
-      last_update: "6/1/2013"
-      notes: "From the 2013 National Day of Civic Hacking"
+- name: "Barn Cats 'R' Us"
+  description: null
+  project_tags: null
+  technology_tags: "rails"
+  code_url: "https://github.com/Cats-R-Us/CatTracker"
+  public_url: null
+  dev_status: "in progress"
+  contributors: "Al Boss"
+  screenshot_url: null
+  last_update: "6/1/2013"
+  notes: "From the 2013 National Day of Civic Hacking"
 
-    - name: "geosub"
-      description: null
-      project_tags: null
-      technology_tags: "python"
-      code_url: "https://github.com/willscott/geosub"
-      public_url: "???"
-      dev_status: "in progress"
-      contributors: "Will Scott"
-      screenshot_url: null
-      last_update: "8/21/2013"
-      notes: null
-    
-    - name: "Deglassified"
-      description: "A map of businesses with policies against Google Glass."
-      project_tags: "google glass, privacy, map"
-      technology_tags: "ruby, rails, javascript, angularjs"
-      code_url: "https://github.com/licyeus/deglassified"
-      public_url: "deglassified.com"
-      dev_status: "live"
-      contributors: "Andrew Sullivan, Andre Levi"
-      screenshot_url: "https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_1475/ZoZo?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1396503039&Signature=1hRODANobkUG%2Fbk6rLFDpFq0mF0%3D&response-content-disposition=inline%3B%20filename%3DScreenshot%20on%202014-04-02%20at%2021%3A30%3A26.png%3B"
-      last_update: "2/5/2014"
-      notes: null
-    
-    - name: "Seattle's Heritage Trees"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "https://github.com/tsibley/seattle-trees"
-      public_url: "http://tsibley.net/trees/seattle"
-      dev_status: "live"
-      contributors: "Thomas Sibley"
-      screenshot_url: null
-      last_update: "3/3/2014"
-      notes: null
-    
-    - name: "\"What Do I Do With...?\" recycling app"
-      description: "Dropoff locator for recyclables and other disposables in King County"
-      project_tags: "recycling"
-      technology_tags: "rails, javascript"
-      code_url: "https://github.com/audreycarlsen/recycling_app"
-      public_url: "www.wdidw.com"
-      dev_status: "live/ongoing"
-      contributors: "Audrey Carlsen"
-      screenshot_url: null
-      last_update: "4/24/2014"
-      notes: "Capstone project for Ada Developers Academy"
-    
-    - name: "Seattle Miscellaneous Maps"
-      description: "Mix and match maps, census, voting data for city council district demographics or anything else"
-      project_tags: null
-      technology_tags: "python, ipython notebook, google maps v3 javascript"
-      code_url: "https://github.com/lucasw/gis"
-      public_url: "http://lucasw.github.io/gmap/census.html"
-      dev_status: "in progress"
-      contributors: "Lucas Walter"
-      screenshot_url: "https://plus.google.com/photos/103190342755104432973/albums/6006090714189544113"
-      last_update: "6/12/2014"
-      notes: null
-    
-    - name: "Seattle Food Truck Map"
-      description: null
-      project_tags: "food trucks, map"
-      technology_tags: "ruby, rails, javascript, angular"
-      code_url: "https://github.com/licyeus/food-truck-map"
-      public_url: "seattlefoodtrucks.herokuapp.com"
-      dev_status: "abandoned"
-      contributors: null
-      screenshot_url: "https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_1475/keyM?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1396504311&Signature=1b94b29CcNx6pYsmzPn4QgrjH38%3D&response-content-disposition=inline%3B%20filename%3DScreenshot%20on%202014-04-02%20at%2021%3A46%3A41.png%3B"
-      last_update: null
-      notes: "hackathon project (2013 ndoch - slc)"
-    
-    - name: "Socrata SOAP2 ruby lib"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "closed source?"
-      public_url: null
-      dev_status: "in progress"
-      contributors: "Scott Francis"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Political Annotations Chrome Extension"
-      description: null
-      project_tags: null
-      technology_tags: "javascript"
-      code_url: "https://github.com/typpo/political-annotations"
-      public_url: "n/a"
-      dev_status: "in progress"
-      contributors: "Ian Webster, Alex Miranda"
-      screenshot_url: null
-      last_update: null
-      notes: "hackathon project"
-    
-    - name: "Seattle GeoJSON datasets"
-      description: null
-      project_tags: "data"
-      technology_tags: "json"
-      code_url: "https://github.com/licyeus/seattle-geojson"
-      public_url: null
-      dev_status: "in progress"
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Seattle One Night Count datasets"
-      description: null
-      project_tags: "data"
-      technology_tags: null
-      code_url: "https://github.com/licyeus/seattle-homeless-info"
-      public_url: null
-      dev_status: "in progress"
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Splitting the Bill"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "https://github.com/jgerrish/splittingthebill"
-      public_url: "n/a"
-      dev_status: "in progress"
-      contributors: "Josh"
-      screenshot_url: null
-      last_update: null
-      notes: "legislative text parsing"
-    
-    - name: "seattle.io"
-      description: "A guide to Seattle neighborhoods & communities."
-      project_tags: null
-      technology_tags: null
-      code_url: "https://github.com/seattleio/seattle.io"
-      public_url: "http://new.seattle.io"
-      dev_status: "in progress"
-      contributors: "Seth Vincent"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "\"The Hood Ain't The Same\" mapping of change in the Central District to the Draze music vid."
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "https://docs.google.com/spreadsheet/ccc?key=0AiQOWflhaV6bdDFOS3FuSU5CS3lZQnNTVW4tQVp1cEE&usp=sharing"
-      public_url: null
-      dev_status: "in progress"
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Local development permit map"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "closed source?"
-      public_url: null
-      dev_status: "in progress?"
-      contributors: "Ethan Phelps-Goodman"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Seattle LocalWiki"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "http://github.com/localwiki/localwiki"
-      public_url: "http://seattlewiki.net"
-      dev_status: "live"
-      contributors: "Seth Vincent"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "ActivateHub"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "https://github.com/activate/ActivateHub"
-      public_url: "http://activatehub.org/"
-      dev_status: "live & ongoing"
-      contributors: "Lindsay Caron"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "DemocracyLab"
-      description: "Participation environment for users, developers, and supporters of Civic Tech"
-      project_tags: null
-      technology_tags: null
-      code_url: "https://github.com/DemocracyLab"
-      public_url: "www.democracylab.org"
-      dev_status: "live/in progress"
-      contributors: "Mark Frischmuth"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "nwdata.org"
-      description: "A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest."
-      project_tags: "data, resources"
-      technology_tags: "html, css"
-      code_url: "https://github.com/sethvincent/nwdata.org"
-      public_url: "http://nwdata.org"
-      dev_status: "live"
-      contributors: "Seth Vincent"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Seattle Blogs"
-      description: "Tracking all the blogs and online publications in the Seattle area."
-      project_tags: "data, news"
-      technology_tags: "javascript"
-      code_url: "https://github.com/sethvincent/seattle-blogs"
-      public_url: null
-      dev_status: null
-      contributors: "Seth Vincent"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Streetlight Seattle Reporter"
-      description: null
-      project_tags: null
-      technology_tags: "android"
-      code_url: "https://github.com/jsfrost/StreetlightSeattleReporter"
-      public_url: null
-      dev_status: null
-      contributors: "Jerry Frost"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Live Music Project"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "closed source?"
-      public_url: "http://livemusicproject.org"
-      dev_status: null
-      contributors: "Shaya"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "LocalWiki JavaScript client"
-      description: "Use the data from LocalWiki in your JavaScript projects!"
-      project_tags: null
-      technology_tags: null
-      code_url: "https://github.com/codeforseattle/node-localwiki-client"
-      public_url: null
-      dev_status: null
-      contributors: "Seth Vincent, Will Scott"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "LocalWiki Ruby client"
-      description: "Use the data from LocalWiki in your Ruby projects!"
-      project_tags: null
-      technology_tags: "ruby"
-      code_url: "https://github.com/codeforseattle/localwiki_client"
-      public_url: null
-      dev_status: null
-      contributors: "Brandon Faloona, hcanzl, Seth Vincent"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Seattle Open Data Policy proposal"
-      description: ""
-      project_tags: null
-      technology_tags: null
-      code_url: "http://bit.ly/SeattleDataPolicy"
-      public_url: null
-      dev_status: null
-      contributors: "Tre, Andrew, Candace, ..."
-      screenshot_url: null
-      last_update: null
-      notes: "#CodeAcrossSea"
-    
-    - name: "Seattle Data Inventory"
-      description: "An inventory of the most interesting data available from data.seattle.gov"
-      project_tags: "data"
-      technology_tags: null
-      code_url: "http://seattlewiki.net/Open_Data_Resources"
-      public_url: null
-      dev_status: null
-      contributors: "Shelly"
-      screenshot_url: null
-      last_update: null
-      notes: "#CodeAcrossSea"
-    
-    - name: "Legislative Data Scraping"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: null
-      public_url: null
-      dev_status: null
-      contributors: "Pat"
-      screenshot_url: null
-      last_update: null
-      notes: "#CodeAcrossSea"
-    
-    - name: "Realtime Transit Data"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "https://github.com/domoritz/live-bus-seattle"
-      public_url: "http://domoritz.de/live-bus-seattle/#12/47.6210/-122.3328"
-      dev_status: null
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: "#CodeAcrossSea"
-    
-    - name: "Stolen Bike App"
-      description: null
-      project_tags: null
-      technology_tags: "node"
-      code_url: "https://github.com/lcdvirgo/stolenbikesSEA"
-      public_url: "http://bike.jumis.com/index.html"
-      dev_status: null
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: "#CodeAcrossSea"
-    
-    - name: "Seattle Broadband Map"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: null
-      public_url: null
-      dev_status: null
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: "#CodeAcrossSea"
-    
-    - name: "OpenStreetMap"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: null
-      public_url: null
-      dev_status: null
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "CKAN data inventory"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: null
-      public_url: null
-      dev_status: null
-      contributors: "Chris Metcalf"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Seattle Icons"
-      description: null
-      project_tags: "design"
-      technology_tags: null
-      code_url: "http://github.com/codeforseattle/seattle-icons"
-      public_url: "seattleicons.org"
-      dev_status: null
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Seattle Metro Cuts"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "http://github.com/codeforseattle/metrocuts"
-      public_url: "codeforseattle.org/metrocuts"
-      dev_status: null
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Duwamish River Cleanup"
-      description: null
-      project_tags: null
-      technology_tags: null
-      code_url: "https://github.com/garagelab/qpr2"
-      public_url: null
-      dev_status: null
-      contributors: "Jacob Caggiano"
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Washington Homelessness"
-      description: "Goal is to provide a dashboard to access & visualize open data for homelessness"
-      project_tags: "homelessness"
-      technology_tags: "mapping, d3js"
-      code_url: "https://github.com/livingwa"
-      public_url: "livingwa.github.io"
-      dev_status: null
-      contributors: null
-      screenshot_url: null
-      last_update: null
-      notes: null
-    
-    - name: "Seattle Open Trip Planner"
-      description: "Open Trip planner instance for Seattle, with real-time transit data & additional plans for car2go, Pronto Bikeshare, etc."
-      project_tags: null
-      technology_tags: null
-      code_url: null
-      public_url: null
-      dev_status: null
-      contributors: "Andrew Sorensen"
-      screenshot_url: null
-      last_update: null
-      notes: null
+- name: "geosub"
+  description: null
+  project_tags: null
+  technology_tags: "python"
+  code_url: "https://github.com/willscott/geosub"
+  public_url: "???"
+  dev_status: "in progress"
+  contributors: "Will Scott"
+  screenshot_url: null
+  last_update: "8/21/2013"
+  notes: null
+
+- name: "Deglassified"
+  description: "A map of businesses with policies against Google Glass."
+  project_tags: "google glass, privacy, map"
+  technology_tags: "ruby, rails, javascript, angularjs"
+  code_url: "https://github.com/licyeus/deglassified"
+  public_url: "deglassified.com"
+  dev_status: "live"
+  contributors: "Andrew Sullivan, Andre Levi"
+  screenshot_url: "https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_1475/ZoZo?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1396503039&Signature=1hRODANobkUG%2Fbk6rLFDpFq0mF0%3D&response-content-disposition=inline%3B%20filename%3DScreenshot%20on%202014-04-02%20at%2021%3A30%3A26.png%3B"
+  last_update: "2/5/2014"
+  notes: null
+
+- name: "Seattle's Heritage Trees"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "https://github.com/tsibley/seattle-trees"
+  public_url: "http://tsibley.net/trees/seattle"
+  dev_status: "live"
+  contributors: "Thomas Sibley"
+  screenshot_url: null
+  last_update: "3/3/2014"
+  notes: null
+
+- name: "\"What Do I Do With...?\" recycling app"
+  description: "Dropoff locator for recyclables and other disposables in King County"
+  project_tags: "recycling"
+  technology_tags: "rails, javascript"
+  code_url: "https://github.com/audreycarlsen/recycling_app"
+  public_url: "www.wdidw.com"
+  dev_status: "live/ongoing"
+  contributors: "Audrey Carlsen"
+  screenshot_url: null
+  last_update: "4/24/2014"
+  notes: "Capstone project for Ada Developers Academy"
+
+- name: "Seattle Miscellaneous Maps"
+  description: "Mix and match maps, census, voting data for city council district demographics or anything else"
+  project_tags: null
+  technology_tags: "python, ipython notebook, google maps v3 javascript"
+  code_url: "https://github.com/lucasw/gis"
+  public_url: "http://lucasw.github.io/gmap/census.html"
+  dev_status: "in progress"
+  contributors: "Lucas Walter"
+  screenshot_url: "https://plus.google.com/photos/103190342755104432973/albums/6006090714189544113"
+  last_update: "6/12/2014"
+  notes: null
+
+- name: "Seattle Food Truck Map"
+  description: null
+  project_tags: "food trucks, map"
+  technology_tags: "ruby, rails, javascript, angular"
+  code_url: "https://github.com/licyeus/food-truck-map"
+  public_url: "seattlefoodtrucks.herokuapp.com"
+  dev_status: "abandoned"
+  contributors: null
+  screenshot_url: "https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_1475/keyM?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1396504311&Signature=1b94b29CcNx6pYsmzPn4QgrjH38%3D&response-content-disposition=inline%3B%20filename%3DScreenshot%20on%202014-04-02%20at%2021%3A46%3A41.png%3B"
+  last_update: null
+  notes: "hackathon project (2013 ndoch - slc)"
+
+- name: "Socrata SOAP2 ruby lib"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "closed source?"
+  public_url: null
+  dev_status: "in progress"
+  contributors: "Scott Francis"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Political Annotations Chrome Extension"
+  description: null
+  project_tags: null
+  technology_tags: "javascript"
+  code_url: "https://github.com/typpo/political-annotations"
+  public_url: "n/a"
+  dev_status: "in progress"
+  contributors: "Ian Webster, Alex Miranda"
+  screenshot_url: null
+  last_update: null
+  notes: "hackathon project"
+
+- name: "Seattle GeoJSON datasets"
+  description: null
+  project_tags: "data"
+  technology_tags: "json"
+  code_url: "https://github.com/licyeus/seattle-geojson"
+  public_url: null
+  dev_status: "in progress"
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Seattle One Night Count datasets"
+  description: null
+  project_tags: "data"
+  technology_tags: null
+  code_url: "https://github.com/licyeus/seattle-homeless-info"
+  public_url: null
+  dev_status: "in progress"
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Splitting the Bill"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "https://github.com/jgerrish/splittingthebill"
+  public_url: "n/a"
+  dev_status: "in progress"
+  contributors: "Josh"
+  screenshot_url: null
+  last_update: null
+  notes: "legislative text parsing"
+
+- name: "seattle.io"
+  description: "A guide to Seattle neighborhoods & communities."
+  project_tags: null
+  technology_tags: null
+  code_url: "https://github.com/seattleio/seattle.io"
+  public_url: "http://new.seattle.io"
+  dev_status: "in progress"
+  contributors: "Seth Vincent"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "\"The Hood Ain't The Same\" mapping of change in the Central District to the Draze music vid."
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "https://docs.google.com/spreadsheet/ccc?key=0AiQOWflhaV6bdDFOS3FuSU5CS3lZQnNTVW4tQVp1cEE&usp=sharing"
+  public_url: null
+  dev_status: "in progress"
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Local development permit map"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "closed source?"
+  public_url: null
+  dev_status: "in progress?"
+  contributors: "Ethan Phelps-Goodman"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Seattle LocalWiki"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "http://github.com/localwiki/localwiki"
+  public_url: "http://seattlewiki.net"
+  dev_status: "live"
+  contributors: "Seth Vincent"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "ActivateHub"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "https://github.com/activate/ActivateHub"
+  public_url: "http://activatehub.org/"
+  dev_status: "live & ongoing"
+  contributors: "Lindsay Caron"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "DemocracyLab"
+  description: "Participation environment for users, developers, and supporters of Civic Tech"
+  project_tags: null
+  technology_tags: null
+  code_url: "https://github.com/DemocracyLab"
+  public_url: "www.democracylab.org"
+  dev_status: "live/in progress"
+  contributors: "Mark Frischmuth"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "nwdata.org"
+  description: "A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest."
+  project_tags: "data, resources"
+  technology_tags: "html, css"
+  code_url: "https://github.com/sethvincent/nwdata.org"
+  public_url: "http://nwdata.org"
+  dev_status: "live"
+  contributors: "Seth Vincent"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Seattle Blogs"
+  description: "Tracking all the blogs and online publications in the Seattle area."
+  project_tags: "data, news"
+  technology_tags: "javascript"
+  code_url: "https://github.com/sethvincent/seattle-blogs"
+  public_url: null
+  dev_status: null
+  contributors: "Seth Vincent"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Streetlight Seattle Reporter"
+  description: null
+  project_tags: null
+  technology_tags: "android"
+  code_url: "https://github.com/jsfrost/StreetlightSeattleReporter"
+  public_url: null
+  dev_status: null
+  contributors: "Jerry Frost"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Live Music Project"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "closed source?"
+  public_url: "http://livemusicproject.org"
+  dev_status: null
+  contributors: "Shaya"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "LocalWiki JavaScript client"
+  description: "Use the data from LocalWiki in your JavaScript projects!"
+  project_tags: null
+  technology_tags: null
+  code_url: "https://github.com/codeforseattle/node-localwiki-client"
+  public_url: null
+  dev_status: null
+  contributors: "Seth Vincent, Will Scott"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "LocalWiki Ruby client"
+  description: "Use the data from LocalWiki in your Ruby projects!"
+  project_tags: null
+  technology_tags: "ruby"
+  code_url: "https://github.com/codeforseattle/localwiki_client"
+  public_url: null
+  dev_status: null
+  contributors: "Brandon Faloona, hcanzl, Seth Vincent"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Seattle Open Data Policy proposal"
+  description: ""
+  project_tags: null
+  technology_tags: null
+  code_url: "http://bit.ly/SeattleDataPolicy"
+  public_url: null
+  dev_status: null
+  contributors: "Tre, Andrew, Candace, ..."
+  screenshot_url: null
+  last_update: null
+  notes: "#CodeAcrossSea"
+
+- name: "Seattle Data Inventory"
+  description: "An inventory of the most interesting data available from data.seattle.gov"
+  project_tags: "data"
+  technology_tags: null
+  code_url: "http://seattlewiki.net/Open_Data_Resources"
+  public_url: null
+  dev_status: null
+  contributors: "Shelly"
+  screenshot_url: null
+  last_update: null
+  notes: "#CodeAcrossSea"
+
+- name: "Legislative Data Scraping"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: null
+  public_url: null
+  dev_status: null
+  contributors: "Pat"
+  screenshot_url: null
+  last_update: null
+  notes: "#CodeAcrossSea"
+
+- name: "Realtime Transit Data"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "https://github.com/domoritz/live-bus-seattle"
+  public_url: "http://domoritz.de/live-bus-seattle/#12/47.6210/-122.3328"
+  dev_status: null
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: "#CodeAcrossSea"
+
+- name: "Stolen Bike App"
+  description: null
+  project_tags: null
+  technology_tags: "node"
+  code_url: "https://github.com/lcdvirgo/stolenbikesSEA"
+  public_url: "http://bike.jumis.com/index.html"
+  dev_status: null
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: "#CodeAcrossSea"
+
+- name: "Seattle Broadband Map"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: null
+  public_url: null
+  dev_status: null
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: "#CodeAcrossSea"
+
+- name: "OpenStreetMap"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: null
+  public_url: null
+  dev_status: null
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "CKAN data inventory"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: null
+  public_url: null
+  dev_status: null
+  contributors: "Chris Metcalf"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Seattle Icons"
+  description: null
+  project_tags: "design"
+  technology_tags: null
+  code_url: "http://github.com/codeforseattle/seattle-icons"
+  public_url: "seattleicons.org"
+  dev_status: null
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Seattle Metro Cuts"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "http://github.com/codeforseattle/metrocuts"
+  public_url: "codeforseattle.org/metrocuts"
+  dev_status: null
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Duwamish River Cleanup"
+  description: null
+  project_tags: null
+  technology_tags: null
+  code_url: "https://github.com/garagelab/qpr2"
+  public_url: null
+  dev_status: null
+  contributors: "Jacob Caggiano"
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Washington Homelessness"
+  description: "Goal is to provide a dashboard to access & visualize open data for homelessness"
+  project_tags: "homelessness"
+  technology_tags: "mapping, d3js"
+  code_url: "https://github.com/livingwa"
+  public_url: "livingwa.github.io"
+  dev_status: null
+  contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Seattle Open Trip Planner"
+  description: "Open Trip planner instance for Seattle, with real-time transit data & additional plans for car2go, Pronto Bikeshare, etc."
+  project_tags: null
+  technology_tags: null
+  code_url: null
+  public_url: null
+  dev_status: null
+  contributors: "Andrew Sorensen"
+  screenshot_url: null
+  last_update: null
+  notes: null
 
