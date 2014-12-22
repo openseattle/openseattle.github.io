@@ -45,12 +45,15 @@ h2, h3, h4 {
   margin-top: 10px;
 }
 
+h2 {
+  font-size: 30px;
+}
 h3 {
-  font-size: 24px;
+  font-size: 26px;
 }
 
 h4 {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 a {
