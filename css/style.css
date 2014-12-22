@@ -45,6 +45,14 @@ h2, h3, h4 {
   margin-top: 10px;
 }
 
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
 a {
   color: #3c80c3;
   text-decoration: none;
@@ -99,7 +107,8 @@ hr {
 }
 
 b, strong {
-  font-weight: 900;
+  font-weight: 700;
+  color: #646461;
 }
 
 img {
