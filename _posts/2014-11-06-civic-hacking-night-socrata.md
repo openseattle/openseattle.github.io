@@ -14,3 +14,5 @@ Part of the joy of civic engagement is sharing what we know through working on p
 Do your part to increase civic engagement through technology and attend the next event!
 
 See some photos from the event here:  [meetup.com/Code-for-Seattle/events/216707352](http://www.meetup.com/Code-for-Seattle/events/216707352/)
+
+![people at the event](http://photos1.meetupstatic.com/photos/event/2/0/4/0/600_431408256.jpeg)
