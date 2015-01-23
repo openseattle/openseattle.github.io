@@ -1,0 +1,18 @@
+main.open-data-day {
+  width: 100%;
+  float: none;
+}
+
+main.open-data-day .page-header {
+  text-align: center;
+}
+
+main.open-data-day img.logo {
+  border: 0px;
+  width: 250px;
+  height: auto;
+}
+
+main.open-data-day h1.title {
+  font-size: 30px;
+}
