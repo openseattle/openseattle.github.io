@@ -16,3 +16,38 @@ main.open-data-day img.logo {
 main.open-data-day h1.title {
   font-size: 30px;
 }
+
+main.open-data-day h2.about {
+  font-size: 36px;
+  font-weight: 100;
+}
+
+main.open-data-day abbr {
+  border-bottom: 1px dashed #DDD;
+}
+
+main details {
+  width: 500px;
+  margin: auto;
+}
+
+main details::before {
+  content: "{";
+  color: #9dd;
+  padding-right: 10px;
+  font-size: 150px;
+  float: left;
+  font-family: sans-serif;
+  line-height: 1.0;
+}
+
+details > item {
+  padding-top: 10px;
+  display: block;
+  text-align: left;
+}
+
+details > item span {
+  display: inline-block;
+  vertical-align: middle;
+}
