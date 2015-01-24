@@ -26,12 +26,12 @@ main.open-data-day abbr {
   border-bottom: 1px dashed #DDD;
 }
 
-main details {
+main event {
   width: 500px;
   margin: auto;
 }
 
-main details::before {
+main event::before {
   content: "{";
   color: #9dd;
   padding-right: 10px;
@@ -41,13 +41,13 @@ main details::before {
   line-height: 1.0;
 }
 
-details > item {
+event > item {
   padding-top: 10px;
   display: block;
   text-align: left;
 }
 
-details > item span {
+event > item span {
   display: inline-block;
   vertical-align: middle;
 }
