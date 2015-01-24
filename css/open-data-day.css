@@ -29,6 +29,7 @@ main.open-data-day abbr {
 main event {
   width: 500px;
   margin: auto;
+  display: block;
 }
 
 main event::before {
