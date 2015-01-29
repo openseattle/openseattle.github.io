@@ -95,3 +95,15 @@ main.open-data-day .prompts li {
   margin: 0px auto 5px auto;
   padding: 10px 20px;
 }
+
+main.open-data-day .sponsor-logos {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+main.open-data-day .sponsor-logos img {
+  width: 200px;
+  display: inline-block;
+  border: 0px;
+  margin: 25px;
+}
