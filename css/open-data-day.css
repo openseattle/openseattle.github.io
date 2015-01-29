@@ -27,8 +27,8 @@ main.open-data-day abbr {
 }
 
 main event {
-  width: 500px;
-  margin: auto;
+  width: 400px;
+  margin: 50px auto 80px auto;
   display: block;
 }
 
@@ -52,3 +52,4 @@ event > item span {
   display: inline-block;
   vertical-align: middle;
 }
+
