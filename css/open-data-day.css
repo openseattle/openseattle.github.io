@@ -112,3 +112,36 @@ main.open-data-day .sponsor-logos img {
   border: 0px;
   margin: 25px;
 }
+
+#schedule-table {
+  margin: auto;
+  border-spacing: 0;
+}
+
+#schedule-table .brace {
+  color: #9dd;
+  font-family: sans-serif;
+  line-height: 1.0;  
+}
+
+#schedule-table .r {
+  text-align: right;
+}
+
+#schedule-table .fivetall {
+  font-size: 150px;
+}
+
+#schedule-table .threetall {
+  font-size: 75px;
+}
+
+#schedule-table .aside {
+  vertical-align: middle;
+  display: inline-block;
+  font-size: 12pt;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #708d8d;
+}
