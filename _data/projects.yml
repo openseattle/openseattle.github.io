@@ -309,3 +309,15 @@
   screenshot_url: null
   last_update: null
   notes: null
+
+- name: "Citizen Input"
+  description: "A crowdsourcing platform for discovering great new candidates for public office and a real-time report of each candidate's relative popularity."
+  project_tags: "open government, transparency"
+  technology_tags: "django, heroku, html, mobile"
+  code_url: "https://github.com/citizen-input-project"
+  public_url: "http://www.citizeninput.org/"
+  dev_status: "in progress"
+  contributors: "Charles Hymes, Qays Poonawala"
+  screenshot_url: null
+  last_update: "01/29/2015"
+  notes: null
