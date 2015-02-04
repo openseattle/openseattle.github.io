@@ -328,8 +328,23 @@ h1.post-title {
   max-height: 300px;
 }
 
-.tag-cloud, .labels {
-  display: none;
+.tag-cloud, .labels .label {
+  font-size: 80%;
+  background-color: #f3f3f0;
+  padding: 3px 5px;
+}
+
+.tag-cloud, .labels .label:before {
+  content: '#';
+  font-size: 80%;
+}
+
+.contributors .contributor:after {
+  content: ','
+}
+
+.contributors .contributor:last-child:after {
+  content: ''
 }
 
 .project-card {

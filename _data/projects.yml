@@ -1,7 +1,7 @@
 - name: "nwdata.org"
   description: "A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest."
-  project_tags: "data, resources"
-  technology_tags: "html, css"
+  project_tags: [data, resources]
+  technology_tags: [html, css]
   code_url: "https://github.com/sethvincent/nwdata.org"
   public_url: "http://nwdata.org"
   dev_status: "live"
@@ -24,8 +24,8 @@
 
 - name: "What Do I Do With...? recycling app"
   description: "Dropoff locator for recyclables and other disposables in King County"
-  project_tags: "recycling"
-  technology_tags: "rails, javascript"
+  project_tags: recycling
+  technology_tags: [rails, javascript]
   code_url: "https://github.com/audreycarlsen/recycling_app"
   public_url: "www.wdidw.com"
   dev_status: "live/ongoing"
@@ -58,16 +58,40 @@
   last_update: null
   notes: null
 
-- name: "Deglassified"
-  description: "A map of businesses with policies against Google Glass."
-  project_tags: "google glass, privacy, map"
-  technology_tags: "ruby, rails, javascript, angularjs"
-  code_url: "https://github.com/licyeus/deglassified"
-  public_url: "deglassified.com"
-  dev_status: "live"
-  contributors: "Andrew Sullivan, Andre Levi"
-  screenshot_url: "https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_1475/ZoZo?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1396503039&Signature=1hRODANobkUG%2Fbk6rLFDpFq0mF0%3D&response-content-disposition=inline%3B%20filename%3DScreenshot%20on%202014-04-02%20at%2021%3A30%3A26.png%3B"
-  last_update: "2/5/2014"
+- name: "LocalWiki JavaScript client"
+  description: "Use the data from LocalWiki in your JavaScript projects!"
+  project_tags: null
+  technology_tags: [javascript, node, api]
+  code_url: "https://github.com/codeforseattle/node-localwiki-client"
+  public_url: null
+  dev_status: null
+  contributors: [Seth Vincent, Will Scott]
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "LocalWiki Ruby client"
+  description: "Use the data from LocalWiki in your Ruby projects!"
+  project_tags: null
+  technology_tags: [ruby, api]
+  code_url: "https://github.com/codeforseattle/localwiki_client"
+  public_url: null
+  dev_status: null
+  contributors: [Brandon Faloona, hcanzl, Seth Vincent]
+  screenshot_url: null
+  last_update: null
+  notes: null
+
+- name: "Citizen Input"
+  description: "A crowdsourcing platform for discovering great new candidates for public office and a real-time report of each candidate's relative popularity."
+  project_tags: [open government, transparency]
+  technology_tags: [django, heroku, html, mobile]
+  code_url: "https://github.com/citizen-input-project"
+  public_url: "http://www.citizeninput.org/"
+  dev_status: "in progress"
+  contributors: [Charles Hymes, Qays Poonawala]
+  screenshot_url: null
+  last_update: "01/29/2015"
   notes: null
 
 - name: "Seattle's Heritage Trees"
@@ -85,7 +109,7 @@
 - name: "Seattle Miscellaneous Maps"
   description: "Mix and match maps, census, voting data for city council district demographics or anything else"
   project_tags: null
-  technology_tags: "python, ipython notebook, google maps v3 javascript"
+  technology_tags: [python, ipython notebook, google maps v3, javascript]
   code_url: "https://github.com/lucasw/gis"
   public_url: "http://lucasw.github.io/gmap/census.html"
   dev_status: "in progress"
@@ -97,19 +121,19 @@
 - name: "Political Annotations Chrome Extension"
   description: null
   project_tags: null
-  technology_tags: "javascript"
+  technology_tags: javascript
   code_url: "https://github.com/typpo/political-annotations"
   public_url: "n/a"
   dev_status: "in progress"
-  contributors: "Ian Webster, Alex Miranda"
+  contributors: [Ian Webster, Alex Miranda]
   screenshot_url: null
   last_update: null
   notes: "hackathon project"
 
 - name: "Seattle GeoJSON datasets"
   description: null
-  project_tags: "data"
-  technology_tags: "json"
+  project_tags: data
+  technology_tags: json
   code_url: "https://github.com/licyeus/seattle-geojson"
   public_url: null
   dev_status: "in progress"
@@ -120,7 +144,7 @@
 
 - name: "Seattle One Night Count datasets"
   description: null
-  project_tags: "data"
+  project_tags: data
   technology_tags: null
   code_url: "https://github.com/licyeus/seattle-homeless-info"
   public_url: null
@@ -134,8 +158,8 @@
   description: "A guide to Seattle neighborhoods & communities."
   project_tags: null
   technology_tags: null
-  code_url: "https://github.com/seattleio/seattle.io"
-  public_url: "http://new.seattle.io"
+  code_url: "https://github.com/seattleio"
+  public_url: "http://seattle.io"
   dev_status: "in progress"
   contributors: "Seth Vincent"
   screenshot_url: null
@@ -159,7 +183,7 @@
   project_tags: null
   technology_tags: null
   code_url: "https://github.com/DemocracyLab"
-  public_url: "www.democracylab.org"
+  public_url: "http://www.democracylab.org"
   dev_status: "live/in progress"
   contributors: "Mark Frischmuth"
   screenshot_url: null
@@ -168,8 +192,8 @@
 
 - name: "Seattle Blogs"
   description: "Tracking all the blogs and online publications in the Seattle area."
-  project_tags: "data, news"
-  technology_tags: "javascript"
+  project_tags: [data, news]
+  technology_tags: javascript
   code_url: "https://github.com/sethvincent/seattle-blogs"
   public_url: null
   dev_status: null
@@ -202,30 +226,6 @@
   last_update: null
   notes: null
 
-- name: "LocalWiki JavaScript client"
-  description: "Use the data from LocalWiki in your JavaScript projects!"
-  project_tags: null
-  technology_tags: null
-  code_url: "https://github.com/codeforseattle/node-localwiki-client"
-  public_url: null
-  dev_status: null
-  contributors: "Seth Vincent, Will Scott"
-  screenshot_url: null
-  last_update: null
-  notes: null
-
-- name: "LocalWiki Ruby client"
-  description: "Use the data from LocalWiki in your Ruby projects!"
-  project_tags: null
-  technology_tags: "ruby"
-  code_url: "https://github.com/codeforseattle/localwiki_client"
-  public_url: null
-  dev_status: null
-  contributors: "Brandon Faloona, hcanzl, Seth Vincent"
-  screenshot_url: null
-  last_update: null
-  notes: null
-
 - name: "Seattle Open Data Policy proposal"
   description: ""
   project_tags: null
@@ -233,14 +233,14 @@
   code_url: "http://bit.ly/SeattleDataPolicy"
   public_url: null
   dev_status: null
-  contributors: "Tre, Andrew, Candace, ..."
+  contributors: [Tre, Andrew, Candace, ...]
   screenshot_url: null
   last_update: null
   notes: "#CodeAcrossSea"
 
 - name: "Seattle Data Inventory"
   description: "An inventory of the most interesting data available from data.seattle.gov"
-  project_tags: "data"
+  project_tags: data
   technology_tags: null
   code_url: "http://seattlewiki.net/Open_Data_Resources"
   public_url: null
@@ -276,7 +276,7 @@
 
 - name: "Seattle Icons"
   description: null
-  project_tags: "design"
+  project_tags: design
   technology_tags: null
   code_url: "http://github.com/codeforseattle/seattle-icons"
   public_url: "seattleicons.org"
@@ -300,8 +300,8 @@
 
 - name: "Washington Homelessness"
   description: "Goal is to provide a dashboard to access & visualize open data for homelessness"
-  project_tags: "homelessness"
-  technology_tags: "mapping, d3js"
+  project_tags: homelessness
+  technology_tags: [mapping, d3js]
   code_url: "https://github.com/livingwa"
   public_url: "livingwa.github.io"
   dev_status: null
@@ -310,14 +310,14 @@
   last_update: null
   notes: null
 
-- name: "Citizen Input"
-  description: "A crowdsourcing platform for discovering great new candidates for public office and a real-time report of each candidate's relative popularity."
-  project_tags: "open government, transparency"
-  technology_tags: "django, heroku, html, mobile"
-  code_url: "https://github.com/citizen-input-project"
-  public_url: "http://www.citizeninput.org/"
-  dev_status: "in progress"
-  contributors: "Charles Hymes, Qays Poonawala"
-  screenshot_url: null
-  last_update: "01/29/2015"
+- name: "Deglassified"
+  description: "A map of businesses with policies against Google Glass."
+  project_tags: [google glass, privacy, map]
+  technology_tags: [ruby, rails, javascript, angularjs]
+  code_url: "https://github.com/licyeus/deglassified"
+  public_url: "deglassified.com"
+  dev_status: "live"
+  contributors: [Andrew Sullivan, Andre Levi]
+  screenshot_url: "https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_1475/ZoZo?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1396503039&Signature=1hRODANobkUG%2Fbk6rLFDpFq0mF0%3D&response-content-disposition=inline%3B%20filename%3DScreenshot%20on%202014-04-02%20at%2021%3A30%3A26.png%3B"
+  last_update: "2/5/2014"
   notes: null

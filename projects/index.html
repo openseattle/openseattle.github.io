@@ -3,7 +3,34 @@ layout: page
 title: CfS Projects
 ---
 
-{% include projects.html %}
+<div class="projects">
+
+<p>Take a look at some Seattle-based civic technology projects! Some of these are worked on at Code for Seattle meetups and some are great local examples of civic tech projects.</p>
+
+{% for project in site.data.projects %}
+  <h3>{{ project.name }}</h3>
+  <p>{{ project.description }}</p>
+  {% if project.public_url %}
+  <p><b>Website:</b> <a href="{{ project.public_url }}" target="_blank">{{ project.public_url }}</a></p>
+  {% endif %}
+  {% if project.code_url %}
+  <p><b>Code:</b> <a href="{{ project.code_url }}" target="_blank">{{ project.code_url }}</a></p>
+  {% endif %}
+  {% if project.contributors %}
+  <p class="contributors"><b>Contributors:</b> {% for c in project.contributors %}<span class="contributor">{{c}}</span> {% endfor %}</p>
+  {% endif %}
+  <p class="labels">
+    {% for tag in project.project_tags %}
+    <span class="label label-primary">{{tag}}</span>
+    {% endfor %}
+    {% for tag in project.technology_tags %}
+    <span class="label label-success">{{tag}}</span>
+    {% endfor %}
+  </p>  
+  <hr>
+{% endfor %}
+
+</div>
 
 <h2 style="margin-bottom:10px;">Get updates about Code for Seattle projects</h2>
 <p>Join the Code for Seattle email newsletter to get updates about our projects. Emails are sent once a month, and provide a look at what's new with CfS.</p>
