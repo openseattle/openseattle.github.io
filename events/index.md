@@ -8,8 +8,8 @@ This is a list of events organized by Code for Seattle & the events of other org
 ---
 
 _February 21, 2015_
-### International Open Data Day
-We will organize a Seattle event in coordination with this! Check back here for more info.
+### Seattle Open Data Day
+A one-day unconference on open data & civic tech in Seattle. Sign up here: http://www.meetup.com/Code-for-Seattle/events/220166485/
 
 ---
 

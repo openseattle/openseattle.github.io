@@ -11,13 +11,13 @@
   notes: null
 
 - name: "Duwamish River Cleanup"
-  description: null
+  description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
   project_tags: null
   technology_tags: null
-  code_url: "https://github.com/garagelab/qpr2"
-  public_url: null
+  code_url: https://github.com/smartercleanup/duwamish
+  public_url: http://heyduwamish.org
   dev_status: null
-  contributors: "Jacob Caggiano"
+  contributors: [Jacob Caggiano, Luke Swart]
   screenshot_url: null
   last_update: null
   notes: null
