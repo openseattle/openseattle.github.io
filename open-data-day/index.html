@@ -96,6 +96,17 @@ redirect_from: "/seattle-data-day/"
       <p><a class="button small" href="http://www.meetup.com/Code-for-Seattle/events/220166485/">Sign up for Seattle Open Data Day!</a></p>
       
       <br>
+      <h2 id="sessions">Sessions</h2>
+      
+      <p>Here are the sessions we know are happening so far! Interested in leading a session? <a href="#lead-session">Submit an idea</a>, or come prepared with a session on the morning of February 21.</p>
+      
+      {% for session in site.data.soddsessions %}
+        <h3>{{ session.title }}</h3>
+        <p>{{ session.description }} <i>Led by {{ session.name}}</i>.</p>
+        <hr>
+      {% endfor %}
+      
+      <br>
       <h3 id="lead-session">Lead a session</h3>
       
       <p>Interested in leading a session? Awesome! Take a look at the prompts for the event:

@@ -1,0 +1,40 @@
+-
+  title: Privacy and Re-IDing
+  description: "Let's have a roundtable discussion about privacy and the possibility of re-identification of open city data. Is this something we should be worried about? Are there ways to avoid it? What could downstream impacts be?\nAll thoughts welcome."
+  name: Meg Young
+  activities: "3 part discussion in a roundtable with a scribe taking notes on the board or big poster paper.\nPart 1: What is Re-IDing\nPart 2: Should we be worried about it? Why? Why not?\nPart 3: How can we prevent it? When we do, what do we lose?"
+-
+  title: "*FacePalm* Why civic tech & open gov work is hard, & how to make it easier."
+  description: "This session for anyone working on civic tech/open gov projects or within government, and finds themselves frustrated by the other side. \n\nWe'll open with a quick icebreaker, sharing common challenges session attendees have found. Then, the session lead, Sarah Schacht, will walk through root causes for these challenges and techniques for overcoming/addressing challenges. \n\nWith a decade as an open gov entrepreneur, government advisor, and forthcoming author of a book on open government and civic tech, Schacht has a wide range of experience to pull from for this session. "
+  name: Sarah Schacht
+  activities: Presentation, group brainstorm, Q&A.
+-
+  title: "Everything you need to know about transportation to build a killer app"
+  description: In advance of Hack the Commute on March 20-22, Seattle Department of Transportation & Commute Seattle will present an overview of the transportation situation in the Seattle metro area as well as the data sets that will be available. (Making this formal!)
+  name: Candace Faber
+  activities: Presentation + Q&A
+-
+  title: "The Other Open Data: A conversation about regulating private data collection"
+  description: 'This is about the flip side of privacy–how we can ensure that data we WANT to share is made open. An informal discussion on the intersection of open data and private companies. In a largely unregulated market for personal data, what policies/regulations do we need/want private companies to adhere to? (Example: Uber''s data-sharing with the City of Boston for disaster preparedness purposes.)'
+  name: Candace Faber
+  activities: Discussion
+-
+  title: "The Sound of Inevitability: #BetterBroadband is Municipal Broadband"
+  description: "As many cities and towns build out their own infrastructure for municipal broadband, the White House has announced their push for fast and affordable Internet. We’re at a tipping point. What does this national move mean at the local level? A new wave of universal access to human knowledge? Faster porn and cat videos? A big fight with major corporations? Learn more about what were doing about it in Seattle.'"
+  name: Sabrina Roach
+  activities: "Not too much presentation, some discussion, and some workshop."
+-
+  title: Privacy and Open Data
+  description: A review and discussion of how and why to 'build privacy in' to apps and services.
+  name: Bethan Cantrell
+  activities: Discussion
+-
+  title: Performance Seattle and Open Budget Seattle
+  description: "Performance Seattle is a portal where City departments publish their performance on selected goals.  The initial implementation has goals from 8 departments with all 28 departments expected to join by June 2015. Open Budget Seattle is a dashboard that allows users to easily dive down into the details of the City's. Join Seattle Open Data Manager Bruce Blood to explore these two new new tools. "
+  name: Bruce Blood
+  activities: Presentation of Performance Seattle and Open Budget Seattle, explanation of the supporting datasets, and questions/answers and general discussion of the tools.
+-
+  title: "Human-driven design: how to know your users and build what they need"
+  description: "How do you decide what to build? What does your process look like before you write a line of code? How do users’ needs, desires and skills inform how you imagine your solutions and refine your work along the way? Let’s kick around questions like this, and talk about ways to meet users’ needs on their own terms. I can start by sharing the process we used to make Census Reporter, where we researched, designed, reached out, cajoled, built, took criticism, reworked, and ultimately made a tool that serves up a complex data set with a simple interface. And then let's talk about *your* process. How do you plan what you’re going to build next?\n\nOutcome: People should leave this session with ideas about: the principles that help you engage in user-centered design, how a design process improves your project, how to craft a process that will work for them."
+  name: Ryan Pitts
+  activities: "- A short opening segment, walking through the design and decision process we engaged in for Census Reporter and noting the framework that worked for us and the principles we extracted from it\n\n- Break into small groups to talk through a few questions: Do you use a design process? What does it look like? What works, and what doesn't? What have you learned about users? The goal here is for people to be able to talk through specific examples of their work\n\n- Regroup and spend time in guided discussion, trying to extract principles that participants have identified from previous experience. Things that work, things worth trying, things to remember or watch out for."
