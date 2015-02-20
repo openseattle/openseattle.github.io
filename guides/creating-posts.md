@@ -36,7 +36,9 @@ The post must be named using a pattern like this:
 
 The date and title must be all lowercase and separated with dashes.
 
-Next, because we're using Jekyll, you'll place YAML frontmatter in the first lines of the post.
+### Post metadata
+
+Next, because we're using Jekyll, you'll place YAML frontmatter in the first lines of the post. 
 
 This is a good template for the YAML frontmatter:
 
@@ -51,6 +53,8 @@ layout: page
 Make sure to set published to `true` when you're ready to make the post go live.
 
 [Take a look at this post as an example.](https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_posts/2014-11-18-art-civics-code-roundup.md)
+
+### Markdown
 
 Posts are written using markdown. For a nice guide to markdown formatting take a look at this: https://help.github.com/articles/markdown-basics/
 
