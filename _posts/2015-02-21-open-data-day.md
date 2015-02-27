@@ -14,7 +14,7 @@ Break out session discussed datasets and where to get them, what "open data" rea
 
 ![morning session](https://lh3.googleusercontent.com/-hTT1rMD6WpY/VOvYgGCqlNI/AAAAAAAACmA/iuUPb8uHt74/w765-h510-no/_MG_4483.JPG)
 
-![interests](https://plus.google.com/photos/+SethVincent/albums/6119222454708022241/6119222980298761186?pid=6119222980298761186&oid=102602228351358071724)
+![interests](https://lh3.googleusercontent.com/-GA9szgvkAYI/VOvY4SodY-I/AAAAAAAACns/EoA3C7IKEfg/w765-h510-no/_MG_4497.JPG)
 
 ![break out sessions](https://lh6.googleusercontent.com/-VkXCtvDAw_A/VOvY-RD0u6I/AAAAAAAACoE/wkoB_KHWmxU/w765-h510-no/_MG_4502.JPG)
 
@@ -30,4 +30,4 @@ The next data event we'll be at (besides our usual Thursday meetups) will be the
 
 ![Success](https://lh6.googleusercontent.com/-ndb15WFEbL4/VOvZJEQFn8I/AAAAAAAACpA/ZFC2Fu7kMw8/w765-h510-no/_MG_4511.JPG)
 
-[#seaopen data #codeacross](https://plus.google.com/photos/+SethVincent/albums/6119222454708022241)
+[#seaopendata #codeacross](https://plus.google.com/photos/+SethVincent/albums/6119222454708022241)
