@@ -22,10 +22,11 @@ Break out session discussed datasets and where to get them, what "open data" rea
 
 Organized by Code for Seattle, co-sponsored by Socrata, Microsoft, and the City of Seattle. 
 
-[Logan Franken](http://i1383.photobucket.com/albums/ah286/stinaseattle/Open%20data%20day_zpseo8oq1iv.jpg)
+![Logan Franken](http://i1383.photobucket.com/albums/ah286/stinaseattle/Open%20data%20day_zpseo8oq1iv.jpg)
 
 [Read Logan's review of the day here.](http://www.loganfranken.com/blog/771/seattle-open-data-day-2015)
 
 The next data event we'll be at (besides our usual Thursday meetups) will be the Seattle Department of Transportation's [Hack the Commute](http://hackthecommute.seattle.gov/#sthash.7ywz4wQA.dpbs) in March.
 
-[Success](https://lh6.googleusercontent.com/-ndb15WFEbL4/VOvZJEQFn8I/AAAAAAAACpA/ZFC2Fu7kMw8/w765-h510-no/_MG_4511.JPG)
+![Success](https://lh6.googleusercontent.com/-ndb15WFEbL4/VOvZJEQFn8I/AAAAAAAACpA/ZFC2Fu7kMw8/w765-h510-no/_MG_4511.JPG)
+([Even more pics](https://plus.google.com/photos/+SethVincent/albums/6119222454708022241))
