@@ -366,3 +366,18 @@ h1.post-title {
 .project-card td:first-child {
   width: 120px;
 }
+
+/*github info on projects page*/
+.repo ul{
+  list-style: none;
+
+}
+.repo li{
+   display: inline-block;
+}
+
+.repo img{
+  width: 40px;
+}
+
+
