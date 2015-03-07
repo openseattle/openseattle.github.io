@@ -58,8 +58,11 @@ Make sure to set published to `true` when you're ready to make the post go live.
 
 Posts are written using markdown. For a nice guide to markdown formatting take a look at this: https://help.github.com/articles/markdown-basics/
 
+### Commit your changes
+After you've made all the necessary changes, go to the bottom of the page, add a commit message that describe your changes, then save your changes by clicking the "Commit new file" button (or the "Commit changes" button if your editing an existing file).
+
 ### Submit a pull request
-After you've made all the necessary changes, click the Pull Requests tab on the right side of the page. 
+After committing your changes, click the Pull Requests tab on the right side of the page. 
 
 On some pages it's collapsed, so all you'll see is the little icon.
 
