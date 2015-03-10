@@ -1,5 +1,6 @@
 ---
 title: "Putting open data to work: Seattle's Open Data Day"
+description: "Read about our first unconference, where we asked: how can we make it easy for everyone to participate in open data and civic technology?"
 published: true
 layout: page
 type: post
