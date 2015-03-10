@@ -26,6 +26,10 @@ Organized by Code for Seattle, co-sponsored by Socrata, Microsoft, and UW CSE.
 
 [Read Logan's review of the day here.](http://www.loganfranken.com/blog/771/seattle-open-data-day-2015)
 
+Check out this video by [Flora Goldthwaite](https://twitter.com/floraGo) that introduces many of the participants and topics of the day:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7B9GZqUisUM" frameborder="0" allowfullscreen></iframe>
+
 The next data event we'll be at (besides our usual Thursday meetups) will be the Seattle Department of Transportation's [Hack the Commute](http://hackthecommute.seattle.gov/#sthash.7ywz4wQA.dpbs) in March.
 
 ![Success](https://lh6.googleusercontent.com/-ndb15WFEbL4/VOvZJEQFn8I/AAAAAAAACpA/ZFC2Fu7kMw8/w765-h510-no/_MG_4511.JPG)
