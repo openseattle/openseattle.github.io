@@ -15,6 +15,40 @@ title: CfS Projects
   {% endif %}
   {% if project.code_url %}
   <p><b>Code:</b> <a href="{{ project.code_url }}" target="_blank">{{ project.code_url }}</a></p>
+  {% if project.github_repo %}
+  
+ 
+
+    <div class="component repo" data-organization="{{ project.github_user }}" data-repo="{{ project.github_repo }}">
+  
+
+     <ul class="contributors"></ul>
+
+      <div class="body">
+        
+
+        <ul class="meta">
+          <li><em>Language:</em> <span class="github language"></span</li>
+          <li><em>Last updated:</em> <span class="github pushed_at date"></span></li>
+        </ul>
+
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+    </li>
+  </ul>
+
+
+  
+  {% endif %}
+  
   {% endif %}
   {% if project.contributors %}
   <p class="contributors"><b>Contributors:</b> {% for c in project.contributors %}<span class="contributor">{{c}}</span> {% endfor %}</p>
@@ -35,3 +69,5 @@ title: CfS Projects
 <h2 style="margin-bottom:10px;">Get updates about Code for Seattle projects</h2>
 <p>Join the Code for Seattle email newsletter to get updates about our projects. Emails are sent once a month, and provide a look at what's new with CfS.</p>
 <div>{% include newsletter.html %}</div>
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="/js/app.js">// This space intentionally left blank</script>

@@ -3,6 +3,8 @@
   project_tags: [data, resources]
   technology_tags: [html, css]
   code_url: "https://github.com/sethvincent/nwdata.org"
+  github_user: "sethvincent"
+  github_repo: "nwdata.org"
   public_url: "http://nwdata.org"
   dev_status: "live"
   contributors: "Seth Vincent"
@@ -15,6 +17,8 @@
   project_tags: null
   technology_tags: null
   code_url: https://github.com/smartercleanup/duwamish
+  github_user: "smartercleanup"
+  github_repo: "duwamish"
   public_url: http://heyduwamish.org
   dev_status: null
   contributors: [Jacob Caggiano, Luke Swart]
@@ -27,6 +31,8 @@
   project_tags: recycling
   technology_tags: [rails, javascript]
   code_url: "https://github.com/audreycarlsen/recycling_app"
+  github_user: "audreycarlsen"
+  github_repo: "recycling_app"
   public_url: "www.wdidw.com"
   dev_status: "live/ongoing"
   contributors: "Audrey Carlsen"
@@ -51,6 +57,8 @@
   project_tags: null
   technology_tags: null
   code_url: "http://github.com/localwiki/localwiki"
+  github_user: "localwiki"
+  github_repo: "localwiki"
   public_url: "http://seattlewiki.net"
   dev_status: "live"
   contributors: "Seth Vincent"
@@ -63,6 +71,8 @@
   project_tags: null
   technology_tags: [javascript, node, api]
   code_url: "https://github.com/codeforseattle/node-localwiki-client"
+  github_user: "codeforseattle"
+  github_repo:  "node-localwiki-client"
   public_url: null
   dev_status: null
   contributors: [Seth Vincent, Will Scott]
@@ -75,6 +85,8 @@
   project_tags: null
   technology_tags: [ruby, api]
   code_url: "https://github.com/codeforseattle/localwiki_client"
+  github_user: "codeforseattle"
+  github_repo:  "localwiki_client"
   public_url: null
   dev_status: null
   contributors: [Brandon Faloona, hcanzl, Seth Vincent]
@@ -99,6 +111,8 @@
   project_tags: null
   technology_tags: null
   code_url: "https://github.com/tsibley/seattle-trees"
+  github_user: "tsibley"
+  github_repo:  "seattle-trees"
   public_url: "http://tsibley.net/trees/seattle"
   dev_status: "live"
   contributors: "Thomas Sibley"
@@ -111,6 +125,8 @@
   project_tags: null
   technology_tags: [python, ipython notebook, google maps v3, javascript]
   code_url: "https://github.com/lucasw/gis"
+  github_user: "lucasw"
+  github_repo:  "gis"
   public_url: "http://lucasw.github.io/gmap/census.html"
   dev_status: "in progress"
   contributors: "Lucas Walter"
@@ -123,6 +139,8 @@
   project_tags: null
   technology_tags: javascript
   code_url: "https://github.com/typpo/political-annotations"
+  github_user: "typpo"
+  github_repo: "political-annotations"
   public_url: "n/a"
   dev_status: "in progress"
   contributors: [Ian Webster, Alex Miranda]
@@ -135,6 +153,8 @@
   project_tags: data
   technology_tags: json
   code_url: "https://github.com/licyeus/seattle-geojson"
+  github_user: "licyeus"
+  github_repo:  "seattle-geojson"
   public_url: null
   dev_status: "in progress"
   contributors: null
@@ -147,6 +167,8 @@
   project_tags: data
   technology_tags: null
   code_url: "https://github.com/licyeus/seattle-homeless-info"
+  github_user: "licyeus"
+  github_repo:  "seattle-homeless-info"
   public_url: null
   dev_status: "in progress"
   contributors: null
@@ -171,6 +193,8 @@
   project_tags: null
   technology_tags: null
   code_url: "https://github.com/activate/ActivateHub"
+  github_user: "activate"
+  github_repo: "ActivateHub"
   public_url: "http://activatehub.org/"
   dev_status: "live & ongoing"
   contributors: "Lindsay Caron"
@@ -195,6 +219,8 @@
   project_tags: [data, news]
   technology_tags: javascript
   code_url: "https://github.com/sethvincent/seattle-blogs"
+  github_user: "seattleio"
+  github_repo: "seattle-blogs"
   public_url: null
   dev_status: null
   contributors: "Seth Vincent"
@@ -207,6 +233,8 @@
   project_tags: null
   technology_tags: "android"
   code_url: "https://github.com/jsfrost/StreetlightSeattleReporter"
+  github_user: "jsfrost"
+  github_repo: "StreetlightSeattleReporter"
   public_url: null
   dev_status: null
   contributors: "Jerry Frost"
@@ -255,6 +283,8 @@
   project_tags: null
   technology_tags: null
   code_url: "https://github.com/domoritz/live-bus-seattle"
+  github_user: "domoritz"
+  github_repo: "live-bus-seattle"
   public_url: "http://domoritz.de/live-bus-seattle/#12/47.6210/-122.3328"
   dev_status: null
   contributors: null
@@ -267,6 +297,8 @@
   project_tags: null
   technology_tags: "node"
   code_url: "https://github.com/lcdvirgo/stolenbikesSEA"
+  github_repo: "stolenbikesSEA"
+  github_user: "lcdvirgo"
   public_url: "http://bike.jumis.com/index.html"
   dev_status: null
   contributors: null
@@ -279,6 +311,8 @@
   project_tags: design
   technology_tags: null
   code_url: "http://github.com/codeforseattle/seattle-icons"
+  github_user: "codeforseattle"
+  github_repo: "seattle-icons"
   public_url: "seattleicons.org"
   dev_status: null
   contributors: null
@@ -291,6 +325,8 @@
   project_tags: null
   technology_tags: null
   code_url: "http://github.com/codeforseattle/metrocuts"
+  github_repo: "metrocuts"
+  github_user: "codeforseattle"
   public_url: "codeforseattle.org/metrocuts"
   dev_status: null
   contributors: null
@@ -315,9 +351,12 @@
   project_tags: [google glass, privacy, map]
   technology_tags: [ruby, rails, javascript, angularjs]
   code_url: "https://github.com/licyeus/deglassified"
+  github_user: "licyeus"
+  github_repo:  "deglassified"
   public_url: "deglassified.com"
   dev_status: "live"
   contributors: [Andrew Sullivan, Andre Levi]
   screenshot_url: "https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_1475/ZoZo?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1396503039&Signature=1hRODANobkUG%2Fbk6rLFDpFq0mF0%3D&response-content-disposition=inline%3B%20filename%3DScreenshot%20on%202014-04-02%20at%2021%3A30%3A26.png%3B"
   last_update: "2/5/2014"
   notes: null
+

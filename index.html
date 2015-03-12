@@ -3,19 +3,13 @@ layout: page
 title: Civic technology in Seattle, WA
 ---
 
-<h1>Seattle Open Data Day!</h1>
-<p>An unconference on open data & civic technology in Seattle.</p>
-<p><a class="button register-button" href="https://hackpad.com/Seattle-Open-Data-Day-R3eOkJdS2yN" style="font-size:18px;">See the session schedule & more information</a></p>
-<hr>
-<br>
-
 <div class="posts section">
   {% for post in site.posts limit:3 %}
     {% if post.published %}
       <div class="post" id="{{ post.slug }}">
         <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
         <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
+        <div class="post-excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncate: 200 }}{% endif %}</div>
       </div>
     {% endif %}
   {% endfor %}
