@@ -9,4 +9,6 @@ It's just getting started! You can help! These guides are part of the codeforsea
 
 
 ## Guides:
+- [Getting oriented to Code for Seattle](/orientation)
 - [Creating posts on codeforseattle.org](/guides/creating-posts)
+- [Adding a project to our projects list](/guides/project-list)
