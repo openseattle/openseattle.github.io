@@ -9,6 +9,6 @@ CSV.open("./projects/projects.csv", "wb") do |csv|
   data_files.each do |data|
   	row = []
   	header.each { |header| data[header] ? row << data[header] : row << nil }
-  	csv << placeholder
+  	csv << row
   end
 end
