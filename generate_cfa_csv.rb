@@ -7,8 +7,8 @@ header = %w[name description link_url code_url type categories status]
 CSV.open("./projects/projects.csv", "wb") do |csv|
   csv << header
   data_files.each do |data|
-  	placeholder = []
-  	header.each { |header| data[header] ? placeholder << data[header] : placeholder << nil }
+  	row = []
+  	header.each { |header| data[header] ? row << data[header] : row << nil }
   	csv << placeholder
   end
 end
