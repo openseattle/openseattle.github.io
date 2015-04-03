@@ -7,7 +7,7 @@
   github_repo: "nwdata.org"
   public_url: "http://nwdata.org"
   dev_status: "live"
-  contributors: "Seth Vincent"
+  contributors: "Seth Vincent, Ann Summy"
   screenshot_url: null
   last_update: null
   notes: null
@@ -61,7 +61,7 @@
   github_repo: "localwiki"
   public_url: "http://seattlewiki.net"
   dev_status: "live"
-  contributors: "Seth Vincent"
+  contributors: "Seth Vincent, Ann Summy"
   screenshot_url: null
   last_update: null
   notes: null
