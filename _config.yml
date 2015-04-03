@@ -7,6 +7,7 @@ gems:
 - jemoji
 - jekyll-redirect-from
 - jekyll-sitemap
+- cfacsv
 
 brigade:
     name: Code for Seattle
