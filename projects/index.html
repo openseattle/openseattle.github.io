@@ -10,8 +10,8 @@ title: CfS Projects
 {% for project in site.data.projects %}
   <h3>{{ project.name }}</h3>
   <p>{{ project.description }}</p>
-  {% if project.public_url %}
-  <p><b>Website:</b> <a href="{{ project.public_url }}" target="_blank">{{ project.public_url }}</a></p>
+  {% if project.link_url %}
+  <p><b>Website:</b> <a href="{{ project.link_url }}" target="_blank">{{ project.link_url }}</a></p>
   {% endif %}
   {% if project.code_url %}
   <p><b>Code:</b> <a href="{{ project.code_url }}" target="_blank">{{ project.code_url }}</a></p>
