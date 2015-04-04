@@ -1,0 +1,28 @@
+name,description,link_url,code_url,type,categories,status
+nwdata.org,"A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest.",http://nwdata.org,https://github.com/sethvincent/nwdata.org,,,live
+Duwamish River Cleanup,A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River.,http://heyduwamish.org,https://github.com/smartercleanup/duwamish,,,
+What Do I Do With...? recycling app,Dropoff locator for recyclables and other disposables in King County,www.wdidw.com,https://github.com/audreycarlsen/recycling_app,,,live/ongoing
+Seattle in Progress,,http://www.seattleinprogress.com,closed source?,,,active
+Seattle LocalWiki,,http://seattlewiki.net,http://github.com/localwiki/localwiki,,,live
+LocalWiki JavaScript client,Use the data from LocalWiki in your JavaScript projects!,,https://github.com/codeforseattle/node-localwiki-client,,,
+LocalWiki Ruby client,Use the data from LocalWiki in your Ruby projects!,,https://github.com/codeforseattle/localwiki_client,,,
+Citizen Input,A crowdsourcing platform for discovering great new candidates for public office and a real-time report of each candidate's relative popularity.,http://www.citizeninput.org/,https://github.com/citizen-input-project,,,in progress
+Seattle's Heritage Trees,,http://tsibley.net/trees/seattle,https://github.com/tsibley/seattle-trees,,,live
+Seattle Miscellaneous Maps,"Mix and match maps, census, voting data for city council district demographics or anything else",http://lucasw.github.io/gmap/census.html,https://github.com/lucasw/gis,,,in progress
+Political Annotations Chrome Extension,,n/a,https://github.com/typpo/political-annotations,,,in progress
+Seattle GeoJSON datasets,,,https://github.com/licyeus/seattle-geojson,,,in progress
+Seattle One Night Count datasets,,,https://github.com/licyeus/seattle-homeless-info,,,in progress
+seattle.io,A guide to Seattle neighborhoods & communities.,http://seattle.io,https://github.com/seattleio,,,in progress
+ActivateHub,,http://activatehub.org/,https://github.com/activate/ActivateHub,,,live & ongoing
+DemocracyLab,"Participation environment for users, developers, and supporters of Civic Tech",http://www.democracylab.org,https://github.com/DemocracyLab,,,live/in progress
+Seattle Blogs,Tracking all the blogs and online publications in the Seattle area.,,https://github.com/sethvincent/seattle-blogs,,,
+Streetlight Seattle Reporter,,,https://github.com/jsfrost/StreetlightSeattleReporter,,,
+Live Music Project,,http://livemusicproject.org,closed source?,,,
+Seattle Open Data Policy proposal,"",,http://bit.ly/SeattleDataPolicy,,,
+Seattle Data Inventory,An inventory of the most interesting data available from data.seattle.gov,,http://seattlewiki.net/Open_Data_Resources,,,
+Realtime Transit Data,,http://domoritz.de/live-bus-seattle/#12/47.6210/-122.3328,https://github.com/domoritz/live-bus-seattle,,,
+Stolen Bike App,,http://bike.jumis.com/index.html,https://github.com/lcdvirgo/stolenbikesSEA,,,
+Seattle Icons,,seattleicons.org,http://github.com/codeforseattle/seattle-icons,,,
+Seattle Metro Cuts,,codeforseattle.org/metrocuts,http://github.com/codeforseattle/metrocuts,,,
+Washington Homelessness,Goal is to provide a dashboard to access & visualize open data for homelessness,livingwa.github.io,https://github.com/livingwa,,,
+Deglassified,A map of businesses with policies against Google Glass.,deglassified.com,https://github.com/licyeus/deglassified,,,live
