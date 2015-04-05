@@ -7,7 +7,7 @@ gems:
 - jemoji
 - jekyll-redirect-from
 - jekyll-sitemap
-- cfacsv
+- jekyll-json
 
 brigade:
     name: Code for Seattle
@@ -49,3 +49,11 @@ content:
 google-analytics:
     use: true
     code: UA-38362883-1
+
+serve-json-csv:
+  - destination: "projects"
+    origin: "_data/projects.yml"
+    csv: true
+    json: false
+    headers: [name, description, link_url, code_url, type, categories, status]
+    filter-json: true
