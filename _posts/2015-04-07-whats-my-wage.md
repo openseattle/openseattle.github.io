@@ -1,6 +1,6 @@
 ---
 title: "whatsmywage.org launch!"
-published: false
+published: true
 layout: page
 description:  Navigate Seattle's new minimum wage law with website and web app built by CfS team.
 ---
@@ -13,8 +13,8 @@ The project's biggest challenge would be to build something that both accurately
 
 ![whatsmywage](http://i1383.photobucket.com/albums/ah286/stinaseattle/Whatsmywage_zps6rbriwae.jpg)
 
-Along with this design, users can contribute information on their employer to the whatsmywage database. The calculater also forecasts a user's future wage increases during the four-year phase-in period. 
+Along with this design, users can contribute information on their employer to the whatsmywage.org database. The calculater also forecasts a user's future wage increases during the four-year phase-in period. 
 
 Andrew Gall spearheaded the backend development of [whatsmywage.org](http://whatsmywage.org/) first release, utilizing Ratchet CSS (more info  at http://github.com/working-wa). The team's priority is web development, and they've encountered some unique problems that Gall says, "Anyone familiar with internationalization would be helpful as that is one of our next tasks."
 
-Are you a web application developer? Do you have feedback for Anna and Andrew? Interested in their database? Send them your thoughts through github or email Anna at Working Washington. The team would love to hear from you. Great job, whatsmywage. 
+Are you a web application developer? Do you have feedback for Anna and Andrew? Interested in their database? Send them your thoughts through github or email Anna at Working Washington. The team would love to hear from you. Great job, whatsmywage.org team!
