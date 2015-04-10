@@ -1,5 +1,5 @@
 ---
-title: "Project feature: High Ground Alert"
+title: "Featured project: High Ground Alert"
 published: true
 layout: page
 description: Rob Letchworth, Yonas Berhe, and their team are developing an emergency evacuation program that will enable mobile users to find the fastest route to safety in the event of a large-scale natural disaster.
