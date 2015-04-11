@@ -30,6 +30,20 @@
   type: null
   categories: null
 
+- name: "What's My Wage?"
+  description: "Learn what the new minimum wage should be based on your employer."
+  project_tags: null
+  technology_tags: null
+  code_url: https://github.com/working-wa/whats-my-wage-app
+  link_url: http://whatsmywage.org
+  status: null
+  contributors: [Anna Minard, Andrew Gall, Rob Dolin]
+  screenshot_url: null
+  last_update: null
+  notes: null
+  type: null
+  categories: null
+
 - name: "What Do I Do With...? recycling app"
   description: "Dropoff locator for recyclables and other disposables in King County"
   project_tags: recycling
