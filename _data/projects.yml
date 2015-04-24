@@ -46,7 +46,7 @@
 
 - name: "Seward Park Stories"
   description: "Documenting the art, historical, & cultural locations in Seward Park."
-  project_tags: [art, culture]
+  project_tags: [art, culture, history, parks]
   technology_tags: [javascript]
   code_url: "https://github.com/sethvincent/seward-park-map"
   github_user: "sethvincent"
