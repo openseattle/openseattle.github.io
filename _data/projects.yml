@@ -1,3 +1,19 @@
+- name: "http://fatalencounters.org/"
+  description: "Largest directory of US citizens killed by police officers. Includes searchable/filterable list, visualizations, submissions pipeline, open data api, data management panel."
+  project_tags: [police, civil rights, data, resources]
+  technology_tags: [node, express, mongo, html, css]
+  code_url: "https://github.com/JustOpenSource/fatalshootings"
+  github_user: "troythewolfe"
+  github_repo: "https://github.com/JustOpenSource/fatalshootings"
+  link_url: "https://github.com/JustOpenSource/fatalshootings"
+  status: "in development"
+  contributors: "Troy Wolfe"
+  screenshot_url: null
+  last_update: null
+  notes: null
+  type: null
+  categories: null
+
 - name: "nwdata.org"
   description: "A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest."
   project_tags: [data, resources]
