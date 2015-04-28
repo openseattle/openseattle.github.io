@@ -11,10 +11,9 @@ We meet every Thursday at various places around town. Get all the details at our
 
 ## Larger events
 
-_June 6, 2015 (or around then)_
 ### Seattle DiscoTech – part of the National Day of Civic Hacking
 
-http://codeforseattle.org/discotech
+_June 6, 2015_ – http://codeforseattle.org/discotech
 
 ---
 
