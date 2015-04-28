@@ -7,13 +7,13 @@ This is a list of events organized by Code for Seattle & the events of other org
 
 ## Weekly meetups
 
-We meet every Thursday at various places around town. Get all the details at our meetup group: http://meetup.com/code-for-seattle
+We meet every Thursday at various places around town. Get all the details at our meetup group: [http://meetup.com/code-for-seattle](http://codeforseattle.org/discotech)
 
 ## Larger events
 
 ### Seattle DiscoTech – part of the National Day of Civic Hacking
 
-_June 6, 2015_ – http://codeforseattle.org/discotech
+_June 6, 2015_ – [http://codeforseattle.org/discotech](http://codeforseattle.org/discotech)
 
 ---
 
