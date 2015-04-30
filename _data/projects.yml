@@ -3,8 +3,8 @@
   project_tags: [police, civil rights, data, resources]
   technology_tags: [node, express, mongo, html, css]
   code_url: "https://github.com/JustOpenSource/fatalshootings"
-  github_user: "troythewolfe"
-  github_repo: "https://github.com/JustOpenSource/fatalshootings"
+  github_user: "JustOpenSource"
+  github_repo: "fatalshootings"
   link_url: "https://github.com/JustOpenSource/fatalshootings"
   status: "in development"
   contributors: "Troy Wolfe"
