@@ -75,7 +75,23 @@
   notes: ""
   type: null
   categories: null
-  
+
+- name: "Seattle CouncilChat"
+  description: "Seattle CouncilChat is a simple way to discuss the meetings of the Seattle City Council as they happen."
+  project_tags: [city council, community]
+  technology_tags: [html, css]
+  code_url: "https://github.com/seattleio/councilchat"
+  github_user: "seattleio"
+  github_repo: "councilchat"
+  link_url: "http://councilchat.seattle.io"
+  status: "live/ongoing"
+  contributors: "Seth Vincent"
+  screenshot_url: null
+  last_update: "5/12/2015"
+  notes: ""
+  type: null
+  categories: null
+
 - name: "What Do I Do With...? recycling app"
   description: "Dropoff locator for recyclables and other disposables in King County"
   project_tags: recycling
