@@ -9,7 +9,7 @@ The Seattle DiscoTech is this weekend! The free event is part of the National Da
 
 There are two main types of activities at this event: learning about civic tech at an assortment of workshops, & checking out civic tech projects & organizations at the civic tech fair.
 
-You can RSVP (for free) here: http://www.meetup.com/Code-for-Seattle/events/222381787/
+**You can RSVP (for free) here: [http://www.meetup.com/Code-for-Seattle/events/222381787/](http://www.meetup.com/Code-for-Seattle/events/222381787/)**
 
 ## Workshops
 
@@ -19,7 +19,7 @@ Learn the basics of JavaScript and Node.js! NodeSchool tutorials are self-guided
 
 ### Introduction to Socrata's open data API
 
-Learn about building applications using the API from Socrata. Learn more at http://dev.socrata.com
+Learn about building applications using the API from Socrata. Learn more at [dev.socrata.com](http://dev.socrata.com)
 
 ### What do you want from Seattle's open data portal?
 
@@ -31,7 +31,7 @@ Join Joneil Sampana, board member of the Community Technology Advisory Board of 
 
 ### Upgrade Seattle study session
 
-An exploration of a city-owned and operated Internet utility. Together we will learn about successful Internet utilities in other cities and how we can build one in Seattle. Learn more at http://upgradeseattle.com
+An exploration of a city-owned and operated Internet utility. Together we will learn about successful Internet utilities in other cities and how we can build one in Seattle. Learn more at [upgradeseattle.com](http://upgradeseattle.com)
 
 ### Intellectual property & civic technology
 
@@ -39,7 +39,7 @@ Join Candace Faber to discuss the roles of intellectual property, licensing, bus
 
 ### Seattle LocalWiki
 
-LocalWiki is a grassroots effort to collect, share, and open the world's local knowledge. We want every community to have a community-created local knowledge commons that answers the question "where would I go if I wanted to learn everything there is to know about my community?" Bring your laptop & join local editors for an editing session focused on Seattle. Learn more at http://localwiki.org
+LocalWiki is a grassroots effort to collect, share, and open the world's local knowledge. We want every community to have a community-created local knowledge commons that answers the question "where would I go if I wanted to learn everything there is to know about my community?" Bring your laptop & join local editors for an editing session focused on Seattle. Learn more at [localwiki.org](http://localwiki.org)
 
 
 ## Civic tech fair
@@ -67,5 +67,5 @@ LocalWiki is a grassroots effort to collect, share, and open the world's local k
 - **3:00 p.m.** – happy hour / civic tech project fair
 - **3:30 p.m.** – closing speaker: Candace Faber
 
-You can RSVP (for free) here: http://www.meetup.com/Code-for-Seattle/events/222381787/
+**You can RSVP (for free) here: [http://www.meetup.com/Code-for-Seattle/events/222381787/](http://www.meetup.com/Code-for-Seattle/events/222381787/)**
 
