@@ -1,3 +1,19 @@
+- name: "http://fatalencounters.org/"
+  description: "Largest directory of US citizens killed by police officers. Includes searchable/filterable list, visualizations, submissions pipeline, open data api, data management panel."
+  project_tags: [police, civil rights, data, resources]
+  technology_tags: [node, express, mongo, html, css]
+  code_url: "https://github.com/JustOpenSource/fatalshootings"
+  github_user: "JustOpenSource"
+  github_repo: "fatalshootings"
+  link_url: "https://github.com/JustOpenSource/fatalshootings"
+  status: "in development"
+  contributors: "Troy Wolfe"
+  screenshot_url: null
+  last_update: null
+  notes: null
+  type: null
+  categories: null
+
 - name: "nwdata.org"
   description: "A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest."
   project_tags: [data, resources]
@@ -44,6 +60,38 @@
   type: null
   categories: null
 
+- name: "Seward Park Stories"
+  description: "Documenting the art, historical, & cultural locations in Seward Park."
+  project_tags: [art, culture, history, parks]
+  technology_tags: [javascript]
+  code_url: "https://github.com/sethvincent/seward-park-map"
+  github_user: "sethvincent"
+  github_repo: "seward-park-map"
+  link_url: "http://sewardparkstories.org"
+  status: "live/ongoing"
+  contributors: "Wendy Call, Seth Vincent, Christina Montilla, Ann Summy, Adrian Limon"
+  screenshot_url: null
+  last_update: "4/24/2014"
+  notes: ""
+  type: null
+  categories: null
+
+- name: "Seattle CouncilChat"
+  description: "Seattle CouncilChat is a simple way to discuss the meetings of the Seattle City Council as they happen."
+  project_tags: [city council, community]
+  technology_tags: [html, css]
+  code_url: "https://github.com/seattleio/councilchat"
+  github_user: "seattleio"
+  github_repo: "councilchat"
+  link_url: "http://councilchat.seattle.io"
+  status: "live/ongoing"
+  contributors: "Seth Vincent"
+  screenshot_url: null
+  last_update: "5/12/2015"
+  notes: ""
+  type: null
+  categories: null
+
 - name: "What Do I Do With...? recycling app"
   description: "Dropoff locator for recyclables and other disposables in King County"
   project_tags: recycling
@@ -51,7 +99,7 @@
   code_url: "https://github.com/audreycarlsen/recycling_app"
   github_user: "audreycarlsen"
   github_repo: "recycling_app"
-  link_url: "www.wdidw.com"
+  link_url: "http://www.wdidw.com"
   status: "live/ongoing"
   contributors: "Audrey Carlsen"
   screenshot_url: null

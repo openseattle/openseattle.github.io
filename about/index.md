@@ -4,7 +4,11 @@ title: About Code for Seattle
 ---
 
 
-## Events
+## Who we are.
+
+We welcome anyone who is interested in using technology to make civic improvements.  Artists, writers, entrepreneurs, leaders, creative thinkers, and coders are invited to civic hacking nights and other events hosted by Code for Seattle.
+
+## What we do.
 
 Code for Seattle runs a weekly civic hacking night, as well as hackathons and other events focused on building the civic technology community in Seattle and building prototype solutions for local civic issues.
 
