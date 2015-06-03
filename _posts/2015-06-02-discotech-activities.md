@@ -37,7 +37,7 @@ An exploration of a city-owned and operated Internet utility. Together we will l
 
 Join Candace Faber to discuss the roles of intellectual property, licensing, business models, & sustainability in civic technology.
 
-### Prvacy & civic technology
+### Privacy & civic technology
 
 Join Bethan Cantrell, senior privacy strategist at Microsoft, for a discussion on privacy in civic tech projects, and to explore best practices for improving the security, privacy, and user interface of civic apps.
 
