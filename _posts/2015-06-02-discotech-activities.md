@@ -37,6 +37,10 @@ An exploration of a city-owned and operated Internet utility. Together we will l
 
 Join Candace Faber to discuss the roles of intellectual property, licensing, business models, & sustainability in civic technology.
 
+### Prvacy & civic technology
+
+Join Bethan Cantrell, senior privacy strategist at Microsoft, for a discussion on privacy in civic tech projects, and to explore best practices for improving the security, privacy, and user interface of civic apps.
+
 ### Seattle LocalWiki
 
 LocalWiki is a grassroots effort to collect, share, and open the world's local knowledge. We want every community to have a community-created local knowledge commons that answers the question "where would I go if I wanted to learn everything there is to know about my community?" Bring your laptop & join local editors for an editing session focused on Seattle. Learn more at [localwiki.org](http://localwiki.org)
