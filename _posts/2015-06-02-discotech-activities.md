@@ -63,13 +63,13 @@ LocalWiki is a grassroots effort to collect, share, and open the world's local k
 ## Schedule
 
 - **10:30 a.m.** – opening speaker: Michael Mattmiller, CTO of City of Seattle
-- **11:00 a.m.** – workshops
+- **11:00 a.m.** – workshops: Open Data portal, Intellectual property & civic tech
 - **noon** – lunch 
 - **1:00 p.m.-3:00 p.m.** – civic tech fair 
-- **1:00 p.m.** – workshops
-- **2:00 p.m.** – workshops
+- **1:00 p.m.** – workshops: Upgrade Seattle, NodeSchool, Privacy & civic tech
+- **2:00 p.m.** – workshops: City services discussion, SeattleWiki, Socrata API
 - **3:00 p.m.** – happy hour / civic tech project fair
-- **3:30 p.m.** – closing speaker: Candace Faber
+- **3:30 p.m.** – closing speaker: Candace Faber, organizer of Hack the Commute
 
 **You can RSVP (for free) here: [http://www.meetup.com/Code-for-Seattle/events/222381787/](http://www.meetup.com/Code-for-Seattle/events/222381787/)**
 
