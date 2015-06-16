@@ -31,6 +31,15 @@ Make sure to RSVP here as well: [http://townhallseattle.org/event/upgrade-seattl
 
 More on Upgrade Seattle: [http://upgradeseattle.com](http://townhallseattle.org/event/upgrade-seattle-launch/)
 
+### June 26-28, Electric Sky: An Art and Tech Weekend Campathon, 10am
+
+RSVP: http://www.meetup.com/Code-for-Seattle/events/222382371/
+
+You must register at http://ElectricSkyArtCamp.com
+
+Please join us for Electric Sky, an art and tech weekend campathon bringing together artists, technologists, scientists, hackers, makers, designers, and other interested parties to collaboratively engage with the environment in new and exciting ways.
+
+
 ---
 
 
