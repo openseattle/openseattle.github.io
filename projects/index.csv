@@ -1,8 +1,11 @@
 name,description,link_url,code_url,type,categories,status
+http://fatalencounters.org/,"Largest directory of US citizens killed by police officers. Includes searchable/filterable list, visualizations, submissions pipeline, open data api, data management panel.",https://github.com/JustOpenSource/fatalshootings,https://github.com/JustOpenSource/fatalshootings,,,in development
 nwdata.org,"A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest.",http://nwdata.org,https://github.com/sethvincent/nwdata.org,,,live
 Duwamish River Cleanup,A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River.,http://heyduwamish.org,https://github.com/smartercleanup/duwamish,,,
 What's My Wage?,Learn what the new minimum wage should be based on your employer.,http://whatsmywage.org,https://github.com/working-wa/whats-my-wage-app,,,
-What Do I Do With...? recycling app,Dropoff locator for recyclables and other disposables in King County,www.wdidw.com,https://github.com/audreycarlsen/recycling_app,,,live/ongoing
+Seward Park Stories,"Documenting the art, historical, & cultural locations in Seward Park.",http://sewardparkstories.org,https://github.com/sethvincent/seward-park-map,,,live/ongoing
+Seattle CouncilChat,Seattle CouncilChat is a simple way to discuss the meetings of the Seattle City Council as they happen.,http://councilchat.seattle.io,https://github.com/seattleio/councilchat,,,live/ongoing
+What Do I Do With...? recycling app,Dropoff locator for recyclables and other disposables in King County,http://www.wdidw.com,https://github.com/audreycarlsen/recycling_app,,,live/ongoing
 Seattle in Progress,,http://www.seattleinprogress.com,closed source?,,,active
 Seattle LocalWiki,,http://seattlewiki.net,http://github.com/localwiki/localwiki,,,live
 LocalWiki JavaScript client,Use the data from LocalWiki in your JavaScript projects!,,https://github.com/codeforseattle/node-localwiki-client,,,
