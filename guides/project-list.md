@@ -5,16 +5,16 @@ title: "Adding a project to our project list"
 
 To add a project to the project list, follow these instructions:
 
-You can edit the project list on codeforseattle.org in two ways:
+You can edit the project list on openseattle.org in two ways:
 
 - through GitHub.com
 - on your computer using git
 
 To get started, you'll need to fork the website repository on GitHub.
 
-## Forking codeforseattle.github.com
+## Forking openseattle.github.io
 
-Go to [github.com/codeforseattle/codeforseattle.github.com](https://github.com/codeforseattle/codeforseattle.github.com) and click the "Fork" button.
+Go to [github.com/openseattle/openseattle.github.io](https://github.com/openseattle/openseattle.github.io) and click the "Fork" button.
 
 ## Making changes on GitHub.com
 
@@ -28,10 +28,10 @@ For detailed guides to manipulating files through GitHub.com, go here: [help.git
 
 To add your project you will: 
 
-- Go to http://github.com/codeforseattle/codeforseattle.github.com
+- Go to http://github.com/openseattle/openseattle.github.io
 - Click the `_data` folder
 - Click the `projects.yml` file
-- Or go directly to that file with this url: https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_data/projects.yml
+- Or go directly to that file with this url: https://github.com/openseattle/openseattle.github.io/blob/master/_data/projects.yml
 - Click the pencil icon in the file's toolbar to start editing
 - add your project, using this as a template:
   ```
@@ -58,7 +58,7 @@ On some pages it's collapsed, so all you'll see is the little icon.
 
 ### Click 'New Pull Request'
 
-Make sure to create a pull request to submit the changes in your repository to the codeforseattle.org/codeforseattle.github.com repository.
+Make sure to create a pull request to submit the changes in your repository to the openseattle.org/openseattle.github.io repository.
 
 ---
 

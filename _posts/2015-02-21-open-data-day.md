@@ -21,7 +21,7 @@ Break out session discussed datasets and where to get them, what "open data" rea
 
 ![post lunch](https://lh3.googleusercontent.com/-CUOZLSAA_Mo/VOvZY2RDkjI/AAAAAAAACp8/LMusyPqBqj0/w765-h510-no/_MG_4522.JPG)
 
-Organized by Code for Seattle, co-sponsored by Socrata, Microsoft, and UW CSE. 
+Organized by Open Seattle, co-sponsored by Socrata, Microsoft, and UW CSE. 
 
 ![Logan Franken](http://i1383.photobucket.com/albums/ah286/stinaseattle/Open%20data%20day_zpseo8oq1iv.jpg)
 

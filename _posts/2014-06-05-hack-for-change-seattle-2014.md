@@ -9,7 +9,7 @@ image_credit: "Will Scott"
 image_credit_url: "https://plus.google.com/photos/+WillScottName/albums/6020171987030870993"
 ---
 
-On May 31 Code for Seattle participated in the National Day of Civic Hacking with the local event Hack for Change Seattle.
+On May 31 Open Seattle participated in the National Day of Civic Hacking with the local event Hack for Change Seattle.
 
 About 60 participants worked on 10 projects ranging from air quality visualizations to hacking bicycle & pedestrian counters.
 
@@ -154,7 +154,7 @@ The OpenStreetMap team got two new volunteers set up and mapping.
 
 ## Editing SeattleWiki & working on LocalWiki API clients
 
-Seth Vincent added pages to [localwiki.net/seattle](http://localwiki.net/seattle), and made progress on the [JavaScript API client for LocalWiki](https://github.com/codeforseattle/node-localwiki-client).
+Seth Vincent added pages to [localwiki.net/seattle](http://localwiki.net/seattle), and made progress on the [JavaScript API client for LocalWiki](https://github.com/openseattle/node-localwiki-client).
 
 ## Intel gave people tablets!
 
@@ -171,4 +171,4 @@ _Photo by [Will Scott](https://plus.google.com/photos/+WillScottName/albums/6020
 The urban innovation award went to the Hacking Pedestrian and Bicycle counters team.
 
 ### This post is open source!
-Spot a typo or need to make additions to your team's description? [Find this post in the GitHub repo for this site](https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_posts/2014-06-05-hack-for-change-seattle-2014.md).
+Spot a typo or need to make additions to your team's description? [Find this post in the GitHub repo for this site](https://github.com/openseattle/openseattle.github.io/blob/master/_posts/2014-06-05-hack-for-change-seattle-2014.md).

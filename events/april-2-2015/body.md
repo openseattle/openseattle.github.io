@@ -1,5 +1,5 @@
 
-![](http://media.tumblr.com/56084e738f4f07b6ade8d68d940c3dab/tumblr_inline_mz1zq8NrXb1rs4nv6.gif) welcome to code for seattle
+![](http://media.tumblr.com/56084e738f4f07b6ade8d68d940c3dab/tumblr_inline_mz1zq8NrXb1rs4nv6.gif) welcome to open seattle
 
 ![](http://stream1.gifsoup.com/view/62348/traffic-o.gif) hack the commute was really great
 

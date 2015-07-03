@@ -1,5 +1,5 @@
 {
-  "name": "openseattle.github.com",
+  "name": "openseattle.github.io",
   "version": "0.0.0",
   "description": "This is the repo for openseattle.org.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/openseattle/openseattle.github.com.git"
+    "url": "git://github.com/openseattle/openseattle.github.io.git"
   },
   "author": "sethvincent <sethvincent@gmail.com> (http://sethvincent.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/openseattle/openseattle.github.com/issues"
+    "url": "https://github.com/openseattle/openseattle.github.io/issues"
   },
-  "homepage": "https://github.com/openseattle/openseattle.github.com"
+  "homepage": "https://github.com/openseattle/openseattle.github.io"
 }

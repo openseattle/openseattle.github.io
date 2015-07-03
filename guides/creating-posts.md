@@ -1,20 +1,20 @@
 ---
 layout: page
-title: "Creating posts on codeforseattle.org"
+title: "Creating posts on openseattle.org"
 ---
 
-The Code for Seattle website is hosted on [GitHub pages](https://pages.github.com/) and uses [Jekyll, a static site generator](http://jekyllrb.com/).
+The Open Seattle website is hosted on [GitHub pages](https://pages.github.com/) and uses [Jekyll, a static site generator](http://jekyllrb.com/).
 
-You can create a post on codeforseattle.org in two ways:
+You can create a post on openseattle.org in two ways:
 
 - through GitHub.com
 - on your computer using git
 
 To get started, you'll need to fork the website repository on GitHub.
 
-## Forking codeforseattle.github.com
+## Forking openseattle.github.io
 
-Go to [github.com/codeforseattle/codeforseattle.github.com](https://github.com/codeforseattle/codeforseattle.github.com) and click the "Fork" button.
+Go to [github.com/openseattle/openseattle.github.io](https://github.com/openseattle/openseattle.github.io) and click the "Fork" button.
 
 ## Making changes on GitHub.com
 
@@ -52,7 +52,7 @@ layout: page
 
 Make sure to set published to `true` when you're ready to make the post go live.
 
-[Take a look at this post as an example.](https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_posts/2014-11-18-art-civics-code-roundup.md)
+[Take a look at this post as an example.](https://github.com/openseattle/openseattle.github.io/blob/master/_posts/2014-11-18-art-civics-code-roundup.md)
 
 ### Markdown
 
@@ -68,7 +68,7 @@ On some pages it's collapsed, so all you'll see is the little icon.
 
 ### Click 'New Pull Request'
 
-Make sure to create a pull request to submit the changes in your repository to the codeforseattle.org/codeforseattle.github.com repository.
+Make sure to create a pull request to submit the changes in your repository to the openseattle/openseattle.github.io repository.
 
 ---
 

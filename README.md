@@ -1,6 +1,6 @@
-# [codeforseattle.org](http://codeforseattle.org)
+# [openseattle.org](http://openseattle.org)
 
-This is the repo for codeforseattle.org.
+This is the repo for openseattle.org.
 
 ## Contributing:
 - fork the repo
