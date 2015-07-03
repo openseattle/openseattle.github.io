@@ -1,5 +1,5 @@
 ---
-title: "New to civic technology & Code for Seattle? Here are some project ideas"
+title: "New to civic technology & Open Seattle? Here are some project ideas"
 slug: new-to-civic-technology-code-for-seattle-project-ideas
 published: true
 layout: page
@@ -82,4 +82,4 @@ Seattle is already added, but you can add other nearby cities.
 ### This post is open source!
 Spot a typo or have ideas for additional projects?
 
-[Edit this post in the GitHub repo for this site](https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_posts/2014-07-30-new-to-civic-technology-code-for-seattle-project-ideas.md).
+[Edit this post in the GitHub repo for this site](https://github.com/openseattle/openseattle.github.com/blob/master/_posts/2014-07-30-new-to-civic-technology-code-for-seattle-project-ideas.md).

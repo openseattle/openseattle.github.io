@@ -4,9 +4,9 @@ slug: code-of-conduct
 layout: page
 ---
 
-Code for Seattle activities and events should foster meaningful collaboration between participants, community partners, and government partners.
+Open Seattle activities and events should foster meaningful collaboration between participants, community partners, and government partners.
 
-The Code for Seattle community expects that Code for Seattle activities and events:
+The Open Seattle community expects that Open Seattle activities and events:
 
 - Are a safe and respectful environment for all participants.
 - Are a place where people are free to fully express their identities.
@@ -20,7 +20,7 @@ The Code for Seattle community expects that Code for Seattle activities and even
 - Actively involve community groups and those with subject matter expertise in the decision-making process.
 - Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 
-Code for Seattle reserves the right to ask anyone in violation of these policies not to participate in Code for Seattle events or network activities.
+Open Seattle reserves the right to ask anyone in violation of these policies not to participate in Open Seattle events or network activities.
 
 #### Anti-Harassment Policy
 
@@ -30,19 +30,19 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 * * * 
 
-All Code for Seattle events and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+All Open Seattle events and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-Code for Seattle is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for Seattle event or network activity, including talks. Anyone in violation of these policies may expelled from Code for Seattle events or network activities, at the discretion of the event organizers.
+Open Seattle is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Open Seattle event or network activity, including talks. Anyone in violation of these policies may expelled from Open Seattle events or network activities, at the discretion of the event organizers.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
-If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for Seattle events and activities. 
+If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from Open Seattle events and activities. 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact Seth Vincent at svincent@codeforamerica.org & 360.850.9700 or Will Scott at wscott@codeforamerica.org & 206.395.9362. Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for Seattle & Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Open Seattle & Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 

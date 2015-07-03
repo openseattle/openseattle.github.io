@@ -93,13 +93,13 @@ Sourcing and aggregating stolen bike data for Seattle, with a particular focus o
 
 It's not easy to get a sense of the impact of the proposed Metro bus cuts, so a team created a visualization to make that easier.
 
-[![Screenshot of metro cuts map](https://lh5.googleusercontent.com/-YcWNYJ6s2Mg/UwvVW9uQBmI/AAAAAAAABe4/CQ9sPYxJD2g/w954-h511-no/Screen+Shot+2014-02-24+at+3.25.24+PM.png)](http://codeforseattle.org/metrocuts)
+[![Screenshot of metro cuts map](https://lh5.googleusercontent.com/-YcWNYJ6s2Mg/UwvVW9uQBmI/AAAAAAAABe4/CQ9sPYxJD2g/w954-h511-no/Screen+Shot+2014-02-24+at+3.25.24+PM.png)](http://openseattle.org/metrocuts)
 
 ### Check out the live site:
-[http://codeforseattle.org/metrocuts](http://codeforseattle.org/metrocuts)
+[http://openseattle.org/metrocuts](http://openseattle.org/metrocuts)
 
 ### GitHub repository:
-[http://github.com/codeforseattle/metrocuts](http://github.com/codeforseattle/metrocuts)
+[http://github.com/openseattle/metrocuts](http://github.com/openseattle/metrocuts)
 
 ## Real-time bus locations
 
@@ -134,7 +134,7 @@ Wouldn't it be great if we had icons for the neighborhoods, landmarks, city serv
 - Provide the icon access via local channels to the community both on and offline, so that all members regardless of access or knowledge of technology may be aware or make use of icons.
 
 ### Github repo for project:
-[http://github.com/codeforseattle/seattle-icons](http://github.com/codeforseattle/seattle-icons)
+[http://github.com/openseattle/seattle-icons](http://github.com/openseattle/seattle-icons)
 
 ## Rate your internet: Open Broadbrand Performance Survey (BPS)
 
@@ -255,4 +255,4 @@ We got some awesome cookies from The Cookie Department! Learn more about them he
 
 ## Have anything to add?
 
-You can [edit this post on GitHub](https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_posts/2014-03-05-codeacross-roundup.md) if we missed anything!
+You can [edit this post on GitHub](https://github.com/openseattle/openseattle.github.io/blob/master/_posts/2014-03-05-codeacross-roundup.md) if we missed anything!

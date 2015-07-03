@@ -9,7 +9,7 @@ The Seattle DiscoTech is this weekend! The free event is part of the National Da
 
 There are two main types of activities at this event: learning about civic tech at an assortment of workshops, & checking out civic tech projects & organizations at the civic tech fair.
 
-**You can RSVP (for free) here: [http://www.meetup.com/Code-for-Seattle/events/222381787/](http://www.meetup.com/Code-for-Seattle/events/222381787/)**
+**You can RSVP (for free) here: [http://www.meetup.com/openseattle/events/222381787/](http://www.meetup.com/openseattle/events/222381787/)**
 
 ## Workshops
 
@@ -58,7 +58,7 @@ LocalWiki is a grassroots effort to collect, share, and open the world's local k
 - [Access Map ](http://www.accessmapseattle.com/)
 - [Upgrade Seattle](http://www.upgradeseattle.com/)
 - [Big-Brained Superheros](http://www.bigbrainedsuperheroes.org/)
-- [SEANetMap](https://github.com/codeforseattle/seanetmap)
+- [SEANetMap](https://github.com/openseattle/seanetmap)
 
 ## Schedule
 
@@ -71,5 +71,5 @@ LocalWiki is a grassroots effort to collect, share, and open the world's local k
 - **3:00 p.m.** – happy hour / civic tech project fair
 - **3:30 p.m.** – closing speaker: Candace Faber, organizer of Hack the Commute
 
-**You can RSVP (for free) here: [http://www.meetup.com/Code-for-Seattle/events/222381787/](http://www.meetup.com/Code-for-Seattle/events/222381787/)**
+**You can RSVP (for free) here: [http://www.meetup.com/openseattle/events/222381787/](http://www.meetup.com/openseattle/events/222381787/)**
 

@@ -10,7 +10,7 @@ Here are the projects & activities from the day:
 
 ## Memory Lane
 
-![street view team](https://discuss.codeforseattle.org/uploads/default/39/27949a49baaab49a.JPG)
+![street view team](https://discuss.openseattle.org/uploads/default/39/27949a49baaab49a.JPG)
 
 Ethan Phelps-Goodman, Allie Sterling, Rob Middleton, and Paul Ort created a way to explore Seattle neighborhoods that show Google's StreetView from this year paired with their images from 7 years ago. It's interesting to see how things have changed even just over the last 7 years. 
 
@@ -22,13 +22,13 @@ The code is on GitHub: [github.com/ethanpg/memory-lane](https://github.com/ethan
 
 ## Frye comments
 
-![](https://discuss.codeforseattle.org/uploads/default/40/02f7117a57c50d71.JPG)
+![](https://discuss.openseattle.org/uploads/default/40/02f7117a57c50d71.JPG)
 
 Josh Peterson & team worked on various ways of analyzing and visualizing comments from the Frye Museum's _#SocialMedium_ exhibit. [Here is one of the visualizations created by Eric Valpey](https://public.tableausoftware.com/profile/valpey#!/vizhome/FryeComments/FryeComments). 
 
 ## Ambient, physical visualization of crime
 
-![](https://discuss.codeforseattle.org/uploads/default/41/02a420c55676c1aa.JPG)
+![](https://discuss.openseattle.org/uploads/default/41/02a420c55676c1aa.JPG)
 
 Shelly Farnham's project used an arduino and [nearly-realtime crime data](https://data.seattle.gov/browse?category=Public+Safety) to create a visualization that doesn't require looking at a computer screen.
 
@@ -40,7 +40,7 @@ Mike Wheaton, Christina Montilla, & Wendy Call planned and mocked up Seward Park
 
 ## Explore.js
 
-![](https://discuss.codeforseattle.org/uploads/default/42/281f8fbf557cb394.JPG)
+![](https://discuss.openseattle.org/uploads/default/42/281f8fbf557cb394.JPG)
 
 Harini K and Seth Vincent worked on explore.js, a prototype of an open-source tool for making maps of artwalk locations.
 
@@ -58,7 +58,7 @@ Ann Summy & Igor Talpalatski worked on uploading and tagging public art location
 
 ## Maptime office hours
 
-![](https://discuss.codeforseattle.org/uploads/default/43/8db4218c5b6fc695.JPG)
+![](https://discuss.openseattle.org/uploads/default/43/8db4218c5b6fc695.JPG)
 
 Sam Matthews and Clifford Snow held Maptime "office hours," making themselves available to help anyone wanting to learn how to make online maps.
 
@@ -73,4 +73,4 @@ See more photos of the event here:
 ### This post is open source!
 Spot a typo or have ideas for additional projects?
 
-[Edit this post in the GitHub repo for this site](https://github.com/codeforseattle/codeforseattle.github.com/blob/master/_posts/2014-11-18-art-civics-code-roundup.md).
+[Edit this post in the GitHub repo for this site](https://github.com/openseattle/openseattle.github.io/blob/master/_posts/2014-11-18-art-civics-code-roundup.md).

@@ -142,8 +142,8 @@
   description: "Use the data from LocalWiki in your JavaScript projects!"
   project_tags: null
   technology_tags: [javascript, node, api]
-  code_url: "https://github.com/codeforseattle/node-localwiki-client"
-  github_user: "codeforseattle"
+  code_url: "https://github.com/openseattle/node-localwiki-client"
+  github_user: "openseattle"
   github_repo:  "node-localwiki-client"
   link_url: null
   status: null
@@ -158,8 +158,8 @@
   description: "Use the data from LocalWiki in your Ruby projects!"
   project_tags: null
   technology_tags: [ruby, api]
-  code_url: "https://github.com/codeforseattle/localwiki_client"
-  github_user: "codeforseattle"
+  code_url: "https://github.com/openseattle/localwiki_client"
+  github_user: "openseattle"
   github_repo:  "localwiki_client"
   link_url: null
   status: null
@@ -420,8 +420,8 @@
   description: null
   project_tags: design
   technology_tags: null
-  code_url: "http://github.com/codeforseattle/seattle-icons"
-  github_user: "codeforseattle"
+  code_url: "http://github.com/openseattle/seattle-icons"
+  github_user: "openseattle"
   github_repo: "seattle-icons"
   link_url: "seattleicons.org"
   status: null
@@ -436,10 +436,10 @@
   description: null
   project_tags: null
   technology_tags: null
-  code_url: "http://github.com/codeforseattle/metrocuts"
+  code_url: "http://github.com/openseattle/metrocuts"
   github_repo: "metrocuts"
-  github_user: "codeforseattle"
-  link_url: "codeforseattle.org/metrocuts"
+  github_user: "openseattle"
+  link_url: "openseattle.org/metrocuts"
   status: null
   contributors: null
   screenshot_url: null

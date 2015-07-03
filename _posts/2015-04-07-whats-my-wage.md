@@ -4,7 +4,7 @@ published: true
 layout: page
 description:  Navigate Seattle's new minimum wage law with website and web app built by CfS team.
 ---
-In early February, Anna Minard of [Working Washington](http://www.workingwa.org/) arrived at Code for Seattle with an idea for a calculator to help workers determine their minimum age under the new minimum wage ordinance. Effective  April 1st, employers in Seattle must increase their employees' minimum wage over a four-year period until it reaches $15/hr.
+In early February, Anna Minard of [Working Washington](http://www.workingwa.org/) arrived at Open Seattle with an idea for a calculator to help workers determine their minimum age under the new minimum wage ordinance. Effective  April 1st, employers in Seattle must increase their employees' minimum wage over a four-year period until it reaches $15/hr.
 However, employees across the city may see the phase-in of $15 at a different scale and rate depending on the size of their employer and what benefits the employer offers.
 
 "We wanted workers to know which category they were in so they would know whether they were being paid the correct minimum wage—and have an easy way to report it if they thought they weren't getting what they're owed," says Minard.
