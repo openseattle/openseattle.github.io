@@ -8,3 +8,4 @@ This is the repo for openseattle.org.
 - submit pull request
 
 The site uses jekyll, a static site generator. Learn more about jekyll here: http://jekyllrb.com/
+
