@@ -58,7 +58,7 @@ On some pages it's collapsed, so all you'll see is the little icon.
 
 ### Click 'New Pull Request'
 
-Make sure to create a pull request to submit the changes in your repository to the openseattle.org/openseattle.github.io repository.
+Make sure to create a pull request to submit the changes in your repository to the openseattle/openseattle.github.io repository.
 
 ---
 
