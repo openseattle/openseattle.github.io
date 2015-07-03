@@ -1,19 +1,19 @@
 {
-  "name": "codeforseattle.github.com",
+  "name": "openseattle.github.com",
   "version": "0.0.0",
-  "description": "This is the repo for codeforseattle.org.",
+  "description": "This is the repo for openseattle.org.",
   "main": "index.js",
   "scripts": {
     "start": "bundle exec jekyll serve --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeforseattle/codeforseattle.github.com.git"
+    "url": "git://github.com/openseattle/openseattle.github.com.git"
   },
   "author": "sethvincent <sethvincent@gmail.com> (http://sethvincent.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeforseattle/codeforseattle.github.com/issues"
+    "url": "https://github.com/openseattle/openseattle.github.com/issues"
   },
-  "homepage": "https://github.com/codeforseattle/codeforseattle.github.com"
+  "homepage": "https://github.com/openseattle/openseattle.github.com"
 }
