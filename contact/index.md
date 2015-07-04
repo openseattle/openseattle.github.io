@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact us to learn more about CfS"
+title: "Contact us"
 ---
 
 ## Email the organizers of Open Seattle:
