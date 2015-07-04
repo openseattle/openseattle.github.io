@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CfS Events
+title: Events
 ---
 
 This is a list of events organized by Open Seattle & the events of other organizations that are relevant to civic engagement & technology.
