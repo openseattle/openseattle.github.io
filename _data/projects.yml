@@ -1,3 +1,19 @@
+- name: "http://www.georgeleestudio.com/"
+  description: "Brings visibility and presence to the Duwamish River, Seattle's only river. This project enhances our relationship with the river through a sculptural form and water quality data-driven lighting at night."
+  project_tags: [environmental, data, community]
+  technology_tags: [python, raspberry pi, bottle, Adafruit, i2c]
+  code_url: "https://github.com/tipsqueal/duwamish-lighthouse"
+  github_user: "tipsqueal"
+  github_repo: "duwamish-lighthouse"
+  link_url: "https://github.com/tipsqueal/duwamish-lighthouse"
+  status: "live/ongoing"
+  contributors: "George Lee, Colin Dietrich, Alan Vezina, Luke Swart"
+  screenshot_url: null
+  last_update: null
+  notes: null
+  type: null
+  categories: null
+
 - name: "http://fatalencounters.org/"
   description: "Largest directory of US citizens killed by police officers. Includes searchable/filterable list, visualizations, submissions pipeline, open data api, data management panel."
   project_tags: [police, civil rights, data, resources]
