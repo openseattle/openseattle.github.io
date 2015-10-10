@@ -1,3 +1,19 @@
+- name: "Seattle NodeSchool"
+  description: "Volunteer to mentor or to help with a general update of site with focus on building community and expanding community awareness. See the open issue at: https://github.com/nodeschool/seattle/issues/35"
+  project_tags: [javascript, node, education, community]
+  technology_tags: [javascript, node]
+  code_url: "https://github.com/nodeschool/seattle"
+  github_user: "nodeschool"
+  github_repo: "seattle"
+  link_url: "http://nodeschool.io/seattle/"
+  status: "live/ongoing"
+  contributors: ""
+  screenshot_url: null
+  last_update: null
+  notes: null
+  type: null
+  categories: null
+
 - name: "http://www.georgeleestudio.com/"
   description: "Brings visibility and presence to the Duwamish River, Seattle's only river. This project enhances our relationship with the river through a sculptural form and water quality data-driven lighting at night."
   project_tags: [environmental, data, community]
