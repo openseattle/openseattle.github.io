@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Open Seattle
+permalink: /about/
 ---
 
 
