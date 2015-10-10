@@ -14,14 +14,14 @@
   type: null
   categories: null
 
-- name: "http://www.georgeleestudio.com/"
+- name: "The Duwamish Lighthouse"
   description: "Brings visibility and presence to the Duwamish River, Seattle's only river. This project enhances our relationship with the river through a sculptural form and water quality data-driven lighting at night."
   project_tags: [environmental, data, community]
   technology_tags: [python, raspberry pi, bottle, Adafruit, i2c]
   code_url: "https://github.com/tipsqueal/duwamish-lighthouse"
   github_user: "tipsqueal"
   github_repo: "duwamish-lighthouse"
-  link_url: "https://github.com/tipsqueal/duwamish-lighthouse"
+  link_url: "http://www.georgeleestudio.com/duwamishlighthouse/"
   status: "live/ongoing"
   contributors: "George Lee, Colin Dietrich, Alan Vezina, Luke Swart"
   screenshot_url: null
