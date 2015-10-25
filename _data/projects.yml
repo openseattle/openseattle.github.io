@@ -1,3 +1,18 @@
+- name: "Washington State Data Visualization Program" 
+  description: "Inaugural open data internship program in partnership with Microsoft, Socrata, Tableau, LiveStories, WTIA, UW Tacoma, Gonzaga University, and Washingon State Agencies - Dept of Revenue, Employment Security, Labor & Industries, Early Learning and Financial Management." 
+  project_tags: [opendata, education, internship] 
+  technology_tags: [PowerBI, R, Tableau, LiveStories, Socrata] 
+  code_url: "https://github.com/WAStateDataViz/2015" 
+  github_user: "vJoneil" 
+  github_repo: "WAStateDataViz" 
+  public_url: "http://washingtontechnology.org/washington-states-virtual-data-visualization-internship-launches/" 
+  dev_status: "live" 
+  contributors: "Joneil Sampana" 
+  screenshot_url: "http://public.tableau.com/profile/andrew.weller#!/"
+  screenshot_url: "http://grangermoch.com/LNI/LNI_SITE/demo2.html"
+  screenshot_url: "https://insight.livestories.com/s/recreational-marijuana-revenues-in-washington-state/5588e0e8a750b313834c5582/"
+  last_update: 10/25/2015
+
 - name: "Seattle NodeSchool"
   description: "Volunteer to mentor or to help with a general update of site with focus on building community and expanding community awareness. See the open issue at: https://github.com/nodeschool/seattle/issues/35"
   project_tags: [javascript, node, education, community]
