@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact us"
+permalink: /contact/
 ---
 
 ## Email the organizers of Open Seattle:
