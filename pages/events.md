@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+permalink: /events/
 ---
 
 This is a list of events organized by Open Seattle & the events of other organizations that are relevant to civic engagement & technology.
@@ -47,5 +48,3 @@ Please join us for Electric Sky, an art and tech weekend campathon bringing toge
 <h2>Join our meetup group to get event announcements</h2>
 <p>On our meetup group we announce the weekly civic hacking nights, hackathons, and other events.</p>
 <p><a href="http://meetup.com/openseattle" class="button" target="_blank">Join the CfS meetup group</a></p>
-
-
