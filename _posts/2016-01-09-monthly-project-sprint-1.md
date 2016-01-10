@@ -13,12 +13,12 @@ Each month, teams will declare their projects at our first event of the month at
 We have three projects for our first sprint! Two of the projects focus on Open Seattle itself and will improve our design work and expand our organizing capacity. The third project expands on the existing projects [boundaries.seattle.io](http://boundaries.seattle.io) and [seattle-boundaries](http://github.com/openseattle/seattle-boundaries)
 
 ## Organizing comittee & docs
-[Christina Montilla](https://twitter.com/mamatillla) is putting together an organizing committee and documentation for all the duties related to running Open Seattle
+[Christina Montilla](https://twitter.com/mamatillla) is putting together an organizing committee and documentation for all the duties related to running Open Seattle.
 
 ## openseattle.org design changes
-[Seth Vincent](https://twitter.com/sethdvincent) is working on improvements to the design of openseattle.org. Work is in development at http://github.com/openseattle/style.
+[Seth Vincent](https://twitter.com/sethdvincent) is working on improvements to the design of openseattle.org. Work is in development at [github.com/openseattle/style](http://github.com/openseattle/style).
 
-You can see a demo of the in-progress work here: http://openseattle.org/style
+You can see a demo of the in-progress work here: [openseattle.org/style](http://openseattle.org/style)
 
 The end result of this work has two parts: openseattle.org will have a new design, and the style repo will become a styleguide and reusable css that can be repurposed for new Open Seattle project & event websites.
 
