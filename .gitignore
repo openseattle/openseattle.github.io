@@ -1,4 +1,5 @@
 _site/*
+node_modules
 
 # General Ignore
 Thumbs.db

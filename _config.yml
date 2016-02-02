@@ -1,3 +1,5 @@
+title: "Open Seattle"
+description: "Technology for civic engagement."
 baseurl: ""
 markdown: redcarpet
 permalink: /:categories/:year/:month/:day/:title
@@ -15,35 +17,6 @@ brigade:
     meetup-link: "http://www.meetup.com/OpenSeattle/"
     github: "https://github.com/openseattle"
     idea-list: "http://seattlewiki.net/Code_for_Seattle_ideas"
-
-content:
-    title: Code for Seattle
-    meetup-invite: "http://www.meetup.com/OpenSeattle/"
-    contact: "hi@openseattle.org"
-    banner: ./images/banner.jpg
-    projects:
-      - name: "SeattleWiki.net"
-        card-img: "http://i.imgur.com/DedjCpj.png"
-        link: "http://seattlewiki.net"
-      - name: "nwdata.org"
-        card-img: "http://imgur.com/p7l8hVM.png"
-        link: "http://nwdata.org"
-      - name: "Seattle Food Trucks"
-        card-img: "http://i.imgur.com/hTSG6AI.png"
-        link: "http://seattlefoodtrucks.herokuapp.com/"
-      - name: "GeoSub"
-        card-img: "http://i.imgur.com/dztXym2.png"
-        link: "https://github.com/willscott/geosub"
-      - name: "Seattle Blogs API"
-        card-img: "http://i.imgur.com/D4DTWFw.png"
-        link: "http://seattle-blogs.herokuapp.com/"
-      - name: "Ruby LocalWiki client"
-        card-img: "http://imgur.com/JUygPil.png"
-        link: "https://github.com/openseattle/localwiki_client"
-      - name: "Node.js LocalWiki client"
-        card-img: "http://imgur.com/FTCRgDE.png"
-        link: "https://github.com/openseattle/node-localwiki-client"
-
 
 google-analytics:
     use: true
