@@ -1,29 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>
-      {% if page.title %}
-        {{ page.title }} ~ Open Seattle
-      {% else %}
-        {{ site.content.title }} 
-      {% endif %}
-    </title>
-    <meta name="description" content="{{site.meta-description}}">
-    <meta name="viewport" content="initial-scale=1.0">
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link href="{{ site.baseurl }}/components/normalize-css/normalize.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Lora:400,400italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
-    <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
+---
+layout: basic
+---
 
-    <!--[if lt IE 9]>
-      <script src="{{ site.baseurl }}/components/html5shiv/dist/html5shiv.js"></script>
-    <![endif]-->
-  </head>
+<header class="site-header">
+  <div class="top-nav">
+    <div class="container">
+      <a href="/"><img src="http://openseattle.org/logo/openseattle-500x392.png" class="logo"/></a>
+      <ul class="nav-items">
+        <li class="nav-item top-nav-item"><a class="top-nav-link" href="/about">about</a></li>
+        <li class="nav-item top-nav-item"><a class="top-nav-link" href="/blog">blog</a></li>
+        <li class="nav-item top-nav-item"><a class="top-nav-link" href="/projects">projects</a></li>
+        <li class="nav-item top-nav-item"><a class="top-nav-link" href="/events">events</a></li>
+      </ul>
+    </div>
+  </div>
+</header>
 
-  <body class="{{ page.slug }}">
-    {{ content }}
+<main class="site-main" role="main">
+  <div class="page container">
+    <div class="page-main col col-12 md-col-8">
+      {{ content }}
+    </div>
 
-    {% if site.google-analytics.use %}{% include google-analytics.html %}{% endif %}
-  </body>
-</html>
+    <div class="page-sidebar col col-12 md-col-4">
+      <div class="sidebar-section">
+        <h2 class="sidebar-header">Open Seattle newsletter</h2>
+        <p>Learn about active projects, upcoming events, & news about local civic tech.</p>
+        <input type="text" placeholder="your email" class="full-width">
+        <button class="button full-width">Join our newsletter</button>
+      </div>
+
+      <div class="sidebar-section">
+        <h2 class="sidebar-header">Get Involved</h2>
+        <a href="http://openseattleslack.herokuapp.com"><img src="http://openseattleslack.herokuapp.com/badge.svg"></a>
+        <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" title="Twitter Follow Button" src="http://platform.twitter.com/widgets/follow_button.baa54ded21a982344c4ced326592f3de.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=open_seattle&amp;show_count=false&amp;show_screen_name=true&amp;size=m&amp;time=1453902590532" style="position: static; visibility: visible; width: 142px; height: 20px;" data-screen-name="open_seattle"></iframe><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="site-description">Open Seattle is a multi-disciplinary group working together to improve our communities through civic technology.</p>
+    <p class="credit center">Logo by <a href="https://github.com/karenwittekind">Karen Wittekind</a>. Header photo courtesy of the <a href="https://www.flickr.com/photos/seattlemunicipalarchives/3864593765">Seattle Municipal Archives</a></p>
+  </div>
+</footer>

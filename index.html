@@ -1,30 +1,114 @@
 ---
-layout: page
+layout: basic
 title: Civic technology in Seattle, WA
 ---
 
-<div class="posts section">
-  {% for post in site.posts limit:3 %}
-    {% if post.published %}
-      <div class="post" id="{{ post.slug }}">
-        <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
-        <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <div class="post-excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncate: 200 }}{% endif %}</div>
-      </div>
-    {% endif %}
-  {% endfor %}
-  <p><b><a href="{{site.baseurl}}/blog">More posts</a></b></p>
+<div class="landing-header">
+  <a href="{{ site.baseurl }}/"><img src="http://openseattle.org/logo/openseattle-500x392.png" class="logo"/></a>
+  <h2>Technology for <br>civic engagement.</h2>
+  <div class="landing-nav">
+    <ul class="nav-items">
+      <li class="nav-item landing-nav-item"><a class="landing-nav-link" href="/about">about</a></li>
+      <li class="nav-item landing-nav-item"><a class="landing-nav-link" href="/blog">blog</a></li>
+      <li class="nav-item landing-nav-item"><a class="landing-nav-link" href="/projects">projects</a></li>
+      <li class="nav-item landing-nav-item"><a class="landing-nav-link" href="/events">events</a></li>
+    </ul>
+  </div>
 </div>
 
-<hr>
+<main class="site-main" role="main">
+  <div class="container">
+    <div class="page-section clearfix">
+      <h2 class="page-section-header">Open source & local communities.</h2>
+      <p>Open Seattle runs an open project night, hackathons, unconferences, and other events focused on building the civic technology community in Seattle and addressing local civic issues with technology.</p>
+    </div>
 
-<div style="text-align:center;">
-<h2>Join our meetup group to get event announcements</h2>
-<p>On our meetup group we announce the weekly civic hacking nights, <br>hackathons, and other events.</p>
-<p><a href="http://meetup.com/openseattle" class="button" target="_blank">Join the Open Seattle meetup group</a></p>
+    <div class="page-section clearfix">
+      <h2 class="page-section-header">Projects.</h2>
+      <ul class="page-section-block-list clearfix">
+        <li class="page-section-block col col-12 md-col-4">
+          <div class="page-section-block-content">
+            <h3>seattle.io</h3>
+            <p>A collection of tools & resources for building Seattle-focused applications.</p>
+          </div>
+        </li>
+        <li class="page-section-block col col-12 md-col-4">
+          <div class="page-section-block-content">
+            <h3>HeyDuwamish!</h3>
+            <p>A community of residents monitoring toxic waste cleanup & environmental health issues along the Duwamish River.</p>
+          </div>
+        </li>
+        <li class="page-section-block col col-12 md-col-4">
+          <div class="page-section-block-content">
+            <h3>nwdata.org</h3>
+            <p>A directory of open civic data resources for the Pacific Northwest.</p>
+          </div>
+        </li>
+      </ul>
+      <hr>
+      <p><a href="/projects">Check out all our projects.</a></p>
+    </div>
 
-<hr>
-<h2 style="margin-bottom:10px;">Get updates about our projects:</h2>
-<p>Join the Open Seattle email newsletter to get updates about our projects. Emails are sent once a month, and provide a look at what's new with Open Seattle.</p>
-<div>{% include newsletter.html %}</div>
-</div>
+    <div class="page-section clearfix">
+      <h2 class="page-section-header">Events.</h2>
+      <p>Keep track of all our events at <a href="http://meetup.com/openseattle" target="_blank">meetup.com</a>.</p>
+    </div>
+
+    <div class="page-section clearfix">
+      <h2 class="page-section-header">Monthly project sprint.</h2>
+      <p>Every month we have a 2-3 week sprint for producing small projects. Teams declare their projects at our first event of the month at Socrata. These teams then launch their work at that month's Open Project Night.</p>
+    </div>
+
+    <div class="page-section clearfix">
+      <h2 class="page-section-header">Get involved.</h2>
+      <p>Learn more about getting involved with Open Seattle by <a href="/guides">reading our guides</a>.</p>
+    </div>
+
+    <div class="page-section clearfix">
+      <h2 class="page-section-header">Sponsors.</h2>
+      <ul class="page-section-block-list sponsors clearfix">
+        <li class="page-section-block col col-12 md-col-4">
+          <div class="page-section-block-content">
+            <a href="http://socrata.com" target="_blank">
+              <img src="/images/socrata.jpg">
+            </a>
+          </div>
+        </li>
+        <li class="page-section-block col col-12 md-col-4">
+          <div class="page-section-block-content">
+            <a href="http://codeforamerica.org" target="_blank">
+              <img src="/images/codeforamerica.png">
+            </a>
+          </div>
+        </li>
+        <li class="page-section-block col col-12 md-col-4">
+          <div class="page-section-block-content">
+            <a href="http://civicmakerlab.com" target="_blank">
+              <img src="/images/civicmakerlab.png">
+            </a>
+          </div>
+        </li>
+      </ul>
+      <hr>
+      <!-- <p><a href="/sponsor">Become a sponsor of Open Seattle</a></p> -->
+    </div>
+
+    <div class="page-section clearfix">
+      <h2 class="page-section-header">Find out what's happening.</h2>
+      <p>Learn about active projects, upcoming events, & news about local civic tech.</p>
+      <input type="text" placeholder="your email">
+      <button>Join our newsletter</button>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <a href="http://openseattleslack.herokuapp.com"><img src="http://openseattleslack.herokuapp.com/badge.svg"></a>
+    <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" title="Twitter Follow Button" src="http://platform.twitter.com/widgets/follow_button.baa54ded21a982344c4ced326592f3de.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=open_seattle&amp;show_count=false&amp;show_screen_name=true&amp;size=m&amp;time=1453902590532" style="position: static; visibility: visible; width: 142px; height: 20px;" data-screen-name="open_seattle"></iframe><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <div class="fb-follow" data-href="https://www.facebook.com/openseattle" data-layout="standard" data-show-faces="false" data-width="280"></div>
+    <p class="site-description">Open Seattle is a multi-disciplinary group working together to improve our communities through civic technology.
+    </p>
+    <p class="credit center">Logo by <a href="https://github.com/karenwittekind">Karen Wittekind</a>. Header photo courtesy of the <a href="https://www.flickr.com/photos/seattlemunicipalarchives/3864593765">Seattle Municipal Archives</a></p>
+  </div>
+</footer>

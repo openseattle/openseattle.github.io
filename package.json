@@ -4,6 +4,7 @@
   "description": "This is the repo for openseattle.org.",
   "main": "index.js",
   "scripts": {
+    "bundle-css": "sheetify -u sheetify-cssnext css/deps.css > css/bundle.css",
     "start": "bundle exec jekyll serve --watch"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/openseattle/openseattle.github.io/issues"
   },
-  "homepage": "https://github.com/openseattle/openseattle.github.io"
+  "homepage": "https://github.com/openseattle/openseattle.github.io",
+  "dependencies": {
+    "normalize.css": "^3.0.3",
+    "openseattle-style": "^1.0.0"
+  }
 }

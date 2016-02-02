@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title || post.title %}{{ page.title || post.title }} | {{ site.title }}{% else %}{{ site.title }} | {{ site.description }}{% endif %}</title>
+    <meta name="description" content="{% if page.description || post.description %}{{ page.description || post.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="viewport" content="initial-scale=1.0">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,400italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
+    <link href="{{ site.baseurl }}/css/bundle.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
+  </head>
+
+  <body class="{{ page.slug }}">
+    <script>window.fbAsyncInit = function() { FB.init({ appId      : '660271677448438', xfbml      : true, version    : 'v2.5' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+
+    {{ content }}
+
+    {% if site.google-analytics.use %}{% include google-analytics.html %}{% endif %}
+  </body>
+</html>

@@ -47,4 +47,6 @@ Please join us for Electric Sky, an art and tech weekend campathon bringing toge
 
 <h2>Join our meetup group to get event announcements</h2>
 <p>On our meetup group we announce the weekly civic hacking nights, hackathons, and other events.</p>
-<p><a href="http://meetup.com/openseattle" class="button" target="_blank">Join the CfS meetup group</a></p>
+
+<p><a href="http://meetup.com/openseattle" class="button" target="_blank">Join the Open Seattle meetup group</a></p>
+

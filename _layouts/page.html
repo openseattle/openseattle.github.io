@@ -2,29 +2,18 @@
 layout: default
 ---
 
-<div class="container">
-  <header class="page">
-    <div class="inner-wrapper">
-      {% include header-page.html %}
-      <h1 class="site-title">Open Seattle</h1>
-      <p class="site-description"><i>We are a multi-disciplinary group working together to improve our communities through civic technology. All minds are welcome!</i></p>
-      {% include navbar.html %}
-      <p style="text-align: center; margin-bottom:0px;"><a href="https://twitter.com/open_seattle" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @open_seattle</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
-      <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FOpenSeattle&amp;width=200&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=1403685376571754" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:62px;" allowTransparency="true"></iframe>
-      <a href="http://openseattleslack.herokuapp.com"><img src="http://openseattleslack.herokuapp.com/badge.svg"></a>
-    </div>
-  </header>
+<article class="page-content">
+  {% if page.date %}
+  <div class="page-date">{{ page.date | date: "%-d %B %Y" }}</div>
+  {% endif %}
 
-  <main role="main">
-    <div class="inner-wrapper">
-      {% if page.image %}
-      <p>
-        <img src="{{ page.image }}" class="post-image"><br>
-        <i>Photo by <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></i>
-      </p>
-      {% endif %}
-      <h1 class="post-title">{{ page.title }}</h1>
-      <div class="post-content">{{ content }}</div>
-    </div>
-  </main>
-</div> 
+  {% if page.title %}
+  <h1 class="page-title">
+    {{ page.title }}
+  </h1>
+  {% endif %}
+
+  <div class="page-body">
+    {{ content }}
+  </div>
+</article>

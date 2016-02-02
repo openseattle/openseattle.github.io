@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "CfS Partners"
+title: "Open Seattle Partners"
+permalink: /partners/
 ---
 
 ## Open Seattle Government Partners:
