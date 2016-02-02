@@ -19,6 +19,6 @@
   "homepage": "https://github.com/openseattle/openseattle.github.io",
   "dependencies": {
     "normalize.css": "^3.0.3",
-    "openseattle-style": "^1.0.0"
+    "openseattle-style": "^1.0.1"
   }
 }
