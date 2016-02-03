@@ -10,7 +10,13 @@ permalink: /blog/
       <article class="page-content" id="{{ post.slug }}">
         <div class="page-date">{{ post.date | date: "%-d %B %Y" }}</div>
         <h2 class="page-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <div class="page-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
+        <div class="page-excerpt">
+          {% if page.description %}
+          {{page.description}}
+          {% else %}
+          {{ post.excerpt | strip_html | truncate: 200 }}
+          {% endif %}
+        </div>
       </article>
     {% endif %}
   {% endfor %}
