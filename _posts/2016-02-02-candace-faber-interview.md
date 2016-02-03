@@ -65,13 +65,13 @@ So who do you most want to hear from? My only filter is for people who want to 
 ---
 
 ### How to Reach Candace:
-In person at one of the events above, on Twitter @civictechsea, or by email at Candace.Faber@Seattle.gov.
+In person at one of the events above, on Twitter [@civictechsea](http://twitter.com/civictechsea), or by email at Candace.Faber@Seattle.gov.
 
 ---
 
 ### Candace Recommends: A couple of upcoming City of Seattle events:
-- _Wednesday, February 3rd, 6:00 pm at City Hall: Social Justice Hackathon Demo Day._ The top three teams from the Social Justice Hackathon will showcase their apps, which address access-to-justice needs for low- and middle-income users. RSVP here.
-- _Thursday, February 4th, 6:00 pm at Socrata: Open Seattle._ Brandon Bouier, lead GIS analyst for the Seattle Police Department, will talk about open police data and the Department’s participation in the White House Police Data Initiative. RSVP here.
-- _Tuesday, February 16th, noon at Impact Hub Seattle: Civic Technology Hour_, featuring the City of Seattle’s Open Data Program and the Seattle Police Department. Includes a short presentation on police data and an open-format office hours with the civic technology program. RSVP here.
+- _Wednesday, February 3rd, 6:00 pm at City Hall: Social Justice Hackathon Demo Day._ The top three teams from the Social Justice Hackathon will showcase their apps, which address access-to-justice needs for low- and middle-income users. [RSVP here](https://www.eventbrite.com/e/seattles-social-justice-hackathon-demo-day-tickets-20669446872).
+- _Thursday, February 4th, 6:00 pm at Socrata: Open Seattle._ Brandon Bouier, lead GIS analyst for the Seattle Police Department, will talk about open police data and the Department’s participation in the White House Police Data Initiative. [RSVP here](http://www.meetup.com/openseattle/events/227995794/).
+- _Tuesday, February 16th, noon at Impact Hub Seattle: Civic Technology Hour_, featuring the City of Seattle’s Open Data Program and the Seattle Police Department. Includes a short presentation on police data and an open-format office hours with the civic technology program. [RSVP here](https://www.eventbrite.com/e/civic-technology-hour-at-impact-hub-brown-bag-lunch-tickets-21022170879).
 
 _Interview by Katherine Boyd. Photo courtesy of [Michael B. Maine](http://michaelbmaine.com)._
