@@ -6,6 +6,8 @@ description:  "Learn about Candace Faber and her new role as the civic technolog
 author: Katherine Boyd
 ---
 
+_Interview by Katherine Boyd. Photo courtesy of [Michael B. Maine](http://michaelbmaine.com)._
+
 <img src="/images/posts/candace-faber.jpg" alt="Candace Faber at Hack the Commute" style="
     float: right;
     width: 45%;
@@ -74,4 +76,5 @@ In person at one of the events above, on Twitter [@civictechsea](http://twitter.
 - _Thursday, February 4th, 6:00 pm at Socrata: Open Seattle._ Brandon Bouier, lead GIS analyst for the Seattle Police Department, will talk about open police data and the Department’s participation in the White House Police Data Initiative. [RSVP here](http://www.meetup.com/openseattle/events/227995794/).
 - _Tuesday, February 16th, noon at Impact Hub Seattle: Civic Technology Hour_, featuring the City of Seattle’s Open Data Program and the Seattle Police Department. Includes a short presentation on police data and an open-format office hours with the civic technology program. [RSVP here](https://www.eventbrite.com/e/civic-technology-hour-at-impact-hub-brown-bag-lunch-tickets-21022170879).
 
-_Interview by Katherine Boyd. Photo courtesy of [Michael B. Maine](http://michaelbmaine.com)._
+
+_Katherine Boyd is the owner of [Halcyon Northwest](http://halcyonnw.com/), a Seattle-area consulting company specializing in data and public policy._
