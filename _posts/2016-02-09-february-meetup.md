@@ -40,7 +40,7 @@ _A few comments from the Q&A:_
 
 **Q: Is there other locally available LE data?**
 
-This got crowdsourced to the group. There is publicly available police data from Renton and Auburn, but they only provide the office reports, not the raw data. Seattle is the first agency in the country to release 911 data. Other places to get data include CrimeReports.com and opendatanetwork.com.
+This got crowdsourced to the group. There is publicly available police data from Renton and Auburn, but they only provide the office reports, not the raw data. Seattle is the first agency in the country to release 911 data. Other places to get data include [CrimeReports.com](http://crimereports.com) and [opendatanetwork.com](http://www.opendatanetwork.com/).
 
 **Q: Do you get a lot of external requests for your data?**
 
