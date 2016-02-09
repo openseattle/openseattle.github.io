@@ -525,6 +525,22 @@
   notes: null
   type: null
   categories: null
+  
+- name: "SODA Plus"
+  description: "A project in the early stages to provide a GUI for generating Socrata API urls, doing advanced display of data, and allowing subscription to new results to queries."
+  project_tags: [google glass, privacy, map]
+  technology_tags: [javascript, jquery]
+  code_url: "https://github.com/sodaplus/sodaplus.github.io"
+  github_user: "sodaplus"
+  github_repo:  "sodaplus.github.io"
+  link_url: "sodaplus.org"
+  status: "live"
+  contributors: [Timothy Clemans]
+  screenshot_url: null
+  last_update: "2/9/2015"
+  notes: null
+  type: null
+  categories: null
 
 - name: "Deglassified"
   description: "A map of businesses with policies against Google Glass."
