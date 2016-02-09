@@ -1,7 +1,6 @@
 title: "Open Seattle"
 description: "Technology for civic engagement."
 baseurl: ""
-markdown: redcarpet
 permalink: /:categories/:year/:month/:day/:title
 
 gems:

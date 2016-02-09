@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "bundle-css": "sheetify -u sheetify-cssnext css/deps.css > css/bundle.css",
-    "start": "bundle exec jekyll serve --watch"
+    "start": "bundle exec jekyll serve -w"
   },
   "repository": {
     "type": "git",

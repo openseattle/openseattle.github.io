@@ -2,7 +2,7 @@
 title: "Interview with Candace Faber, Seattle's civic technology advocate"
 published: true
 layout: page
-description:  "Learn about Candace Faber and her new role as the civic technology advocate at the city of Seattle."
+description: "Learn about Candace Faber and her new role as the civic technology advocate at the city of Seattle."
 author: Katherine Boyd
 ---
 

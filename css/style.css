@@ -47,6 +47,10 @@ html, body {
   width: 280px !important;
 }
 
+.page-body img {
+  max-width: 100%;
+}
+
 /* ----- PROJECT LISTING ----- */
 
 .row {
