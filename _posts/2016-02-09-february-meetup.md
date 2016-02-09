@@ -18,7 +18,7 @@ Brandon walked the group through [several SPD data sets](http://www.seattle.gov/
 
 **[Precinct and neighborhood locator map](http://www.seattle.gov/seattle-police-department/crime-data/precinct-and-neighborhood-locator-map)** Updated in 2015, this map shows police precincts and neighborhoods, and lets you download the relevant micro community policing plan. The data is aligned with the 2010 census blocks, which means that users can directly relate demographic data to crime data.
 
-**[Online Crim maps](http://web6.seattle.gov/mnm/policereports.aspx)** This map can be used to locate 911 calls and SPD records. SPD has redacted the incidents to protect privacy, and Brandon built automated scripts blur the XY coordinates. Some incidents don’t make it out for display, due to their sensitive nature, such as domestic violence events; also, those associated with “sensitive locations” such as domestic violence shelters, and homeland security sites, are also removed. The categories need updating to match current internal SPD categories.
+**[Online Crime maps](http://web6.seattle.gov/mnm/policereports.aspx)** This map can be used to locate 911 calls and SPD records. SPD has redacted the incidents to protect privacy, and Brandon built automated scripts blur the XY coordinates. Some incidents don’t make it out for display, due to their sensitive nature, such as domestic violence events; also, those associated with “sensitive locations” such as domestic violence shelters, and homeland security sites, are also removed. The categories need updating to match current internal SPD categories.
 
 **[911 Incident Response data](https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp)** – This records data from 911 calls. Brandon highlighted a few details about the datasets:
 
@@ -28,7 +28,7 @@ Brandon walked the group through [several SPD data sets](http://www.seattle.gov/
 - **Fields beginning with “Initial”** are the what the 911 operator assigns at the time of call. Fields beginning with “**Event Clearance”** represent what the event actually was, as determined by police.
 - **At scene time** is the time stamp when the first unit got to the scene.
 
-[**Reported Incidents data**](https://data.seattle.gov/Public-Safety/Seattle-Police-Department-Police-Report-Incident/7ais-f98f) – These are events for which a police report was actually filled out. Lots of codes for reported incidents. Extensions are further subdivided. Like a burglary – residential? Commercial? – that can affect the response. Goes back to 2008\. CAD data goes back to July of 2009\.
+[**Reported Incidents data**](https://data.seattle.gov/Public-Safety/Seattle-Police-Department-Police-Report-Incident/7ais-f98f) –  – These are events for which a police report was actually filled out. There are lots of codes for reported incidents, and extensions are further subdivided. For instance, a burglary can residential or commercial, which would affect the police response. This dataset goes back to 2008, and the associated CAD data goes back to July of 2009.
 
 Summary of incidents is a basic roll up.
 
@@ -40,7 +40,7 @@ _A few comments from the Q&A:_
 
 **Q: Is there other locally available LE data?**
 
-This got crowdsourced to the group. There is publicly available police data from other Renton and Auburn, but only the office reports, not the raw everything. Seattle is the first agency in country to release 911 data. Other places to get data include CrimeReports.com, opendatanetwork.com.
+This got crowdsourced to the group. There is publicly available police data from Renton and Auburn, but they only provide the office reports, not the raw data. Seattle is the first agency in the country to release 911 data. Other places to get data include CrimeReports.com and opendatanetwork.com.
 
 **Q: Do you get a lot of external requests for your data?**
 
