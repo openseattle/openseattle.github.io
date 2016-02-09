@@ -11,8 +11,8 @@ permalink: /blog/
         <div class="page-date">{{ post.date | date: "%-d %B %Y" }}</div>
         <h2 class="page-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <div class="page-excerpt">
-          {% if page.description %}
-          {{page.description}}
+          {% if post.description %}
+          {{ post.description }}
           {% else %}
           {{ post.excerpt | strip_html | truncate: 200 }}
           {% endif %}
