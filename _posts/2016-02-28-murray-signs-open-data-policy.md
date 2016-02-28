@@ -34,9 +34,9 @@ Representatives for seven projects did lighting talks and did live demos:
 
 - [Access Maps Seattle](http://www.accessmapseattle.com), a pedestrian accessibility application for Seattle sidewalks for pedestrians.
 - [Seattle in Progress](https://www.seattleinprogress.com), a project to make citizens more informed and engaged about construction and development within the city.
-- Seattle Parks Finder, which allows you to research parks before visiting them. Seattle Parks will be at the [next Open Seattle meeting](http://www.meetup.com/openseattle/events/228962821/?gj=co2&rv=co2), Wednesday March 9th 6pm at Socrata.
-- SPS interactive, which makes Seattle Public School district data open and accessible, so users can can find and compare data about Seattle schools.
-- Hoof It, which shares traffic signal locations for pedestrians
+- [Seattle Parks Finder](http://seattle-park-finder.herokuapp.com/), which allows you to research parks before visiting them. Seattle Parks will be at the [next Open Seattle meeting](http://www.meetup.com/openseattle/events/228962821/?gj=co2&rv=co2), Wednesday March 9th 6pm at Socrata.
+- [SPS interactive](http://spsinteractive.azurewebsites.net/), which makes Seattle Public School district data open and accessible, so users can can find and compare data about Seattle schools.
+- [Hoof It](http://hoofit.herokuapp.com/), which shares traffic signal locations for pedestrians
 - Open Seattle’s very own [Hey Duwamish](http://heyduwamish.org)!
 - [Spokin](https://spokin.org/Account/Prereleasepassword), a cross between a social network and a wiki, to help people understand the communities they’re a part of and how to improve them. The communities can be topic-based or location-based.  It will use data that is user-generated as well as public data.
 
