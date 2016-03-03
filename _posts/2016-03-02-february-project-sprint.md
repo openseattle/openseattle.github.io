@@ -5,6 +5,10 @@ layout: page
 description:  "The projects we worked on in February: Hey Duwamish, boundaries.seattle.io, Soda Playground, automated video redaction"
 ---
 
+Wondering what happened in February with the projects folks bring to Open Seattle events?
+
+Here's a brief roundup of some of the activity!
+
 ## Hey Duwamish
 For February, the [Hey Duwamish](http://heyduwamish.org) team imported every community study conducted in Georgetown since 1977, categorized by progress and type of study. A new sidebar was also deployed, which will improve the UI as new datasets are added into Hey Duwamish. Also, a new "map pin spotlight" feature was implemented to help users focus on specific map points. Many thanks to our contributors Trevor Croxson, Tanner Lake, Layla Rowen, Nathaniel Blair-Stahn, David Valpey, and Nick Reid!
 
@@ -19,3 +23,8 @@ With [SODA Playground](http://sodaplayground.com) Tim Clemans implemented design
 
 ## Automatically redacting police video
 Tim Clemans also made progress with a system for automatically redacting identifying features of people from police video. Here's an example: [https://www.youtube.com/watch?v=vgImasW4VvI](https://www.youtube.com/watch?v=vgImasW4VvI)
+
+## Get involved
+Have things to add or interested in getting involved?
+
+Join our [slack group](https://openseattleslack.herokuapp.com) to chat with fellow civic nerds, [join our newsletter](http://eepurl.com/bSInl5) to get updates about projects, and check out our [upcoming events on meetup](http://meetup.com/openseattle).
