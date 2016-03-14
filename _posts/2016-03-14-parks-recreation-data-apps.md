@@ -6,7 +6,7 @@ description:  "Learn about apps focused on Seattle's parks, data released by Par
 author: Katherine Boyd
 ---
 
-Interested in making apps related to Seattle's parks? Staff from Seattle Parks & Recreation visited the March 10 Open Seattle and shared info about parks-related data & announced an upcoming hackathon focused on parks & rec!
+Interested in making apps related to Seattle's parks? Staff from Seattle Parks & Recreation visited the March 9 Open Seattle and shared info about parks-related data & announced an upcoming hackathon focused on parks & rec!
 
 Three civic tech projects were demoed as well, two of which are parks-related.
 
