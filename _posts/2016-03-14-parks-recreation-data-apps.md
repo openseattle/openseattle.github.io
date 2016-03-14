@@ -11,7 +11,7 @@ Interested in making apps related to Seattle's parks? Staff from Seattle Parks &
 Three civic tech projects were demoed as well, two of which are parks-related.
 
 ## Announcement: March 18-19 Hackathon
-Things kicked off with an announcement about AT&T’s Developer program. Ed Donaghue of AT&T invited people to the Hackathon at Surf on March 18-19. It will start Friday night, running through Saturday. 6 pm is dinner, 7 pm speakers, then team formation. You don’t have to come with a team, but can if you want to. Linked in meetup for this event.
+Things kicked off with an announcement about AT&T’s Developer program. Ed Donaghue of AT&T invited people to the Hackathon at Surf on March 18-19. It will start Friday night, running through Saturday. 6 pm is dinner, 7 pm speakers, then team formation. You don’t have to come with a team, but can if you want to. [RSVP to the event](https://www.eventbrite.com/e/att-mobile-app-hackathon-parks-and-recreation-seattle-tickets-20900115809?aff=muos).
 
 ## Three Demos
 
