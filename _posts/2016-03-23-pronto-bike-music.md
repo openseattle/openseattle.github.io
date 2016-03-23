@@ -1,18 +1,14 @@
 ---
-title: "Data & apps about Seattle Parks & Recreation"
+title: "Representing bike sharing data with music"
 published: true
 layout: page
-description:  "You’ve heard about visualizing data, but what about 'audible-izing' it? Last year Dan Muldrew won the 'Most Creative' award from Pronto’s data challenge for his project to set bike station data to music, changing the notes of the song according to the number of bikes docked in the Pronto station. He picked days of the year to highlight, such as Bike to Work Day, MLK Day, and April Fools Day. Recently I talked with him about how he developed the idea for turning data into sound."
+description:  "You’ve heard about visualizing data, but what about 'audible-izing' it? Last year Dan Muldrew won the 'Most Creative' award from Pronto’s data challenge for his project to set bike station data to music, changing the notes of the song according to the number of bikes docked in the Pronto station. He picked days of the year to highlight, such as Bike to Work Day, MLK Day, and April Fools Day. Recently Katherine Boyd talked with him about how he developed the idea for turning data into sound."
 author: Katherine Boyd
 ---
 
 You’ve heard about visualizing data, but what about “audible-izing” it? Last year Dan Muldrew won the “Most Creative” award from [Pronto’s data challenge](https://www.prontocycleshare.com/datachallenge) for his project to [set bike station data to music](https://www.youtube.com/playlist?list=PLnYZZJQzKeFDjsYDZztOTM-_jTL7hJkGs), changing the notes of the song according to the number of bikes docked in the Pronto station. He picked days of the year to highlight, such as Bike to Work Day, MLK Day, and April Fools Day. Recently I talked with him about how he developed the idea for turning data into sound.
 
-<img src="/images/posts/pronto.jpg" alt="Pronto bike station" style="
-    float: right;
-    width: 45%;
-    padding: 0px 0px 20px 20px;
-">
+<img src="/images/posts/pronto.jpg" alt="Pronto bike station" style="float:right; width:45%; padding:0px 0px 20px 20px;">
 
 ## I loved your Open Seattle presentation of this project. You set data from Seattle’s [Pronto Bike Sharing](https://www.prontocycleshare.com/) program to music. What inspired you?
 
