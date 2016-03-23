@@ -1,7 +1,8 @@
 ---
-title: "Code of Conduct"
-slug: code-of-conduct
 layout: page
+title: Code of Conduct
+permalink: /conduct/
+redirect_from: '/code-of-conduct/'
 ---
 
 Open Seattle activities and events should foster meaningful collaboration between participants, community partners, and government partners.
@@ -22,7 +23,7 @@ The Open Seattle community expects that Open Seattle activities and events:
 
 Open Seattle reserves the right to ask anyone in violation of these policies not to participate in Open Seattle events or network activities.
 
-#### Anti-Harassment Policy
+## Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -46,7 +47,7 @@ You can also contact Code for America about harassment at safespace@codeforameri
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
+## Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 

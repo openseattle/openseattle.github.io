@@ -17,12 +17,17 @@ Open Seattle runs a weekly civic hacking night, as well as hackathons and other 
 On our meetup group we announce the weekly civic hacking nights, hackathons, and other events.
 
 <a href="http://meetup.com/openseattle" class="button" target="_blank">Join the Open Seattle meetup group</a>
-<hr>
+
+---
 
 ## Projects
 
 Join the Open Seattle email newsletter to get updates about our projects. Emails are sent at most once a week, and provide a look at what's new with Open Seattle.
 
 {% include newsletter.html %}
-<hr>
 
+---
+
+## Code of Conduct
+
+All participants in Open Seattle events and activities, including our Slack group, GitHub issues and other forums, must follow our Code of Conduct. Read it at [openseattle.org/conduct]({{site.baseurl}}/conduct).
