@@ -35,7 +35,8 @@ When I first made it, I heard some patterns, but didn't know if people would fin
 ## You did this for a [data challenge that Pronto organized](https://www.prontocycleshare.com/datachallenge). Would people have access to their data outside a hackathon, or was this a one-time deal?
 
 Anyone can get access to Pronto’s data, on their [challenge website](https://www.prontocycleshare.com/datachallenge). (See the green button on the right hand side of the page)
-Are there other data-to-music projects out there, or are you the first person you know of to do this type of thing?
+
+## Are there other data-to-music projects out there, or are you the first person you know of to do this type of thing?
 
 Thomas Levine is one of the few examples I know of: a [music video about the financial crisis](https://thomaslevine.com/!/fms-symphony/), and another about [the ridership of Chicago buses and New York subways](https://thomaslevine.com/!/ridership-rachenitsa/).
 
