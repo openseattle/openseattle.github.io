@@ -41,7 +41,7 @@ permalink: /organize/
 - someone to host each event: act as MC during introductions & talks
 
 ## resources:
-- [community tool box, a guide to community organizing]([http://ctb.ku.edu/en]) 
+- [community tool box, a guide to community organizing](http://ctb.ku.edu/en) 
 - [art of community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf)
 - [how-to-conf](https://github.com/cascadiajs/how-to-conf)
 - [Less obvious conference checklist](https://github.com/erikr/lessobviouschecklist)
