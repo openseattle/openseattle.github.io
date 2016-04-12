@@ -4,9 +4,9 @@ title: "Get Started"
 permalink: /join/
 ---
 
-### Welcome to Open Seattle!
+## Welcome to Open Seattle!
 
-## Let's start with a quick orientation survey
+## First, take a quick orientation survey
 to help match you with ongoing projects & other members.
 <div class="typeform-widget" data-url="https://usatopenseattle.typeform.com/to/zyGtXR" data-text="Initial Orientation Survey" style="width:100%;height:500px;"></div>
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
