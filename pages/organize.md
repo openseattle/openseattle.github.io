@@ -4,8 +4,6 @@ title: Organizing Open Seattle
 permalink: /organize/
 ---
 
-## Organizing Open Seattle
-
 ## Monthly event organizing
 
 ### First event of the month:
