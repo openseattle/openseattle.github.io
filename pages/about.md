@@ -16,7 +16,7 @@ Open Seattle runs a bi-monthly civic hacking night, as well as hackathons and ot
 
 ## Interested?
 
-Check out when we meet next at our [Meet Up page](http://www.meetup.com/openseattle/). In the meantime, take our [short survey](/join) so we can get your info and get you oriented into the group!
+Find out when and where our next event will be at our [Meetup page](http://www.meetup.com/openseattle/). In the meantime, take our [short survey](/join) so we can get your info and get you oriented into the group!
 
 ---
 
