@@ -23,4 +23,5 @@ to help match you with ongoing projects & other members.
   - [facebook](https://www.facebook.com/OpenSeattle)
   - [meetup group](http://meetup.com/openseattle)
 - Take a look through the [list of projects](/projects)
+- Learn more about what it takes to organize Open Seattle or apply to become [a lead organizer](/organize)
 
