@@ -41,32 +41,17 @@ permalink: /organize/
 - someone to host each event: act as MC during introductions & talks
 
 ## resources:
-###  community tool box, a guide to community organizing
-http://ctb.ku.edu/en
+- [community tool box, a guide to community organizing]([http://ctb.ku.edu/en]) 
+- [art of community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf)
+- [how-to-conf](https://github.com/cascadiajs/how-to-conf)
+- [Less obvious conference checklist](https://github.com/erikr/lessobviouschecklist)
+- [adacamp toolkit](http://adacamp.org/)
+- [docs from srccon](http://srccon.org/docs/)
+- [code for america brigade toolkit](https://www.codeforamerica.org/brigade/organize/
+https://docs.google.com/document/d/19bN5RWK5nQTpz0mHUViHrzHiommBUAMSztwNRzUcxYo/edit#)
+- [How To Run A Successful Local User Group](https://www.youtube.com/watch?v=qAXw_fCDTZA&list=UUIP244iNzbn4iEkDOgczvcQ)
 
-###  art of community
-http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf
-
-### how-to-conf
-https://github.com/cascadiajs/how-to-conf
-
-### Less obvious conference checklist
-https://github.com/erikr/lessobviouschecklist
-
-### adacamp toolkit
-http://adacamp.org/
-
-### docs from srccon
-http://srccon.org/docs/
-
-### code for america brigade toolkit
-https://www.codeforamerica.org/brigade/organize/
-https://docs.google.com/document/d/19bN5RWK5nQTpz0mHUViHrzHiommBUAMSztwNRzUcxYo/edit#
-
-### How To Run A Successful Local User Group
-https://www.youtube.com/watch?v=qAXw_fCDTZA&list=UUIP244iNzbn4iEkDOgczvcQ
-
-##Wanna gain experience in leading & organizing a community group? Apply for a leadership position! 
+##Wanna gain experience in leading & organizing a community group? Apply for a leadership position. 
 
 <div class="typeform-widget" data-url="https://usatopenseattle.typeform.com/to/F58jgP" data-text="Open Seattle Volunteer Application" style="width:100%;height:500px;"></div>
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
