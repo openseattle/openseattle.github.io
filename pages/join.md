@@ -21,7 +21,7 @@ First, take a quick orientation survey to help match you with ongoing projects &
 Now that we know a little bit more about you, learn more about Open Seattle
 
 - Join our slack group ([openseattle.slack.com](http://openseattle.slack.com))!
-  - Sign up here: [https://openseattleslack.herokuapp.com](https://openseattleslack.herokuapp.com)
+  - [Sign up here](https://openseattleslack.herokuapp.com)
 - Join our [mailing list](http://openseattle.us3.list-manage2.com/subscribe/?u=f405e5b88dbe4706a8854768b&id=d0d6ff42a4)
 - Take a look at our [GitHub-powered discussion forum](http://github.com/openseattle/discuss/issues)
 - Check out all the different Open Seattle websites, social media, etc:
