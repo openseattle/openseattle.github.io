@@ -4,6 +4,10 @@ title: Organizing Open Seattle
 permalink: /organize/
 ---
 
+Interested in what it takes to make Open Seattle keep happening? Want to get involved and contribute your skills?
+
+This page describes many of the ongoing responsibilities of Open Seattle organizers and an application form for becoming a volunteer organizer.
+
 ## Monthly event organizing
 
 ### First event of the month:
