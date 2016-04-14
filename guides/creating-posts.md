@@ -45,6 +45,7 @@ This is a good template for the YAML frontmatter:
 ```
 ---
 title: "Art + Civics + Code roundup"
+description: "All the things related to Art + Civics + Code"
 published: false
 layout: page
 ---
@@ -56,7 +57,7 @@ Make sure to set published to `true` when you're ready to make the post go live.
 
 ### Markdown
 
-Posts are written using markdown. For a nice guide to markdown formatting take a look at this: https://help.github.com/articles/markdown-basics/
+Posts are written using markdown. For a nice guide to markdown formatting take a look at this: [help.github.com/articles/markdown-basics](https://help.github.com/articles/markdown-basics/)
 
 ### Commit your changes
 After you've made all the necessary changes, go to the bottom of the page, add a commit message that describe your changes, then save your changes by clicking the "Commit new file" button (or the "Commit changes" button if your editing an existing file).
