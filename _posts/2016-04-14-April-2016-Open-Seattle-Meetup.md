@@ -31,11 +31,11 @@ Others don’t think AI risk is a threat, like [Andrew NG](http://fusion.net/sto
 Contact: [nevan.wichers@gmail.com](nevan.wichers@gmail.com)
 
 **Pat Tressel** announced the annual [State of the Map Conference](http://stateofthemap.us/) will be July 23-25th, and will be in Seattle this year. The last day will be a hack-a-thon. They are focusing on projects: 
--	Infrastructure resilience for the Open Street map itself. 
--	A way to collect road speed information in places that might need relief assistance, such as West Africa during the recent Ebola outbreak. They want to collect time stamps on commercial drivers to infer the speed of travel. They would then import that into Open Street Map, and compute real drive time polygons, so they can place new relief sites (like Ebola clinics).
--	Red Cross missing maps project – there will be a mapathon.
--	Get out and map – mapping plants in the Arboretum.
--	And several more!
+*	Infrastructure resilience for the Open Street map itself. 
+*	A way to collect road speed information in places that might need relief assistance, such as West Africa during the recent Ebola outbreak. They want to collect time stamps on commercial drivers to infer the speed of travel. They would then import that into Open Street Map, and compute real drive time polygons, so they can place new relief sites (like Ebola clinics).
+*	Red Cross missing maps project – there will be a mapathon.
+*	Get out and map – mapping plants in the Arboretum.
+*	And several more!
 Contact: [ptressel@myuw.net](ptressel@myuw.net)
 
 **Mike Roshak** announced this year’s [Seattle Give Camp](http://www.seattlegivecamp.org/), October 14-16 at the Microsoft Redmond campus, an entire weekend devoted to coding for charities. In the past they’ve made websites, mobile projects for food donations, and [many other projects](C:\Users\Katherine\Dropbox\Halcyon Northwest\Seattlegivecamp.org\projects\2015). They are looking for developers, designers, and project managers.
@@ -54,27 +54,27 @@ Contact: luke@heyduwamish.org, lukeswart on Slack, or heyduwamish.org - click �
 
 **Per Nilsson**, of Formidable in Fremont, gave a presentation on data visualization using Victory.  He used Fremont Bridge bike data as an example walk the listeners through the tools. He uses React, which is a declarative UI that gives you a view on your data. It has optimized rendering and hot reloading.
 
--	Open Data
--	--	Seattle Open Data: https://data.seattle.gov/
--	--	Search: https://data.seattle.gov/browse?q=bicycle
--	--	Fremont bicycle count: https://data.seattle.gov/Transportation/Fremont-SB-bicycle-count/aggm-esc4
--	--	There's the data. Now what? Download?
--	Socrata APIs!
--	--	https://dev.socrata.com/data/
--	--	Search: http://www.opendatanetwork.com/search?q=seattle+bicycle
--	--	Found it: http://www.opendatanetwork.com/dataset/data.seattle.gov/65db-xm6k
--	--	Getting started: https://dev.socrata.com/foundry/data.seattle.gov/4xy5-26gy
--	Test the API
--	--	Postman (Chrome extension)
--	--	Example request: "https://data.seattle.gov/resource/4xy5-26gy.json?$order=date ASC&$where=date between '2015-01-27T21:18:15' and '2015-01-28T21:18:15'"
--	--	Postman will escape those spaces for you
--	Get an App token
--	--	Not necessary for testing, but good for app development
--	--	https://data.seattle.gov/login
--	--	https://data.seattle.gov/profile/Per/ynvf-9q8v/app_tokens
--	OK, I've got access to data. Now what?
--	--	Victory: http://victory.formidable.com
--	--	http://jsbin.com/webike/edit?html,css,js
+1.	Open Data
+* Seattle Open Data: https://data.seattle.gov/
+* Search: https://data.seattle.gov/browse?q=bicycle
+* Fremont bicycle count: https://data.seattle.gov/Transportation/Fremont-SB-bicycle-count/aggm-esc4
+* There's the data. Now what? Download?
+2.	Socrata APIs!
+* https://dev.socrata.com/data/
+* Search: http://www.opendatanetwork.com/search?q=seattle+bicycle
+* Found it: http://www.opendatanetwork.com/dataset/data.seattle.gov/65db-xm6k
+* Getting started: https://dev.socrata.com/foundry/data.seattle.gov/4xy5-26gy
+3.	Test the API
+* Postman (Chrome extension)
+* Example request: "https://data.seattle.gov/resource/4xy5-26gy.json?$order=date ASC&$where=date between '2015-01-27T21:18:15' and '2015-01-28T21:18:15'"
+* Postman will escape those spaces for you
+4.	Get an App token
+* Not necessary for testing, but good for app development
+* https://data.seattle.gov/login
+* https://data.seattle.gov/profile/Per/ynvf-9q8v/app_tokens
+5.	OK, I've got access to data. Now what?
+* Victory: http://victory.formidable.com
+* http://jsbin.com/webike/edit?html,css,js
 
 For more information:
 @persproutlab
