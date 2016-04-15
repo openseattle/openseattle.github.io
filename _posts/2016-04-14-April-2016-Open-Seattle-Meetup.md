@@ -8,7 +8,7 @@ author: Katherine Boyd
 
 Seth Vincent hosted the meeting. 
 
-# Announcements
+## Announcements
 
 **Will Saunders**, the Open Data lead for the State of Washington, is working on a grant funded project to teach librarians how to share data: [Data Equity for Main Street](https://www.newschallenge.org/challenge/data/entries/data-equity-for-main-street-bringing-open-data-home-through-local-libraries). He needs help to design the curriculum – 1-2 civic technologists who have ideas or experience on how to teach people to use open data. 
 Contact: [Will.saunders@watech.wa.gov](Will.saunders@watech.wa.gov). Slack channel: will-saunders. Also, Washington’s open data is on Data.wa.gov. 
@@ -53,7 +53,7 @@ Contact: sethvincent on Slack
 **Luke Swart** is seeking volunteers to help with the [Hey Duwamish](http://www.heyduwamish.org/) project. Also, there will be a [Duwamish Live](http://www.duwamishalive.org/) event to restore and clean up parts of the Duwamish on Earth Day. There is a [storytelling](http://www.duwamishtribe.org/images/DLHSTG20160424-Brochure.pdf) event the following week. 
 Contact: luke@heyduwamish.org, lukeswart on Slack, or heyduwamish.org - click “Get involved”
 
-# Presentation: Visualizing Data 
+## Presentation: Visualizing Data 
 
 **Per Nilsson**, of Formidable in Fremont, gave a presentation on data visualization using Victory.  He used Fremont Bridge bike data as an example walk the listeners through the tools. He uses React, which is a declarative UI that gives you a view on your data. It has optimized rendering and hot reloading.
 
@@ -86,7 +86,7 @@ GitHub Coopy
 https://github.com/coopy/react-office-hours
 
 
-# Seattle's Open Data Policy Update 
+## Seattle's Open Data Policy Update 
 **Candace Faber** gave a brief presentation on how the city is starting the flesh out the new Open Data policy. She is hoping to have other department presenters for the rest of the year, like the recent Parks & Recreation presentation. 
 
 For more information:
