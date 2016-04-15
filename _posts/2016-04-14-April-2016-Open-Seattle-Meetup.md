@@ -31,7 +31,8 @@ Contact: [Jamie.smeland@kingcounty.gov](Jamie.smeland@kingcounty.gov).
 
 Contact: [nevan.wichers@gmail.com](nevan.wichers@gmail.com)
 
-**Pat Tressel** announced the annual [State of the Map Conference](http://stateofthemap.us/) will be July 23-25th, and will be in Seattle this year. The last day will be a hack-a-thon. They are focusing on projects: 
+**Pat Tressel** announced the annual [State of the Map Conference](http://stateofthemap.us/) will be July 23-25th, and will be in Seattle this year. The last day will be a hack-a-thon. They are focusing on several projects
+
 > Infrastructure resilience for the Open Street map itself. 
 > A way to collect road speed information in places that might need relief assistance, such as West Africa during the recent Ebola outbreak. They want to collect time stamps on commercial drivers to infer the speed of travel. They would then import that into Open Street Map, and compute real drive time polygons, so they can place new relief sites (like Ebola clinics).
 > Red Cross missing maps project – there will be a mapathon.
