@@ -91,6 +91,6 @@ https://github.com/coopy/react-office-hours
 
 For more information:
 Open.data@seattle.gov
-http://www.seattle.gov/legislation-policies-and-standards/open-data
+City of Seattle's [Open Data Resources](http://www.seattle.gov/legislation-policies-and-standards/open-data)
 
 _Katherine Boyd is the owner of [Halcyon Northwest](http://halcyonnw.com/), a Seattle-area consulting company specializing in data and public policy._
