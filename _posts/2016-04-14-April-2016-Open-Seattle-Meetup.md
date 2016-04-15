@@ -31,11 +31,11 @@ Others don’t think AI risk is a threat, like [Andrew NG](http://fusion.net/sto
 Contact: [nevan.wichers@gmail.com](nevan.wichers@gmail.com)
 
 **Pat Tressel** announced the annual [State of the Map Conference](http://stateofthemap.us/) will be July 23-25th, and will be in Seattle this year. The last day will be a hack-a-thon. They are focusing on projects: 
-*	Infrastructure resilience for the Open Street map itself. 
-*	A way to collect road speed information in places that might need relief assistance, such as West Africa during the recent Ebola outbreak. They want to collect time stamps on commercial drivers to infer the speed of travel. They would then import that into Open Street Map, and compute real drive time polygons, so they can place new relief sites (like Ebola clinics).
-*	Red Cross missing maps project – there will be a mapathon.
-*	Get out and map – mapping plants in the Arboretum.
-*	And several more!
+1. Infrastructure resilience for the Open Street map itself. 
+2. A way to collect road speed information in places that might need relief assistance, such as West Africa during the recent Ebola outbreak. They want to collect time stamps on commercial drivers to infer the speed of travel. They would then import that into Open Street Map, and compute real drive time polygons, so they can place new relief sites (like Ebola clinics).
+3. Red Cross missing maps project – there will be a mapathon.
+4. Get out and map – mapping plants in the Arboretum.
+5. And several more!
 Contact: [ptressel@myuw.net](ptressel@myuw.net)
 
 **Mike Roshak** announced this year’s [Seattle Give Camp](http://www.seattlegivecamp.org/), October 14-16 at the Microsoft Redmond campus, an entire weekend devoted to coding for charities. In the past they’ve made websites, mobile projects for food donations, and [many other projects](C:\Users\Katherine\Dropbox\Halcyon Northwest\Seattlegivecamp.org\projects\2015). They are looking for developers, designers, and project managers.
