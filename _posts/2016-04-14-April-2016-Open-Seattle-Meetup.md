@@ -90,7 +90,7 @@ https://github.com/coopy/react-office-hours
 **Candace Faber** gave a brief presentation on how the city is starting the flesh out the new Open Data policy. She is hoping to have other department presenters for the rest of the year, like the recent Parks & Recreation presentation. 
 
 For more information:
-Open.data@seattle.gov
+Open.data@seattle.gov, 
 City of Seattle's [Open Data Resources](http://www.seattle.gov/legislation-policies-and-standards/open-data)
 
 _Katherine Boyd is the owner of [Halcyon Northwest](http://halcyonnw.com/), a Seattle-area consulting company specializing in data and public policy._
