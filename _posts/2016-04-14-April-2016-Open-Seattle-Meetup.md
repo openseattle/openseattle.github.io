@@ -28,14 +28,16 @@ Contact: [Jamie.smeland@kingcounty.gov](Jamie.smeland@kingcounty.gov).
 > There are [arguments from an AI researcher](http://intelligence.org/files/AIPosNegFactor.pdf) explaining why this is a problem. Bill Gates, Stephen Hawking, and Elon Musk are [also worried about this problem](http://observer.com/2015/08/stephen-hawking-elon-musk-and-bill-gates-warn-about-artificial-intelligence/). Some organizations working on this problem are Machine Intelligence Research Institute and the Future of Life Institute. 
 
 > Others don’t think AI risk is a threat, like [Andrew NG](http://fusion.net/story/54583/the-case-against-killer-robots-from-a-guy-actually-building-ai/) and [other AI researchers](http://www.popsci.com/bill-gates-fears-ai-ai-researchers-know-better). The argue that smarter than human AI is very far away so we shouldn’t worry about it now, or that when AI does become smarter than humans it will still be under human control.
+
 Contact: [nevan.wichers@gmail.com](nevan.wichers@gmail.com)
 
 **Pat Tressel** announced the annual [State of the Map Conference](http://stateofthemap.us/) will be July 23-25th, and will be in Seattle this year. The last day will be a hack-a-thon. They are focusing on projects: 
-1. Infrastructure resilience for the Open Street map itself. 
-2. A way to collect road speed information in places that might need relief assistance, such as West Africa during the recent Ebola outbreak. They want to collect time stamps on commercial drivers to infer the speed of travel. They would then import that into Open Street Map, and compute real drive time polygons, so they can place new relief sites (like Ebola clinics).
-3. Red Cross missing maps project – there will be a mapathon.
-4. Get out and map – mapping plants in the Arboretum.
-5. And several more!
+> Infrastructure resilience for the Open Street map itself. 
+> A way to collect road speed information in places that might need relief assistance, such as West Africa during the recent Ebola outbreak. They want to collect time stamps on commercial drivers to infer the speed of travel. They would then import that into Open Street Map, and compute real drive time polygons, so they can place new relief sites (like Ebola clinics).
+> Red Cross missing maps project – there will be a mapathon.
+> Get out and map – mapping plants in the Arboretum.
+> And several more!
+
 Contact: [ptressel@myuw.net](ptressel@myuw.net)
 
 **Mike Roshak** announced this year’s [Seattle Give Camp](http://www.seattlegivecamp.org/), October 14-16 at the Microsoft Redmond campus, an entire weekend devoted to coding for charities. In the past they’ve made websites, mobile projects for food donations, and [many other projects](C:\Users\Katherine\Dropbox\Halcyon Northwest\Seattlegivecamp.org\projects\2015). They are looking for developers, designers, and project managers.
