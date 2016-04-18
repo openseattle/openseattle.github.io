@@ -8,7 +8,7 @@ author: Seth Vincent
 
 You have a difficult decision this week: will you hack for **fish** or for **space**?
 
-## Fishackthon: April 22-24
+## Fishackathon: April 22-24
 
 Fishackathon Seattle is one of 41 simultaneous hackathons taking place worldwide, coordinated by the U.S. Department of State in an effort to inspire tech solutions to our global fishery challenges. 
 
@@ -18,7 +18,7 @@ Participants will be asked to hack on one of nine challenges related to sustaina
 
 RSVP here: [http://fishackathon.co/seattle](http://fishackathon.co/seattle/)
 
-## NASA Space Apps: April 22-24
+## NASA Space Apps Challenge: April 22-24
 
 For 48-72 hours across the world, problem solvers like you join us for NASA’s International Space Apps Challenge, one of the largest hackathons in the universe. Empowered by open data, you collaborate with strangers, colleagues, friends, and family to solve perplexing challenges in new and unexpected ways -- from designing an interactive space glove to natural language processing to clean water mapping. Join us on our open data mission, and show us how you innovate.
 
