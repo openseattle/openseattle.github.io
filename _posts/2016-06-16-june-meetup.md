@@ -1,6 +1,6 @@
 ---
 title: "Open Seattle June 2016 Meeting: Public Safety Data & Vision"
-published: false
+published: true
 layout: page
 description: "Robin Jones of Sacrata on law enforcement reporting, and Jim Curtain of SDOT on Vision Zero - no traffic-related deaths or ijnuries in Seattle by 2030. Plus an update on the City of Seattle Open Data Policy, and announcements."
 author: Katherine Boyd
