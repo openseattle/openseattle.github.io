@@ -9,16 +9,16 @@ author: Katherine Boyd
 Seth Vincent hosted the meeting.
 
 ## City of Seattle Open Data Policy update
-**Candace Faber** gave the update. She just finished the City’s first data camp. This is the first major milestone of the new Open Data policy – the city’s data is open by preference. She was teaching city staff champions about open data, why it matters, and how Open Seattle members might want to use it. 
+**Candace Faber** gave the update. She just finished the City’s first data camp. This is the first major milestone of the new Open Data policy – the city’s data is open by preference. The camp taught city staff champions about open data, why it matters, and how Open Seattle members might want to use it. 
 
 For more information:
-Open.data@seattle.gov, 
+Open.data@seattle.gov
 City of Seattle's [Open Data Resources](http://www.seattle.gov/legislation-policies-and-standards/open-data)
 
-## Public Safety data, Robin Jones, Socrata
+## Public Safety Data, Robin Jones, Socrata
 **Robin Jones** is a Vice President at Socrata, and leads growth initiatives at the company. Most recently, she has focused on public safety agencies. Law enforcement agencies are facing extra scrutiny recently due to high-profile officer involved shootings and use of force incidents. The White House convened a task force on 21st century policing last year. Two recommendations came from that: Police agencies need to be more transparent, and they need to do better citizen engagement. This lead to The White House Police Data Initiative to promote open data from law enforcement.
 
-Socrata is currently supporting an older app called Crime Reports. This is a crime incident map, and about 1,100 police agencies upload data there. The technology had not been updated since 2004, until Socrata started working on it. Now, police agencies can put in messages related to specific incidents on the map.  Users can also access an open data portal at moto.data.socrata.com. The data is all in the same schema, allowing you to compare apples to apples. There is lots of public safety data for Seattle.
+Socrata is currently supporting an older app called Crime Reports. This is a crime incident map, and about 1,100 police agencies upload data there. The technology had not been updated since 2004, until Socrata started working on it. Now, police agencies can put in messages related to specific incidents on the map.  Users can also access an [open data portal] (moto.data.socrata.com). The data is all in the same schema, allowing you to compare apples to apples. There is lots of public safety data for Seattle.
 
 There is also a feature that provides some context that puts data into perspective. Once example is an opioid addiction data story.  The app still provides access to the raw data so others can review the data under their own power. 
 
@@ -63,6 +63,7 @@ We are close, but not quite ready, to evaluation; we usually want to wait one ye
 We’re interested in all of the data that we can get our hands on. We do have 10-12,000 crashes that are actually happening, but are interested in every piece of information that we can get so we can be more practice. 
 
 **Do you have traffic volume data for each mode?**
+
 Bikes: Strava data comes from phones to track route and generate exposure information. We’re also trying to get counters for bikes on every bike facility.  
 
 Pedestrians: we are part of the national effort to count pedestrians? 
@@ -71,18 +72,18 @@ Quarterly we count at 50 intersections, and the downtown association does counts
 Vehicles: We track type and number of turning movements of vehicles at intersections. We have good volume and speed data for vehicles, often using tubes. We’re mainly concerned with volumes on arterial street networks, which we are using to create exposure models. 
 
 **Police were still using paper tickets as of last year. When are they in transitioning over to more electronic records?**
-In 2015, SPD just switched over to all-electronic citations. There are still limitations: officers are not standardized across their data collections, so lots of data cleanup needs to happen. 
+In 2015, SPD switched over to all-electronic citations. There are still limitations: officers are not standardized across their data collections, so lots of data cleanup needs to happen. 
 
 Contact Jim: 
-Jim.curtain@seattle.gov
-206-684-8874
-Seattle.gov/visionzero
-Seattle.gov/transportation
+Jim.curtain@seattle.gov, 
+206-684-8874,
+[Seattle.gov/visionzero] (Seattle.gov/visionzero),
+[Seattle.gov/transportation] (Seattle.gov/transportation)
 
 ##Announcements
 
-**Luke Swart**, heyduwamish.org. They can use help from journalists, technologists, anyone interested in using this platform to protect our environment. 
-Contact: luke@heyduwamish.org, lukeswart on Slack, or heyduwamish.org - click “Get involved”
+**Luke Swart** from [heyduwamish.org] (heyduwamish.org). They can use help from journalists, technologists, anyone interested in using this platform to protect our environment. 
+Contact: luke@heyduwamish.org, lukeswart on Slack, or [heyduwamish.org] (heyduwamish.org) - click “Get involved”
 
 **Emma Brillhart** is working on Feeding Seattle. Compilation of all the subsidized and free meal programs for homeless and low-income people throughout the city. Want to switch from Angular to React, and make it more usable for social workers and homeless shelters. Adding Better filtering, better features, better maps. General geographical data. Contract her at emma.brillhart@gmail.com, ebrillhart on Slack, ebrillhart at github. 
 
