@@ -79,7 +79,7 @@ Jim.curtain@seattle.gov
 Seattle.gov/visionzero
 Seattle.gov/transportation
 
-##Announcements
+## Announcements
 
 **Luke Swart**, heyduwamish.org. They can use help from journalists, technologists, anyone interested in using this platform to protect our environment. 
 Contact: luke@heyduwamish.org, lukeswart on Slack, or heyduwamish.org - click “Get involved”
