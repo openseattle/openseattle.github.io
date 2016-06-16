@@ -18,7 +18,7 @@ City of Seattle's [Open Data Resources](http://www.seattle.gov/legislation-polic
 ## Public Safety data, Robin Jones, Socrata
 **Robin Jones** is a Vice President at Socrata, and leads growth initiatives at the company. Most recently, she has focused on public safety agencies. Law enforcement agencies are facing extra scrutiny recently due to high-profile officer involved shootings and use of force incidents. The White House convened a task force on 21st century policing last year. Two recommendations came from that: Police agencies need to be more transparent, and they need to do better citizen engagement. This lead to The White House Police Data Initiative to promote open data from law enforcement.
 
-Socrata is currently supporting an older app called Crime Reports. This is a crime incident map, and about 1,100 police agencies upload data there. The technology had not been updated since 2004, until Socrata started working on it. Now, police agencies can put in messages related to specific incidents on the map.  Users can also access an open data portal at moto.data.socrata.com. The data is all in the same schema, allowing you to compare apples to apples. There is lots of public safety data for Seattle.
+Socrata is currently supporting an older app called [Crime Reports](https://www.crimereports.com/). This is a crime incident map, and about 1,100 police agencies upload data there. The technology had not been updated since 2004, until Socrata started working on it. Now, police agencies can put in messages related to specific incidents on the map.  Users can also access an [open data portal](https://moto.data.socrata.com/) . The data is all in the same schema, allowing you to compare apples to apples. There is lots of public safety data for Seattle.
 
 There is also a feature that provides some context that puts data into perspective. Once example is an opioid addiction data story.  The app still provides access to the raw data so others can review the data under their own power. 
 
@@ -76,13 +76,13 @@ In 2015, SPD just switched over to all-electronic citations. There are still lim
 Contact Jim: 
 Jim.curtain@seattle.gov
 206-684-8874
-Seattle.gov/visionzero
-Seattle.gov/transportation
+[Seattle.gov/visionzero](http://www.seattle.gov/visionzero)
+[Seattle.gov/transportation](http://www.seattle.gov/transportation/)
 
 ## Announcements
 
-**Luke Swart**, heyduwamish.org. They can use help from journalists, technologists, anyone interested in using this platform to protect our environment. 
-Contact: luke@heyduwamish.org, lukeswart on Slack, or heyduwamish.org - click “Get involved”
+**Luke Swart**, [heyduwamish.org](http://heyduwamish.org/). They can use help from journalists, technologists, anyone interested in using this platform to protect our environment. 
+Contact: luke@heyduwamish.org, lukeswart on Slack, or [heyduwamish.org](http://heyduwamish.org/) - click “Get involved”
 
 **Emma Brillhart** is working on Feeding Seattle. Compilation of all the subsidized and free meal programs for homeless and low-income people throughout the city. Want to switch from Angular to React, and make it more usable for social workers and homeless shelters. Adding Better filtering, better features, better maps. General geographical data. Contract her at emma.brillhart@gmail.com, ebrillhart on Slack, ebrillhart at github. 
 
