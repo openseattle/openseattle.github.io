@@ -1,17 +1,18 @@
-- name: "Washington State Data Visualization Program" 
-  description: "Inaugural open data internship program in partnership with Microsoft, Socrata, Tableau, LiveStories, WTIA, UW Tacoma, Gonzaga University, and Washingon State Agencies - Dept of Revenue, Employment Security, Labor & Industries, Early Learning and Financial Management." 
-  project_tags: [opendata, education, internship] 
-  technology_tags: [PowerBI, R, Tableau, LiveStories, Socrata] 
-  code_url: "https://github.com/WAStateDataViz/2015" 
-  github_user: "vJoneil" 
-  github_repo: "WAStateDataViz" 
-  public_url: "http://washingtontechnology.org/washington-states-virtual-data-visualization-internship-launches/" 
-  dev_status: "live" 
-  contributors: "Joneil Sampana" 
-  screenshot_url: "http://public.tableau.com/profile/andrew.weller#!/"
-  screenshot_url: "http://grangermoch.com/LNI/LNI_SITE/demo2.html"
-  screenshot_url: "https://insight.livestories.com/s/recreational-marijuana-revenues-in-washington-state/5588e0e8a750b313834c5582/"
-  last_update: 10/25/2015
+- name: "Popup Arcade"
+  description: "Come help us create arcade machines that are designed to be played by residents of the area. See more at: http://popuparcade.org/"
+  project_tags: [javascript, node, community, games]
+  technology_tags: [javscript, node]
+  code_url: "https://github.com/popuparcade"
+  github_user: "popuparcade"
+  github_repo: "popup-arcade"
+  link_url: "http://popuparcade.org"
+  status: "live/ongoing"
+  contributors: ""
+  screenshot_url: null
+  last_update: null
+  notes: null
+  type: null
+  categories: null
 
 - name: "Seattle NodeSchool"
   description: "Volunteer to mentor or to help with a general update of site with focus on building community and expanding community awareness. See the open issue at: https://github.com/nodeschool/seattle/issues/35"
@@ -24,6 +25,23 @@
   status: "live/ongoing"
   contributors: ""
   screenshot_url: null
+  last_update: null
+  notes: null
+  type: null
+  categories: null
+
+- name: "Hey Duwamish - River Cleanup Project"
+  description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
+  project_tags: [community, environment]
+  technology_tags: [django, python, javascript, node]
+  code_url: https://github.com/smartercleanup/duwamish
+  github_user: "smartercleanup"
+  github_repo: "platform"
+  link_url: http://heyduwamish.org
+  status: null
+  contributors: [Jacob Caggiano, Luke Swart]
+  screenshot_url: null
+  status: "live/ongoing"
   last_update: null
   notes: null
   type: null
@@ -88,22 +106,6 @@
   link_url: "http://nwdata.org"
   status: "live"
   contributors: "Seth Vincent, Ann Summy"
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
-- name: "Duwamish River Cleanup"
-  description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
-  project_tags: null
-  technology_tags: null
-  code_url: https://github.com/smartercleanup/duwamish
-  github_user: "smartercleanup"
-  github_repo: "duwamish"
-  link_url: http://heyduwamish.org
-  status: null
-  contributors: [Jacob Caggiano, Luke Swart]
   screenshot_url: null
   last_update: null
   notes: null
