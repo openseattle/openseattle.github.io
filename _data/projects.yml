@@ -559,3 +559,19 @@
   notes: null
   type: null
   categories: null
+  
+- name: "WhitestormJS"
+  description: "Framework for developing 3D web apps with physics."
+  project_tags: [3d, physics, framework]
+  technology_tags: [webgl, javascript, html5, webpack]
+  code_url: "https://github.com/WhitestormJS/whitestorm.js"
+  github_user: "WhitestormJS"
+  github_repo:  "whitestorm.js"
+  link_url: "https://whitestormjs.xyz"
+  status: "live"
+  contributors: [Alexander Buzin, Jack Dalton, Noctisdark, bdirl, preco21, Yeliex Wang, electron0zero]
+  screenshot_url: "http://whitestormjs.xyz/images/intro-99d3be4e.png"
+  last_update: "20/7/2016"
+  notes: null
+  type: null
+  categories: null
