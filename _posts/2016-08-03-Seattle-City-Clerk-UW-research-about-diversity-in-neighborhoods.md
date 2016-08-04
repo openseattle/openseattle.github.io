@@ -2,7 +2,7 @@
 title: "Open Seattle meeting July 2016: Seattle City Clerk & UW research about diversity in neighborhoods"
 published: true
 layout: page
-description:  Open Seattle meeting July 2016 Seattle City Clerk & UW research about diversity in neighborhoods
+description:  Monica Martinez Simmons, Seattle City Clerk and Janet Polata, Legislative Information Services Supervisor, presented on the data of the Seattle City Clerk's Office. Tim Thomas, UW PhD candidate, Sociology Department, presented on Segregation Within Integration in Seattle.
 type: post
 author: Katherine Boyd
 ---
