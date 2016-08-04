@@ -23,18 +23,17 @@ If you’d like to learn more or help, please contact Andrew on the Open Seattle
 
 
 ## The Office of the City Clerk
-**Monica Martinez Simmons**, Seattle City Clerk
-**Janet Polata**, Legislative Information Services Supervisor
+**Monica Martinez Simmons**, Seattle City Clerk and **Janet Polata**, Legislative Information Services Supervisor
 
 Monica is the Seattle City Clerk, which is a non-political appointed public office.  One of the essential functions of the City Clerk’s Office is to organize, retain, and makes available many types of public records, including Seattle’s agency records and City Council records. They comply with the Open Meetings Act, the Public Records Retention Act, and public disclosure laws by establishing policy and standards which meet or exceed compliance. It is their responsibility to be transparent, accessible, and accountable to the public on behalf of the City organization. Monica’s vision is for this public office to go beyond these basic principles, to ultimately promote civic awareness and engagement, and help citizens become more knowledgeable in their local government and legislative processes.
 
 One of Monica’s significant challenges is that the City Clerk’s Office maintains so much information, and such varied information, that in general people do not know the wealth of what is available. The [Legistar](https://seattle.legistar.com/Legislation.aspx) website, as Andrew mentioned, is more of a workflow website with a public portal, and it can stand to be improved. She agrees with Andrew that having agreed-upon standards across municipalities would be very helpful. 
 
 The City Clerk’s Office receives thousands of requests on an annual basis, and it can be a challenge to meet the deadlines of their core work as well as improve the process and information sharing. Major responsibilities include:
-•	Managing Seattle’s legislative process in coordination with 9 City Council offices and providing operational support to the Legislative Department.
-•	Training others about Citywide Records Management Services – making sure that all offices understand their public records responsibilities – from creation through disposal (archival, destruction, etc.).
-•	Maintaining the Seattle Municipal Archives to ensure accountability in the future.
-•	Maintaining the Legislative Information Services. This includes resolutions, ordinances, appointments to boards and commissions, audio recordings, meeting agendas, meeting notes, director’s rules, Seattle municipal code, Campaign finances disclosure reports, and consultant contracts. 
+* Managing Seattle’s legislative process in coordination with 9 City Council offices and providing operational support to the Legislative Department.
+* Training others about Citywide Records Management Services – making sure that all offices understand their public records responsibilities – from creation through disposal (archival, destruction, etc.).
+* Maintaining the Seattle Municipal Archives to ensure accountability in the future.
+* Maintaining the Legislative Information Services. This includes resolutions, ordinances, appointments to boards and commissions, audio recordings, meeting agendas, meeting notes, director’s rules, Seattle municipal code, Campaign finances disclosure reports, and consultant contracts. 
 
 The City Clerk’s Office documents have been full plain text (searchable) since 1996. After they put the first documents online, they created minimal-content database records for every ordinance and resolution that the City of Seattle has acted upon since it was formally established. Searchable full text – accessible to screen readers. Post pdfs of the signed legislation because some people need to see the signature. 
 
@@ -63,7 +62,7 @@ For more information on Tim’s research, please contact him at: t77@uw.edu, or 
 
 ## Announcements
 
-**Luke Swart** runs [HeyDuwamish](http://heyduwamish.org), a data hub for the toxic waste cleanup of the Duwamish River. Contact: luke@heyduwamish.org, lukeswart on Slack, or heyduwamish.org - click “Get involved”
+**Luke Swart** runs [HeyDuwamish](http://heyduwamish.org), a data hub for the toxic waste cleanup of the Duwamish River. Contact: luke@heyduwamish.org, @lukeswart on Slack, or heyduwamish.org - click “Get involved”
 
 **Candace Faber** announced a Save the Date for September 10th and 11th, when there will be a Twitter Bot Hackathon at the Institute for Systems Biology. More information will be available as we get closer to the date.
 
