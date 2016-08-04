@@ -1,6 +1,6 @@
 ---
 title: "Civic Hacking Night at Socrata - November 6"
-published: false
+published: true
 layout: page
 description:  Open Seattle meeting July 2016 Seattle City Clerk & UW research about diversity in neighborhoods
 type: post
@@ -39,8 +39,7 @@ The City Clerk’s Office documents have been full plain text (searchable) since
 
 Here are some ways you can help: The Clerk’s Office is planning for a [website](http://www.seattle.gov/cityclerk) redesign, as the current site is very text heavy. Can Open Seattle members advise on what is the best way to lay out the website and effectively define and categorize information? Also, is there anything that they can do now, ahead of the redesign? If Open Seattle members have other input on work to share the City Clerk’s materials, Monica and Janet would like to hear from you and welcome your feedback. Janet also welcomes questions about what documents/data they have and in what formats, as well as input on what datasets are of interest to the open data community. 
 
-Contact information:
-[Seattle.gov/clerk](Seattle.gov/clerk), clerk@seattle.gov, or 206-684-8344
+To learn more or offer help, please contact: [Seattle.gov/clerk](Seattle.gov/clerk), clerk@seattle.gov, or 206-684-8344
 
 
 ## Segregation Within Integration in Seattle
