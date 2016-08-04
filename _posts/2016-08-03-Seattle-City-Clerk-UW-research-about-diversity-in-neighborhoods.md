@@ -30,6 +30,7 @@ Monica is the Seattle City Clerk, which is a non-political appointed public offi
 One of Monica’s significant challenges is that the City Clerk’s Office maintains so much information, and such varied information, that in general people do not know the wealth of what is available. The [Legistar](https://seattle.legistar.com/Legislation.aspx) website, as Andrew mentioned, is more of a workflow website with a public portal, and it can stand to be improved. She agrees with Andrew that having agreed-upon standards across municipalities would be very helpful. 
 
 The City Clerk’s Office receives thousands of requests on an annual basis, and it can be a challenge to meet the deadlines of their core work as well as improve the process and information sharing. Major responsibilities include:
+
 * Managing Seattle’s legislative process in coordination with 9 City Council offices and providing operational support to the Legislative Department.
 * Training others about Citywide Records Management Services – making sure that all offices understand their public records responsibilities – from creation through disposal (archival, destruction, etc.).
 * Maintaining the Seattle Municipal Archives to ensure accountability in the future.
