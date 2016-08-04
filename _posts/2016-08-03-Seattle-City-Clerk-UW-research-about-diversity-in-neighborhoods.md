@@ -54,7 +54,7 @@ In the 1930’s, FHA loans allowed buying a home, but with several restrictions.
 
 To determine the level of diversity in these new neighborhoods, Tim and his co-author, Ryan Gabriel, trained undergraduate researchers to evaluate three diverse neighborhoods located in Greenwood, the Central District, and Columbia City, purportedly among the most diverse neighborhoods in the country. A more granular look at the population found that racial groups, such as Caucasians and African Americans, were often concentrated in particular blocks or tracts, and that different businesses, churches, and residential areas catered to the different racial groups. This kind of hidden segregation, often associated with low-income housing, led to different experiences and different opportunities for citizens of different ethnicities. 
 
-A helpful source of demographic maps is available through the [Cooper Center](http://www.coopercenter.org/demographics/Racial-Dot-Map)
+A helpful source of demographic maps is available through the [Cooper Center](http://www.coopercenter.org/demographics/Racial-Dot-Map).
 
 For more information on Tim’s research, please contact him at: t77@uw.edu, or visit his [UW page](https://soc.washington.edu/people/tim-thomas).
 
