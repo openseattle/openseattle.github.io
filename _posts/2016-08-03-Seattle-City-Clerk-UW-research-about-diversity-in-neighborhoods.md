@@ -1,5 +1,5 @@
 ---
-title: "Civic Hacking Night at Socrata - November 6"
+title: "Open Seattle meeting July 2016: Seattle City Clerk & UW research about diversity in neighborhoods"
 published: true
 layout: page
 description:  Open Seattle meeting July 2016 Seattle City Clerk & UW research about diversity in neighborhoods
