@@ -11,10 +11,10 @@ Seth opened the meeting, which was [recorded by the Seattle Channel](http://www.
 
 ## Project Demos
 
-###[Seattle Boundaries Project](http://Boundaries.seattle.io)
+**[Seattle Boundaries Project](http://Boundaries.seattle.io).**
 **Seth Vincent** is developing the Seattle Boundaries Project. Users type in their address to identify which legislative district, city council district, school district, etc. that they live in. Seth would really like people to take a look and give him feedback. 
 
-###Legislation is open data: Nomos.us
+**Legislation is open data: Nomos.us.**
 **Andrew Sullivan** gave a brief presentation on his research into legislation and other policies, etc. based on the premise that legislation is open data. Seattle’s recent executive order made city data open by preference, but focus has remained on traditional forms of data, like Excel sheet data. Andrew’s definition expands that to include documents and speech, which are currently not being made accessible. Most government documents are published as PDFs, and scanned PDFs can have OCR issues. Also, some municipalities have prevented open laws/legislation – policies, cease and desist orders, and lawsuits have all tried to prevent this. The codifier of the Seattle Municipal Code even has language that looks on the surface to be not friendly to open data. Even attempts to make legislation more easily available, such as Seattle’s [Legistar](https://seattle.legistar.com/Legislation.aspx), are not easily searchable.
 
 Andrew’s project, Nomos.us, has legislation across multiple jurisdictions, and soon will be able to send alerts to users based on legislative topics. He has a public API, friendly UI, and export in a couple formats. Opening legislative data will allow researchers to track bills as they get adopted from one state to another, and allow legislators to find “hidden” legislation inside larger documents. Difficulties going forward are: very few cities are publishing this information in a standard format; there are few APIs; scrapers are hard to write and maintain. 
