@@ -10,7 +10,7 @@ We welcome anyone who is interested in using technology to make civic improvemen
 
 ## What we do
 
-Open Seattle runs a bi-monthly civic hacking night, as well as hackathons and other events focused on building the civic technology community in Seattle and building prototype solutions for local civic issues.
+Open Seattle runs events focused on building the civic technology community in Seattle and building prototype solutions for local civic issues.
 
 ---
 
