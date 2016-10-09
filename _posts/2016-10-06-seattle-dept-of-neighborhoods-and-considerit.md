@@ -37,9 +37,6 @@ Through Engageseattle.consider.it (the topic of the next presentation): a series
 
 Engage Seattle’s biggest challenges are in translations and websites. They can do this, but how do they integrate those into their outreach? They are finding ways to push them to the communities, to excited them to go to the website and take advantage of that. 
 
-Results of the outreach so far:
-
-
 
 Tom would like to know: How can DON engage Open Seattle? You can reach him at:
 Twitter @SeaNeighborhoods or #engageseattle
