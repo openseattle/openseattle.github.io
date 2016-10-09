@@ -1,6 +1,6 @@
 ---
 title: "Open Seattle meeting September 2016: Seattle Department of Neighborhoods"
-published: false
+published: true
 layout: page
 description:   Tom Van Bronkhorst presented on Seattle Department of Neighborhoods (DON) and Ethan Schafer presented on Consider.it
 type: post
@@ -82,7 +82,7 @@ Ethan also showed us two other consider.it sites, one for a non-profit and anoth
 **Andrew Sullivan** is working on nomos.com, open data catalogue of legislation and policy. He is currently working on SPD policy in javascript. Andrew presented on this at the July Open Seattle meeting. If you’d like to learn more or help, please contact Andrew on the Open Seattle Slack channel: @andrewsullivan, or on twitter at @nomosproject
 
 
-**Jacob Caggiano** from Hey Duwamish is looking for help building their platform so people can collectively map environmental health issues for the cleanup of the Duwamish River. Contact: jacob@heyduwamish.org,or heyduwamish.org - click “Get involved”.
+**Jacob Caggiano** from Hey Duwamish is looking for help building their platform so people can collectively map environmental health issues for the cleanup of the Duwamish River. Contact: jacob@heyduwamish.org, or go to [heyduwamish.org](http://heyduwamish.org/) - click “Get involved”.
 
 **Pat Tessel** is looking for participants for the 2016 Seattle Give Camp, which will be a three-day long hack-a-thon from October 14–16 at Microsoft commons. Non-profit organizations have proposed work that they need done in advance, and made sure that the work is doable within a weekend. They’ll also have someone onsite – the customer is part of the team, Agile-style. Friday evening is introductions and the opportunity to decide what project you want to work on. Sunday afternoon, things finish up. Participants can establish a longer-term relationship with their organization if they want, but the goal is to have the specific work that the organization requested done. For more information, please go to http://www.seattlegivecamp.org/.
 
