@@ -57,7 +57,7 @@ No. These regions morph constantly, depending on who is moving there, and what�
 **You had mentioned getting these community groups talking to each other. Are there thoughts on that format?** 
 The Mayor’s Executive Order is not about replacing one system with another. DON is working on adding a publicly-available database, including fiscal agents who could sponsor neighborhood efforts, and interactive maps. The goal is to remove barriers to getting people involved, and promoting interconnectedness. Engage Seattle is heading towards an inclusive convening by geographic area or by subject matter, then helping to facilitate a discussion. 
 
-##Ethan Schaffer – Consider.it
+## Ethan Schaffer – Consider.it
 Ethan is the Chief Strategy Officer of Consider.it, a technology for helping groups achieve shared understanding. They work primarily with governments, although many interest-oriented groups use it as well, such as the Decentralized Autonomous Organization (DAO).
 
 One partnership between Seattle and consider.it is HALA, the Housing Affordability and Livability Agenda. HALA includes a set of proposals to address population growth and housing costs, which are both rising rapidly in Seattle.  [Hala.consider.it](https://hala.consider.it/) shows different proposals that members of the public can comment on. Civility of discourse is really important to the City, especially because HALA has been controversial. The conversation can be moderated; however, the way the site is designed, no comment has had to be moderated so far. When a comment was posted that was false, consider.it staff encouraged the city staff to engage and provide correct information, pushing the conversation into constructive dialogues. Also, a key point: don’t feed the trolls.
@@ -66,7 +66,7 @@ The city is also presenting these results of the consider.it and other dialogues
 
 Ethan also showed us two other consider.it sites, one for a non-profit and another based around a common interest: [The Washington Sustainable Food and Farming Network](https://wsffn.consider.it/) (WSFFN), and the crypto-currency world, [Decentralized Autonomous Organization](https://dao.consider.it/) (DAO). 
 
-##Announcements
+## Announcements
 
 **Mathias Burton** is working with the Office of Planning and Community development on localbrainstorm.org to determine how to engage communities in the planning process. He is developing an interactive application, which can capture information as data. He would like help and input. This is an opportunity for people who might be commonly left out of the public engagement process – people with inflexible jobs, who are renters, or who don’t have the ability to easily attend public meetings – to engage. If you would like to help, please contact Mathias at Hello@mathiasburton.com, or visit http://localbrainstorm.org/ 
 
