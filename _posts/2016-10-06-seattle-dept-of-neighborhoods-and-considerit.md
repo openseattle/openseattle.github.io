@@ -10,7 +10,7 @@ author: Katherine Boyd
 Seth Vincent opened the meeting, and Candace Faber, the Civic Technology advocate for City of Seattle, introduced the Department of Neighborhoods (DON).
 
 ## Engage Seattle / Seattle Department of Neighborhoods (DON)
-**Tom Van Bronkhorst** (DON) presented on the Engage Seattle initiative, which is championed by Mayor Murray. DON provides consultation, support, and oversight on Engage Seattle. Every city program has individual outreach programs to get to communities who are affected by their projects – for example, SDOT or Seattle Public Utilities. DON provides advice to them to improve their community engagement processes.
+**Tom Van Bronkhorst** (DON) presented on the Engage Seattle initiative, which is championed by Mayor Murray. DON provides consultation, support, and oversight on Engage Seattle. Every city program – for example, SDOT or Seattle Public Utilities - has individual outreach programs to get to communities who are affected by their projects. DON provides advice to them to improve their community engagement processes.
 
 Key work of the Dept. of Neighborhoods:
 Outreach & engagement
@@ -20,7 +20,7 @@ Community assets
 
 Early and broad engagement has benefits to the community as well as the city - such as not having to go back and re-do major projects because of community dissatisfaction. 
 
-The city has a special focus on under-represented and under-served communities. Contractors from different communities help with that outreach, including over 50 different individuals who represent a variety of languages and cultures, as well as the LGBT and disabled communities, among others. 
+The city has a special focus on under-represented and under-served communities. Contractors from different communities help with that outreach, including over 50 different individuals who represent a variety of languages and cultures, as well as the LGBT and disabled communities, among others. Outreach and engagement is tailored specifically to whatever group you’re trying to reach – for example: renters, cultural groups, people within a certain geographical area.
 
 For DON, equitable outreach:
 Is easily understandable
@@ -29,21 +29,20 @@ Provides a wider range of ways to participate
 Reflects the ways that people communicate today
 Promotes greater involvement of under-served and under-represented communities
 
-Outreach and engagement is tailored specifically to whatever group you’re trying to reach – for example: renters, cultural groups, people within a certain geographical area.
-
 Ways Engage Seattle is reaching out:
 
 Through surveys on the DON Facebook Page: Survey monkey - Two questions: how do you currently get information; how can we make it easier to participate? https://www.facebook.com/SeattleNeighborhoods/?fref=ts
 
-Engageseattle.consider.it (the topic of the next presentation): a series of open-ended questions about potential ideas. Users can votes on ideas and comment on one another’s ideas. Good ideas flow up based on user input. It is a way to create congoing discussion. 
+Through Engageseattle.consider.it (the topic of the next presentation): a series of open-ended questions about potential ideas. Users can votes on ideas and comment on one another’s ideas. Good ideas flow up based on user input. It is a way to create congoing discussion. 
 
 Engage Seattle’s biggest challenges are in translations and websites. They can do this, but how do they integrate those into their outreach? They are finding ways to push them to the communities, to excited them to go to the website and take advantage of that. 
 
 Results of the outreach so far:
 
+
+
 Tom would like to know: How can DON engage Open Seattle? You can reach him at:
-#engageseattle
-Twitter @SeaNeighborhoods
+Twitter @SeaNeighborhoods or #engageseattle
 Facebook SeattleNighborhoods
 [NewDON@seattle.gov](NewDON@seattle.gov) 
 
