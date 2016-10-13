@@ -8,7 +8,7 @@ This is a list of events organized by Open Seattle & the events of other organiz
 
 ## Monthly events
 
-### Talks every 4th Thursday
+### Talks every 4th Wednesday
 
 Join us at Socrata every 4th Wednesday of the month to learn more about how to get involved in Open Seattle, about projects you can work on, and to meet fellow civic technologists. RSVP via our [meetup group](http://meetup.com/openseattle).
 
