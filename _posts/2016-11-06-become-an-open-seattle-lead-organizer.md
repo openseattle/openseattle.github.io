@@ -23,3 +23,5 @@ We're looking for volunteers to make a one year, commitment to improving Open Se
 To learn more about the application process, visit the [lead organizer application page](http://openseattle.org/lead-organizer-application/)
 
 Over the coming weeks we'll share more about the roles that lead organizers can take on, and other ways you can get involved.
+
+<p><a class="button" href="/lead-organizer-application">Learn more & apply now</a></p>
