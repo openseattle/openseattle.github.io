@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Become a lead organizer of Open Seattle
+title: Lead organizer application
 permalink: /lead-organizer-application/
 ---
 
@@ -29,7 +29,7 @@ We're recruiting a cohort of 5 people to become lead organizers of Open Seattle!
 - A committee of local community organizers will oversee the appointment process. This may be outgoing Open Seattle lead organizers, leaders of partner community organizations, or members of the board of the non-profit that fiscally sponsors Open Seattle.
 - Applications are reviewed and applicants are interviewed in the first two weeks of December.
 
-For the 2017 application process the application review includes:
+The application review committee includes:
 
 - Shelly Farnham – Executive Director & Research Scientist at Third Place Technologies
 - Sarah Schacht – Operations Manager at Identity Ecosystem Steering Group
