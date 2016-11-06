@@ -6,6 +6,10 @@ html, body {
   background-color: #fefefa;
 }
 
+p {
+  margin-bottom: 50px;
+}
+
 .page-content h1, .page-content h2, .page-content h3 {
   margin-top: 25px;
 }
