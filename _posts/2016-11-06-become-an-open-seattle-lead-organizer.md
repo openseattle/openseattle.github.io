@@ -18,7 +18,7 @@ Almost a year ago we changed our name from Code for Seattle to Open Seattle to b
 
 We're looking for volunteers to make a one year, commitment to improving Open Seattle & advancing civic technology in Seattle.
 
-The deadline of applications is November 30. It is not required that you have previous experience with Open Seattle. 
+**The deadline for applications is November 30.** It is not required that you have previous experience with Open Seattle. 
 
 To learn more about the application process, visit the [lead organizer application page](http://openseattle.org/lead-organizer-application/)
 
