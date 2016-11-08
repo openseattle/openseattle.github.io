@@ -47,6 +47,10 @@ No, prior experience with Open Seattle is not required.
 
 No, most of the responsibilities of a lead organizer do not include writing code.
 
+#### How many hours per month are required?
+
+There aren't strict requirements. You'll need to attend monthly events, and most work can happen whenever you have time throughout each week. A rough estimate might be between 15 and 20 hours per month, though it depends on your schedule and what responsibilities you take on.
+
 ### Other questions?
 
 Email hi@openseattle.org.
