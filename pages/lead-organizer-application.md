@@ -4,7 +4,9 @@ title: Lead organizer application
 permalink: /lead-organizer-application/
 ---
 
-We're recruiting a cohort of 5 people to become lead organizers of Open Seattle!
+We're recruiting a cohort of 5 people to become lead organizers of Open Seattle for a 1-year term.
+
+Women of color, LGBTQIA+ folks, people of color and other underrepresented folks are encouraged to apply!
 
 ### What we'll ask of you
 - 1-year term commitment. January through December
