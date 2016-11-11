@@ -4,13 +4,13 @@ title: Lead organizer application
 permalink: /lead-organizer-application/
 ---
 
-We're recruiting a cohort of 5 people to become lead organizers of Open Seattle for a 1-year term.
+We're recruiting a cohort of 5 volunteers to become lead organizers of Open Seattle for a 1-year term.
 
 Women of color, LGBTQIA+ folks, people of color and other underrepresented folks are encouraged to apply!
 
 <p><a href="#apply" class="button">Apply now</a></p>
 
-Read more about the application process & the organizer position:
+Read more about the application process & the volunteer lead organizer position:
 
 ### What we'll ask of you
 - 1-year term commitment. January through December
@@ -54,6 +54,10 @@ No, most of the responsibilities of a lead organizer do not include writing code
 #### How many hours per month are required?
 
 There aren't strict requirements. You'll need to attend monthly events, and most work can happen whenever you have time throughout each week. A rough estimate might be between 15 and 20 hours per month, though it depends on your schedule and what responsibilities you take on.
+
+#### Is this a paid position?
+
+No, Open Seattle is run completely by volunteers. Because it's a volunteer position, there's a lot of flexibility about when and where you complete your work.
 
 ### Other questions?
 

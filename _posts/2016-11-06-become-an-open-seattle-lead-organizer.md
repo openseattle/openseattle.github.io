@@ -14,7 +14,7 @@ We're currently seeking a fiscal sponsor for 501(c)3 status (and will have more 
 
 It's time for new leadership to do new and interesting things with Open Seattle.
 
-Almost a year ago we changed our name from Code for Seattle to Open Seattle to better reflect the diverse skills & fields involved in producing civic technology. Now we're recruiting new leadership with the intent of creating a leadership team that reflects the diversity we want to see in the participants of our events and projects. 
+Almost a year ago we changed our name from Code for Seattle to Open Seattle to better reflect the diverse skills & fields involved in producing civic technology. Now we're recruiting new volunteer leadership with the intent of creating a leadership team that reflects the diversity we want to see in the participants of our events and projects. 
 
 We encourage women of color, LGBTQIA+ folks, people of color and other underrepresented folks to apply.
 
