@@ -20,7 +20,7 @@ We encourage women of color, LGBTQIA+ folks, people of color and other underrepr
 
 We're looking for volunteers to make a one year commitment to improving Open Seattle & advancing civic technology in Seattle.
 
-**The deadline for applications is November 30.** It is not required that you have previous experience with Open Seattle. 
+**The deadline for applications is end of day January 17.** It is not required that you have previous experience with Open Seattle. 
 
 To learn more about the application process, visit the [lead organizer application page](http://openseattle.org/lead-organizer-application/)
 

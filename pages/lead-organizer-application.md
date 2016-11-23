@@ -27,7 +27,7 @@ Read more about the application process & the volunteer lead organizer position:
 - Shape the future of Open Seattle
 
 ### Application process
-- Apply to become a lead organizer by the end of November
+- Application deadline is January 17
 - Selected applicants interview with appointment committee during first two weeks of December
 - Announcements in first week of January
 
