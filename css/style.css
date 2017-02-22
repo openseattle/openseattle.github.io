@@ -65,6 +65,12 @@ p {
   max-width: 100%;
 }
 
+.page-body p img {
+  float: left;
+  padding-right: 10px;
+}
+
+    
 /* ----- PROJECT LISTING ----- */
 
 .row {
