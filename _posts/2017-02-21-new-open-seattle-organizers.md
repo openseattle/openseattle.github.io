@@ -11,6 +11,8 @@ It is incredibly exciting to announce that we've found a cohort of wonderful peo
 
 You'll be hearing more from these folks over the coming weeks about the work they'll be doing with Open Seattle and ways you can get involved.
 
+Learn more about their goals for the next year at our Feb 22 event: [https://www.meetup.com/openseattle/events/237616234/](https://www.meetup.com/openseattle/events/237616234/)
+
 ## Emily F. Keller
 
 ![Emily F. Keller](/images/organizers/emily.jpg) Emily F. Keller is a writer and researcher with projects on transportation access for people with disabilities, flooding impacts on New York City residents and infrastructure, ethical challenges in big data research, and the environmental costs of cloud data usage. With a masters degree in journalism, Emily has helped shape corporate responsibility and global philanthropy data at the Foundation Center, conducted research and managed projects at Data & Society Research Institute, and interviewed city officials and the public as a local news reporter and Census taker. She is excited to join Open Seattle as a volunteer lead organizer. Twitter: [@EmilyFKeller](https://twitter.com/EmilyFKeller)
