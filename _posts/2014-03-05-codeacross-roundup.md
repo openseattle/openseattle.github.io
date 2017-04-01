@@ -19,6 +19,8 @@ People broke out into teams to work on predetermined challenges, but also to wor
 
 Teams wrote code, but they also drafted an open data policy, edited wiki pages, designed civic icons, and worked on mapping projects.
 
+
+
 ## Inspiration and instruction for a day of civic hacking
 The day started with speakers meant to provide attendees with ideas and resources useful for working on the day's projects: 
 
