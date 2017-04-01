@@ -23,7 +23,7 @@ Learn more about their goals for the next year at our Feb 22 event: [https://www
 
 ## Sasha Anderson
 
-![Sasha Anderson](/images/organizers/sasha.jpg) Sasha Anderson is a Senior Analyst for the Ballmer Group, helping build the most comprehensive open government data site available. Prior to this, she worked in local government for four years, working on economic and transportation policy and programs. Sasha is passionate about using technology to increase civic engagement and looks forward to leading the charge with Open Seattle. Twitter: [@wanderbilly](https://twitter.com/wanderbilly)
+![Sasha Anderson](/images/organizers/sasha.jpg) Sasha Anderson is a Senior Analyst for the Ballmer Group, helping build the most comprehensive open government data site available. Prior to this, she worked in local government for four years, working on economic and transportation policy and programs. Sasha is passionate about using technology to increase civic engagement and looks forward to leading the charge with Open Seattle. Twitter: [@wsashananderson](https://twitter.com/sashananderson)
 
 ## Tiffany Chan
 
