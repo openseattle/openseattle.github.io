@@ -1,5 +1,5 @@
 - name: "Seattle Boundaries"
-  description: "Find out what Seattle boundaries you're inside"
+  description: "Seattle has a lot of boundaries: city council districts, school districts, zoning, police beats, and a lot more. This tool makes it easy to know which boundaries you're in so you can better understand how city services and policies affect you. Or use our API to build your own application with this data."
   project_tags: [javascript, node, community, games]
   technology_tags: [javscript, node]
   code_url: "https://github.com/seattleio/boundaries"
@@ -8,7 +8,7 @@
   link_url: "https://boundaries.seattle.io"
   status: "live/ongoing"
   contributors: "sethvincent"
-  screenshot_url: null
+  screenshot_url: "http://i.imgur.com/D9gayAB.png"
   last_update: null
   notes: null
   type: null
