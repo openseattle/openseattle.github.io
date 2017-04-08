@@ -48,7 +48,7 @@
   categories: null
 
 - name: "nwdata.org"
-  description: "A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest."
+  description: "A directory of open data portals, apps, & other resources related to civic tech in the Pacific Northwest."
   project_tags: [data, resources]
   technology_tags: [html, css]
   code_url: "https://github.com/sethvincent/nwdata.org"
@@ -57,7 +57,7 @@
   link_url: "http://nwdata.org"
   status: "live"
   contributors: "Seth Vincent, Ann Summy"
-  screenshot_url: null
+  screenshot_url: "https://s14.postimg.org/9rju9vfcx/Screen_Shot_2017-04-08_at_3.26.16_PM.png"
   last_update: null
   notes: null
   type: null
@@ -87,7 +87,7 @@
   link_url: "http://sewardparkstories.org"
   status: "live/ongoing"
   contributors: "Wendy Call, Seth Vincent, Christina Montilla, Ann Summy, Adrian Limon"
-  screenshot_url: null
+  screenshot_url: "https://s15.postimg.org/6fpknvqnv/Screen_Shot_2017-04-08_at_3.29.00_PM.png"
   last_update: "4/24/2014"
   notes: ""
   type: null
