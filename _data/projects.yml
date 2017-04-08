@@ -199,7 +199,7 @@
   type: null
   categories: null
   
- - name: "Popup Arcade"
+- name: "Popup Arcade"
   description: "Come help us create arcade machines that are designed to be played by residents of the area. See more at: http://popuparcade.org/"
   project_tags: [javascript, node, community, games]
   technology_tags: [javscript, node]
