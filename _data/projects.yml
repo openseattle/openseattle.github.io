@@ -1,5 +1,5 @@
 - name: "Seattle Boundaries"
-  description: "Seattle has a lot of boundaries: city council districts, school districts, zoning, police beats, and a lot more. This tool makes it easy to know which boundaries you're in so you can better understand how city services and policies affect you. Or use our API to build your own application with this data."
+  description: "Seattle has a lot of boundaries: city council districts, school districts, zoning, police beats, and a lot more. This tool makes it easy to know which boundaries you're in so you can better understand how city services and policies affect you."
   project_tags: [javascript, node, community, games]
   technology_tags: [javscript, node]
   code_url: "https://github.com/seattleio/boundaries"
@@ -89,7 +89,7 @@
   contributors: "Wendy Call, Seth Vincent, Christina Montilla, Ann Summy, Adrian Limon"
   screenshot_url: "https://s13.postimg.org/70re798mv/Screen_Shot_2017-04-08_at_3.36.54_PM.png"
   last_update: "4/24/2014"
-  notes: ""
+  notes: null
   type: null
   categories: null
 
@@ -145,7 +145,7 @@
   technology_tags: null
   code_url: "https://github.com/licyeus/seattle-homeless-info"
   github_user: "licyeus"
-  github_repo:  "seattle-homeless-info"
+  github_repo: "seattle-homeless-info"
   link_url: null
   status: "in progress"
   contributors: null
@@ -171,7 +171,7 @@
 
 - name: "Live Music Project"
   description: "Member-developed project to help Seattle-area residents find upcoming classical music performances." 
-  project_tags: [music]
+  project_tags: music
   technology_tags: null
   code_url: "closed source?"
   link_url: "http://livemusicproject.org"
@@ -185,7 +185,7 @@
 
 - name: "Seattle Icons"
   description: "Designing icons to represent different areas and neighborhoods across Seattle."
-  project_tags: [design]
+  project_tags: design
   technology_tags: null
   code_url: "http://github.com/openseattle/seattle-icons"
   github_user: "openseattle"
@@ -199,7 +199,7 @@
   type: null
   categories: null
   
-  - name: "Popup Arcade"
+ - name: "Popup Arcade"
   description: "Come help us create arcade machines that are designed to be played by residents of the area. See more at: http://popuparcade.org/"
   project_tags: [javascript, node, community, games]
   technology_tags: [javscript, node]
