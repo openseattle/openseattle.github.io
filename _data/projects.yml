@@ -171,7 +171,7 @@
 
 - name: "Live Music Project"
   description: "Member-developed project to help Seattle-area residents find upcoming classical music performances." 
-  project_tags: music
+  project_tags: [music]
   technology_tags: null
   code_url: "closed source?"
   link_url: "http://livemusicproject.org"
@@ -185,7 +185,7 @@
 
 - name: "Seattle Icons"
   description: "Designing icons to represent different areas and neighborhoods across Seattle."
-  project_tags: design
+  project_tags: [design]
   technology_tags: null
   code_url: "http://github.com/openseattle/seattle-icons"
   github_user: "openseattle"
