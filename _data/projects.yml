@@ -30,22 +30,6 @@
   type: null
   categories: null
 
-- name: "Seattle NodeSchool"
-  description: "Volunteer to mentor or to help with a general update of site with focus on building community and expanding community awareness. See the open issue at: https://github.com/nodeschool/seattle/issues/35"
-  project_tags: [javascript, node, education, community]
-  technology_tags: [javascript, node]
-  code_url: "https://github.com/nodeschool/seattle"
-  github_user: "nodeschool"
-  github_repo: "seattle"
-  link_url: "http://nodeschool.io/seattle/"
-  status: "live/ongoing"
-  contributors: ""
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
 - name: "Hey Duwamish - River Cleanup Project"
   description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
   project_tags: [community, environment]
@@ -201,68 +185,6 @@
   type: null
   categories: null
 
-- name: "ActivateHub"
-  description: null
-  project_tags: null
-  technology_tags: null
-  code_url: "https://github.com/activate/ActivateHub"
-  github_user: "activate"
-  github_repo: "ActivateHub"
-  link_url: "http://activatehub.org/"
-  status: "live & ongoing"
-  contributors: "Lindsay Caron"
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
-- name: "DemocracyLab"
-  description: "Participation environment for users, developers, and supporters of Civic Tech"
-  project_tags: null
-  technology_tags: null
-  code_url: "https://github.com/DemocracyLab"
-  link_url: "http://www.democracylab.org"
-  status: "live/in progress"
-  contributors: "Mark Frischmuth"
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
-- name: "Seattle Blogs"
-  description: "Tracking all the blogs and online publications in the Seattle area."
-  project_tags: [data, news]
-  technology_tags: javascript
-  code_url: "https://github.com/sethvincent/seattle-blogs"
-  github_user: "seattleio"
-  github_repo: "seattle-blogs"
-  link_url: null
-  status: null
-  contributors: "Seth Vincent"
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
-- name: "Streetlight Seattle Reporter"
-  description: null
-  project_tags: null
-  technology_tags: "android"
-  code_url: "https://github.com/jsfrost/StreetlightSeattleReporter"
-  github_user: "jsfrost"
-  github_repo: "StreetlightSeattleReporter"
-  link_url: null
-  status: null
-  contributors: "Jerry Frost"
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
 - name: "Live Music Project"
   description: null
   project_tags: null
@@ -274,52 +196,6 @@
   screenshot_url: null
   last_update: null
   notes: null
-  type: null
-  categories: null
-
-- name: "Seattle Data Inventory"
-  description: "An inventory of the most interesting data available from data.seattle.gov"
-  project_tags: data
-  technology_tags: null
-  code_url: "http://seattlewiki.net/Open_Data_Resources"
-  link_url: null
-  status: null
-  contributors: "Shelly Farnham"
-  screenshot_url: null
-  last_update: null
-  notes: "#CodeAcrossSea"
-  type: null
-  categories: null
-
-- name: "Realtime Transit Data"
-  description: null
-  project_tags: null
-  technology_tags: null
-  code_url: "https://github.com/domoritz/live-bus-seattle"
-  github_user: "domoritz"
-  github_repo: "live-bus-seattle"
-  link_url: "http://domoritz.de/live-bus-seattle/#12/47.6210/-122.3328"
-  status: null
-  contributors: null
-  screenshot_url: null
-  last_update: null
-  notes: "#CodeAcrossSea"
-  type: null
-  categories: null
-
-- name: "Stolen Bike App"
-  description: null
-  project_tags: null
-  technology_tags: "node"
-  code_url: "https://github.com/lcdvirgo/stolenbikesSEA"
-  github_repo: "stolenbikesSEA"
-  github_user: "lcdvirgo"
-  link_url: "http://bike.jumis.com/index.html"
-  status: null
-  contributors: null
-  screenshot_url: null
-  last_update: null
-  notes: "#CodeAcrossSea"
   type: null
   categories: null
 
@@ -335,38 +211,6 @@
   contributors: null
   screenshot_url: null
   last_update: null
-  notes: null
-  type: null
-  categories: null
-
-- name: "Seattle Metro Cuts"
-  description: null
-  project_tags: null
-  technology_tags: null
-  code_url: "http://github.com/openseattle/metrocuts"
-  github_repo: "metrocuts"
-  github_user: "openseattle"
-  link_url: "openseattle.org/metrocuts"
-  status: null
-  contributors: null
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
-- name: "SODA Plus"
-  description: "A project in the early stages to provide a GUI for generating Socrata API urls, doing advanced display of data, and allowing subscription to new results to queries."
-  project_tags: [google glass, privacy, map]
-  technology_tags: [javascript, jquery]
-  code_url: "https://github.com/sodaplus/sodaplus.github.io"
-  github_user: "sodaplus"
-  github_repo:  "sodaplus.github.io"
-  link_url: "sodaplus.org"
-  status: "live"
-  contributors: [Timothy Clemans]
-  screenshot_url: null
-  last_update: "2/9/2015"
   notes: null
   type: null
   categories: null
