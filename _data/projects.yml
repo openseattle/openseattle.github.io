@@ -14,22 +14,6 @@
   type: null
   categories: null
 
-- name: "Popup Arcade"
-  description: "Come help us create arcade machines that are designed to be played by residents of the area. See more at: http://popuparcade.org/"
-  project_tags: [javascript, node, community, games]
-  technology_tags: [javscript, node]
-  code_url: "https://github.com/popuparcade"
-  github_user: "popuparcade"
-  github_repo: "popup-arcade"
-  link_url: "http://popuparcade.org"
-  status: "live/ongoing"
-  contributors: ""
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
 - name: "Hey Duwamish - River Cleanup Project"
   description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
   project_tags: [community, environment]
@@ -40,7 +24,7 @@
   link_url: http://heyduwamish.org
   status: null
   contributors: [Jacob Caggiano, Luke Swart]
-  screenshot_url: null
+  screenshot_url: "https://s23.postimg.org/uuxzhgfsb/Screen_Shot_2017-04-08_at_3.14.00_PM.png"
   status: "live/ongoing"
   last_update: null
   notes: null
@@ -186,21 +170,21 @@
   categories: null
 
 - name: "Live Music Project"
-  description: null
-  project_tags: null
+  description: "Member-developed project to help Seattle-area residents find upcoming classical music performances." 
+  project_tags: music
   technology_tags: null
   code_url: "closed source?"
   link_url: "http://livemusicproject.org"
   status: null
   contributors: "Shaya"
-  screenshot_url: null
+  screenshot_url: "https://s18.postimg.org/xgyhbdwbd/Screen_Shot_2017-04-08_at_3.18.21_PM.png"
   last_update: null
   notes: null
   type: null
   categories: null
 
 - name: "Seattle Icons"
-  description: null
+  description: "Designing icons to represent different areas and neighborhoods across Seattle."
   project_tags: design
   technology_tags: null
   code_url: "http://github.com/openseattle/seattle-icons"
@@ -209,6 +193,22 @@
   link_url: "seattleicons.org"
   status: null
   contributors: null
+  screenshot_url: null
+  last_update: null
+  notes: null
+  type: null
+  categories: null
+  
+  - name: "Popup Arcade"
+  description: "Come help us create arcade machines that are designed to be played by residents of the area. See more at: http://popuparcade.org/"
+  project_tags: [javascript, node, community, games]
+  technology_tags: [javscript, node]
+  code_url: "https://github.com/popuparcade"
+  github_user: "popuparcade"
+  github_repo: "popup-arcade"
+  link_url: "http://popuparcade.org"
+  status: "live/ongoing"
+  contributors: ""
   screenshot_url: null
   last_update: null
   notes: null
