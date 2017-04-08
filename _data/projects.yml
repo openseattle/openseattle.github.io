@@ -171,22 +171,6 @@
   type: null
   categories: null
 
-- name: "Seattle GeoJSON datasets"
-  description: null
-  project_tags: data
-  technology_tags: json
-  code_url: "https://github.com/licyeus/seattle-geojson"
-  github_user: "licyeus"
-  github_repo:  "seattle-geojson"
-  link_url: null
-  status: "in progress"
-  contributors: null
-  screenshot_url: null
-  last_update: null
-  notes: null
-  type: null
-  categories: null
-
 - name: "Seattle One Night Count datasets"
   description: null
   project_tags: data
