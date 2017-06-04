@@ -22,7 +22,7 @@ We meet on the fourth Wednesday of every month to talk about and work on civic t
 
 ## Projects
 
-Check out our [project gallery](/projects), or browse new project ideas (and submit your own!) [here](https://github.com/openseattle/project-ideas/issues). Sign up for the Open Seattle email newsletter to get updates about our projects and the latest news. We send emails no more frequently than twice a month. 
+Check out our [project gallery](/projects), or [browse new project ideas](https://github.com/openseattle/project-ideas/issues) (and submit your own!). Sign up for the Open Seattle email newsletter to get updates about our projects and the latest news. We send emails no more frequently than twice a month. 
 
 {% include newsletter.html %}
 
