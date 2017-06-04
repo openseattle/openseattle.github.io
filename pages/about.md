@@ -16,13 +16,13 @@ Open Seattle runs events focused on building the civic technology community in S
 
 ## Interested?
 
-Find out when and where our next event will be at our [Meetup page](http://www.meetup.com/openseattle/). In the meantime, take our [short survey](/join) so we can get your info and get you oriented into the group!
+We meet on the fourth Wednesday of every month to talk about and work on civic tech projects - come join us! Stay in the loop about our meetups and other events by joining our [Meetup group](http://www.meetup.com/openseattle/). 
 
 ---
 
 ## Projects
 
-Take a look at some of the cool ideas our members are [working on](/projects). Bring an idea of your own to one of our project nights or join an existing group. Also, sign up for the Open Seattle email newsletter to get updates about our projects. Emails are sent at most once a week, and provide a look at what's new with Open Seattle.
+Check out our [project gallery](/projects), or browse new project ideas (and submit your own!) [here](https://github.com/openseattle/project-ideas/issues). Sign up for the Open Seattle email newsletter to get updates about our projects and the latest news. We send emails no more frequently than twice a month. 
 
 {% include newsletter.html %}
 
