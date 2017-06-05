@@ -4,11 +4,11 @@ baseurl: ""
 permalink: /:categories/:year/:month/:day/:title
 
 gems:
-- jekyll-mentions
-- jemoji
-- jekyll-redirect-from
-- jekyll-sitemap
-- jekyll-json
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-json
 
 brigade:
     name: Open Seattle
