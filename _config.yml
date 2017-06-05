@@ -10,6 +10,20 @@ gems:
   - jekyll-sitemap
   - jekyll-json
 
+source: ./
+destination: ./_site
+exclude:
+  - .sass-cache
+  - _site/
+  - Gemfile
+  - Gemfile.lock
+  - _data/projects.yml
+  - projects/index.csv
+  - LICENSE
+  - README.md
+  - INSTALL.md
+  - exclude-list.txt
+
 brigade:
     name: Open Seattle
     city:   "Seattle, WA"
