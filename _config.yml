@@ -4,27 +4,30 @@ baseurl: ""
 permalink: /:categories/:year/:month/:day/:title
 
 gems:
-- jekyll-mentions
-- jemoji
-- jekyll-redirect-from
-- jekyll-sitemap
-- jekyll-json
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+source: ./
+destination: ./_site
+exclude:
+  - .sass-cache
+  - _site/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - INSTALL.md
+  - exclude-list.txt
 
 brigade:
-    name: Open Seattle
-    city:   "Seattle, WA"
-    meetup-link: "http://www.meetup.com/OpenSeattle/"
-    github: "https://github.com/openseattle"
-    idea-list: "http://seattlewiki.net/Code_for_Seattle_ideas"
+  name: Open Seattle
+  city:   "Seattle, WA"
+  meetup-link: "http://www.meetup.com/OpenSeattle/"
+  github: "https://github.com/openseattle"
+  idea-list: "http://seattlewiki.net/Code_for_Seattle_ideas"
 
 google-analytics:
-    use: true
-    code: UA-38362883-1
-
-serve-json-csv:
-  - destination: "projects"
-    origin: "_data/projects.yml"
-    csv: true
-    json: false
-    headers: [name, description, link_url, code_url, type, categories, status]
-    filter-json: true
+  use: true
+  code: UA-38362883-1
