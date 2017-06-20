@@ -1,8 +1,15 @@
-# **Seattle’s First Environmental Justice Hackathon**
- 
-50 people gathered at Facebook on April 28-29th, 2017 for the first-ever environmental justice (EJ) hackathon in Seattle. They quickly organized into groups, based on ideas they had pitched the week before in a Facebook group with scaffolding from organizers. 
- 
-These ideas were built overnight: 
+---
+title: "Seattle’s First Environmental Justice Hackathon"
+published: true
+layout: page
+description: "50 people gathered at Facebook on April 28-29th, 2017 for the first-ever environmental justice (EJ) hackathon in Seattle. They quickly organized into groups, based on ideas they had pitched the week before in a Facebook group with scaffolding from organizers."
+type: post
+author: Audrey Le
+---
+
+50 people gathered at Facebook on April 28-29th, 2017 for the first-ever environmental justice (EJ) hackathon in Seattle. They quickly organized into groups, based on ideas they had pitched the week before in a Facebook group with scaffolding from organizers.
+
+These ideas were built overnight:
 
 1. **CO2 Life cycle analysis:** a database & tool that makes it easy to see—and understand—the environmental impact of products you might buy.
 
