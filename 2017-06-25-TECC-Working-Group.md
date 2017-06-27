@@ -1,6 +1,6 @@
 ---
 title: "Seattle Working Group Targets the Misuse of Technology for Harassment and Abuse"
-published: false
+published: true
 layout: page
 description: "Communications technologies and location-tracking software provide vast opportunities for interpersonal networking, information sharing and the collection of granular data to inform policy and research. Yet these technologies also have a more sinister application as mechanisms for perpetuating physical and emotional abuse. The popularity of anonymity features, the impracticality of erasing one’s digital footprint, and the prevalence of web platforms to observe and connect with a victim without defying a “no-contact” order makes these attacks particularly difficult to trace and stop."
 type: post
