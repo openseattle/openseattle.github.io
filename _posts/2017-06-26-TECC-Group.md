@@ -49,4 +49,4 @@ There is an emerging volunteer role for people with technical expertise who want
 
 Personal security apps such as [Digital Witness](https://itunes.apple.com/us/app/digital-witness/id576249809?mt=8) facilitate quick outreach to pre-selected individuals and authorities in response to a threat, sending photos and GPS locations by clicking a “Help” button. Cuomo also posed the question: Could technology ease the burden on victims of repeatedly documenting technologically enabled abusive behavior?
 
-For more information or to get involved in the TECC working group, visit seatecc.org. 
+For more information or to get involved in the TECC working group, visit [seatecc.org](http://seatecc.org). 
