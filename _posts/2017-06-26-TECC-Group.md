@@ -12,7 +12,7 @@ Communications technologies and location-tracking software provide vast opportun
 
 A cross-sector group in Seattle has been working over the past year to develop shared knowledge and approaches for addressing the growing role that technology plays in abusive behaviors such as domestic violence, harassment and sexual assault. On May 23, they held a small group panel as a soft launch for the [Technology-Enabled Coercive Control (TECC) Working Group](http://seatecc.org). The event was held at Impact Hub Seattle and hosted by Candace Faber, Civic Technology Advocate for the City of Seattle, with refreshments from the Police Foundation.
 
-TECC members include the University of Washington’s (UW) Tech Policy Lab, SafeCampus and Victim Advocacy Services; City of Seattle IT; the Seattle Police Department’s Victim Support Team; the Washington State Coalition to End Domestic Violence; the King County Coalition Ending Gender-Based Violence; and the local nonprofit New Beginnings, which provides services to domestic violence survivors.
+TECC members include the University of Washington (UW) Tech Policy Lab, SafeCampus and Victim Advocacy Services; City of Seattle IT; the Seattle Police Department’s Victim Support Team; the Washington State Coalition to End Domestic Violence; the King County Coalition Ending Gender-Based Violence; and the local nonprofit New Beginnings, which provides services to domestic violence survivors.
 
 The event was introduced by Dana Lockhart of the Seattle Police Department’s Victim Support Team, who initiated the group’s formation, and by Lan Pham from the Mayor’s Office on Domestic Violence and Sexual Assault.
 
