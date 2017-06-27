@@ -6,7 +6,7 @@ description: "Communications technologies and location-tracking software provide
 type: post
 author: Emily F. Keller, Co-Lead Organizer of Open Seattle
 ---
-by Emily F. Keller
+By Emily F. Keller
 
 Communications technologies and location-tracking software provide vast opportunities for interpersonal networking, information sharing and the collection of granular data to inform policy and research. Yet these technologies also have a more sinister application as mechanisms for perpetuating physical and emotional abuse. The popularity of anonymity features, the impracticality of erasing one’s digital footprint, and the prevalence of web platforms to observe and connect with a victim without defying a “no-contact” order makes these attacks particularly difficult to trace and stop.
 
