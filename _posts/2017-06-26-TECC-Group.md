@@ -23,7 +23,9 @@ Speakers explained how communication and anonymity tools designed to protect pri
 - Keystroke monitoring software such as [Revealer Keylogger](https://www.logixoft.com/en-us/index), which is used for IT and user testing purposes, can be installed on a victim’s device to steal their passwords and read their conversations.
 - Spoofing apps such as [SpoofCard](http://www.spoofcard.com/) and [Bluff My Call](http://bluffmycall.com/) disguise a caller’s phone number and voice, record conversations and send outgoing calls directly to voicemail. 
 
-These services are beneficial for doctors responding to patients remotely while displaying their office phone number or parents observing a child or employee in a dangerous situation. However, when these tools are used for malicious purposes, proving the sender’s identity is a challenge even when a victim recognizes personal references in the content. “Sometimes judges don’t understand the technology or the context of why it’s so offensive to a victim,” said Summer Rosa-Mullen, Seattle City Attorney’s Office. Speakers noted that failure to intervene in electronic harassment can lead to escalating behaviors, such as an abuser going to a victim’s home.
+These services are beneficial for doctors responding to patients remotely while displaying their office phone number or parents observing a child or employee in a dangerous situation. However, when these tools are used for malicious purposes, proving the sender’s identity is a challenge even when a victim recognizes personal references in the content. 
+
+“Sometimes judges don’t understand the technology or the context of why it’s so offensive to a victim,” said Summer Rosa-Mullen, Seattle City Attorney’s Office. Speakers noted that failure to intervene in electronic harassment can lead to escalating behaviors, such as an abuser going to a victim’s home.
 
 ## Challenges for Law Enforcement
 
