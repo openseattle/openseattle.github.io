@@ -6,6 +6,8 @@ description: "Communications technologies and location-tracking software provide
 type: post
 author: Emily F. Keller, Co-Lead Organizer of Open Seattle
 ---
+Communications technologies and location-tracking software provide vast opportunities for interpersonal networking, information sharing and the collection of granular data to inform policy and research. Yet these technologies also have a more sinister application as mechanisms for perpetuating physical and emotional abuse. The popularity of anonymity features, the impracticality of erasing one’s digital footprint, and the prevalence of web platforms to observe and connect with a victim without defying a “no-contact” order makes these attacks particularly difficult to trace and stop.
+
 A cross-sector group in Seattle has been working over the past year to develop shared knowledge and approaches for addressing the growing role that technology plays in abusive behaviors such as domestic violence, harassment and sexual assault. On May 23, they held a small group panel as a soft launch for the [Technology-Enabled Coercive Control (TECC) Working Group](http://seatecc.org). The event was held at Impact Hub Seattle and hosted by Candace Faber, Civic Technology Advocate for the City of Seattle, with refreshments provided by the Police Foundation.
 
 Members include the University of Washington’s Tech Policy Lab, SafeCampus and Victim Advocacy Services; City of Seattle IT; the Seattle Police Department’s Victim Support Team; the Washington State Coalition to End Domestic Violence; the King County Coalition Ending Gender-Based Violence; and the local nonprofit New Beginnings, which provides services to domestic violence survivors.
@@ -31,7 +33,7 @@ High tech skills are not required to perpetuate technology-enabled abuse. Atttac
 
 Dana Cuomo, a victim advocate at UW, presented a research proposal for developing in-depth case studies of victims’ experiences and examining the resolutions provided. The proposal was created with researchers at the UW Tech Policy Lab, an interdisciplinary unit that provides educational research to improve technology policy. The project aims to offer educational information to law enforcement, judicial offices and human resources departments to improve their response and ability to act as an “on-ramp” in pursuing earlier remedies. 
 
-Victims of technology-enabled abuse can contact the [Cyber Civil Rights Legal Project[(https://www.cyberrightsproject.com/), which provides pro bono representation globally.
+Victims of technology-enabled abuse can contact the [Cyber Civil Rights Legal Project](https://www.cyberrightsproject.com/), which provides pro bono representation globally.
 
 ## Technological Tools for Combating Abuse
 
