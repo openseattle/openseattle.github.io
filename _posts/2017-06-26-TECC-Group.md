@@ -25,7 +25,7 @@ Speakers explained how communication and anonymity tools designed to protect pri
 
 These services are beneficial for doctors responding to patients remotely while displaying their office phone number or parents observing a child or employee in a dangerous situation. However, when these tools are used for malicious purposes, proving the sender’s identity is a challenge even when a victim recognizes personal references in the content. 
 
-“Sometimes judges don’t understand the technology or the context of why it’s so offensive to a victim,” said Summer Rosa-Mullen from the Seattle City Attorney’s Office. Speakers noted that failure to intervene in electronic harassment can lead to escalating behaviors, such as an abuser going to a victim’s home.
+“Sometimes judges don’t understand the technology or the context of why it’s so offensive to a victim,” said Summer Rosa-Mullen from the Seattle City Attorney’s Office. Failure to intervene in electronic harassment can lead to escalating behaviors, such as an abuser going to a victim’s home.
 
 ## Challenges for Law Enforcement
 
