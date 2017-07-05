@@ -4,32 +4,25 @@ title: Open Seattle Civic Tech Mixer
 permalink: /civic-tech-mixer/
 ---
 
-The Open Seattle Civic Tech Mixer is an event for technologists, coders, data nerds, and designers to meet community organizations who are looking to get support from the tech community and launch new innovative projects.
+The Seattle Social Good Series Civic Mixer is an event for technologists, coders, data nerds, and designers to meet community organizations who are looking to get support from the tech community and launch new innovative projects.
+
+### Nonprofits and Community Organizations!
+
+Meet coders, designers and data nerds who want to use their abilities for positive impact!
  
-Whether you want to volunteer your skills, offer your company’s services, or just find out more about where tech can help, this event is for you. We will have over 30 organizations and community groups represented tackling diverse issues in the local area.
+### Technologists!
+
+Meet organisations that need your skills to do good in the community!
+
+### Register
+
+- Technologist Volunteers: [Register Here](https://www.eventbrite.com/e/seattle-social-good-series-civic-mixer-tickets-34990608853)
+- Nonprofits & Community Organization: [Register Here](/civic-tech-mixer-orgs/)
+
+### Event Information
  
-These organizations are on the ground working hard to tackle the most difficult issues in our communities. We know what can be achieved with tech, but for these organizations, it is often out of reach, either through a lack of resources and expertise. This is a chance to meet these groups, find out about their stories, and offer your time, knowledge, and skills to launch a civic technological revolution in the heart of Seattle!
-
----
-
-## How To Register
-
-Designers, developers, and other civic technologists: [register here](#civic-technologist-registration).
-
-Nonprofits interested in partnering with members of the civic tech community on a project: [register here](#nonprofit-registration). 
-
----
-
-### Civic Technologist Registration 
-<div class="typeform-widget" data-url="https://openseattle.typeform.com/to/jifQFK" data-text="Civic Technologist Registration" style="width:100%;height:300px;"></div>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script> 
-
----
-
-### Nonprofit Registration
-
-<div class="typeform-widget" data-url="https://openseattle.typeform.com/to/JNzfKx" data-text="Civic Technologist Registration" style="width:100%;height:300px;"></div>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script> 
-
-
-
+If you are a social impact organisation thinking about how tech could help your mission, or a technologist looking to use your skills for good, this event is for you.
+ 
+Technology is a powerful tool for change that many small community focused organisations lack access to, while technologists often find it difficult to build long lasting projects without a definite end user. We are aiming to change that by creating a new culture of partnerships and dialogue between these two communities.
+ 
+The event will kick off with presentations and advice from speakers who have been involved with successful civic technology partnerships, a chance to mix with participants and showcase your organisation’s needs, plus a breakout room to talk in more detail with participants about potential projects.
