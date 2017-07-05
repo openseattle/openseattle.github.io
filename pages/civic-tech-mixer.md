@@ -14,6 +14,12 @@ Meet coders, designers and data nerds who want to use their abilities for positi
 
 Meet organisations that need your skills to do good in the community!
 
+### Event Details
+
+- July 22nd
+- 10am - 4pm
+- @ General Assembly, Seattle
+
 ### Register
 
 - Technologist Volunteers: [Register Here](https://www.eventbrite.com/e/seattle-social-good-series-civic-mixer-tickets-34990608853)
