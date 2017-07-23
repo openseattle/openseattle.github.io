@@ -19,6 +19,7 @@ p {
 
 .page-content h4, .page-content h5, .page-content h6 {
   margin-top: 15px;
+  text-align: left;
 }
 
 .top-nav .logo {
