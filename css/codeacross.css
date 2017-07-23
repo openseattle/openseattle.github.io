@@ -10,7 +10,6 @@
 }
   
 .come-to-codeacross {
-  text-align: left;
   color: #8C8C8C;
 }
 
@@ -20,7 +19,6 @@
 
 .code-across-teaser {
   border-radius: 3px;
-  text-align: left;
 }
 
 .code-across .welcome,
@@ -45,7 +43,6 @@
   letter-spacing: -2px;
   line-height: 1.2;
   margin-top: 15px;
-  text-align: left;
 }
 @media only screen and (max-width: 500px) {
   .code-across .welcome h1.title, .code-across-teaser h1.title {
@@ -71,7 +68,6 @@
   padding: 0px 2%;
   font-weight: 500;
   margin-top: 15px;
-  text-align: left;
 }
 
 
@@ -81,7 +77,6 @@
 
 .code-across h2 {
   margin-top: 40px;
-  text-align: left;
 }  
 .code-across .toc {
   margin-top: 40px;
