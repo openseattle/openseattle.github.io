@@ -12,7 +12,7 @@ p {
 
 .page-content h1, .page-content h2, .page-content h3 {
   margin-top: 25px;
-  text-align: left;
+  float: left;
 }
 
 .page-content h4, .page-content h5, .page-content h6 {
