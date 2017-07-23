@@ -42,6 +42,7 @@ p {
 .landing-header h2 {
   font-size: 30px;
   color: #fff;
+  text-align: left;
 }
 
 .sponsors .page-section-block-content {
