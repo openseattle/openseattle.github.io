@@ -4,27 +4,19 @@ title: About Open Seattle
 permalink: /about/
 ---
 
-## Who we are
-
-We welcome anyone who is interested in using technology to make civic improvements.  Artists, writers, entrepreneurs, leaders, creative thinkers, and coders are invited to civic hacking nights and other events hosted by Open Seattle.
-
-## What we do
-
-Open Seattle runs events focused on building the civic technology community in Seattle and building prototype solutions for local civic issues.
+Open Seattle advocates for open data and civic technology projects that improve the lives of Seattle residents. We host monthly meetups where members pitch and work on projects, and build relationships between tech workers, community groups, and local government.
 
 ---
 
-## Interested?
+## Join Us!
 
-We meet on the fourth Wednesday of every month to talk about and work on civic tech projects - come join us! Stay in the loop about our meetups and other events by joining our [Meetup group](http://www.meetup.com/openseattle/). 
+We meet on the fourth Wednesday of every month to discuss and work on civic tech projects, and often host other events open to the civic technology community. Join our [Meetup group](http://www.meetup.com/openseattle/) to find out about upcoming events.  
 
 ---
 
-## Projects
+## Our Projects
 
-Check out our [project gallery](/projects), or [browse new project ideas](https://github.com/openseattle/project-ideas/issues) (and submit your own!). Sign up for the Open Seattle email newsletter to get updates about our projects and the latest news. We send emails no more frequently than twice a month. 
-
-{% include newsletter.html %}
+Check out our [project gallery](/projects), or [browse new project ideas](https://github.com/openseattle/project-ideas/issues) (and submit your own!). 
 
 ---
 
