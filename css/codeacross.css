@@ -10,7 +10,7 @@
 }
   
 .come-to-codeacross {
-  text-align: center;
+  text-align: left;
   color: #8C8C8C;
 }
 
@@ -20,6 +20,7 @@
 
 .code-across-teaser {
   border-radius: 3px;
+  text-align: left;
 }
 
 .code-across .welcome,
