@@ -8,11 +8,12 @@ html, body {
 
 p {
   margin-bottom: 30px;
+  text-align: left;
 }
 
 .page-content h1, .page-content h2, .page-content h3 {
   margin-top: 25px;
-  float: left;
+  text-align: left;
 }
 
 .page-content h4, .page-content h5, .page-content h6 {
