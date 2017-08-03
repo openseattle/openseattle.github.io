@@ -16,7 +16,7 @@ We meet on the fourth Wednesday of every month to discuss and work on civic tech
 
 ## Our Projects
 
-Check out our [project gallery](/projects), or [browse new project ideas](https://github.com/openseattle/project-ideas/issues) (and submit your own!). 
+Check out our [project gallery](/projects), or [browse new project ideas](https://github.com/openseattle/project-ideas/issues). Want to pitch a project idea at our next meeting? Fill out [our pitch request form](https://docs.google.com/forms/d/e/1FAIpQLSdJ8Pt6AbuVoGmKqz7M784XF7BXoAhwWygDN_wLW1U6Rwuonw/viewform?usp=sf_link).
 
 ---
 
