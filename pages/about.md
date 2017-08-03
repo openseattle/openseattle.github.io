@@ -10,7 +10,9 @@ Open Seattle advocates for open data and civic technology projects that improve 
 
 ## Join Us!
 
-We meet on the fourth Wednesday of every month to discuss and work on civic tech projects, and often host other events open to the civic technology community. Join our [Meetup group](http://www.meetup.com/openseattle/) to find out about upcoming events. Want to pitch a project idea at our next meeting? Fill out [our pitch request form](https://docs.google.com/forms/d/e/1FAIpQLSdJ8Pt6AbuVoGmKqz7M784XF7BXoAhwWygDN_wLW1U6Rwuonw/viewform?usp=sf_link). 
+We meet on the fourth Wednesday of every month to discuss and work on civic tech projects, and often host other events open to the civic technology community. Join our [Meetup group](http://www.meetup.com/openseattle/) to find out about upcoming events. 
+
+Want to pitch a project idea at our next meeting? Fill out [our pitch request form](https://docs.google.com/forms/d/e/1FAIpQLSdJ8Pt6AbuVoGmKqz7M784XF7BXoAhwWygDN_wLW1U6Rwuonw/viewform?usp=sf_link). 
 
 ---
 
