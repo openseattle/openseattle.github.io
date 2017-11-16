@@ -1682,7 +1682,6 @@ html, body {
 }
 
 .page-section {
-  text-align: center;
   margin-bottom: 50px;
 }
 
@@ -1693,7 +1692,6 @@ html, body {
 .page-section-block-list {
   margin: 0px;
   padding: 0px;
-  text-align: center;
 }
 
 .page-section-block {
