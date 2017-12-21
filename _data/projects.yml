@@ -31,10 +31,10 @@
 - name: "Hey Duwamish - River Cleanup Project"
   description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
   skills_needed:
-  project_lead: [futuresoup, goldpbear, modulitos]
+  project_lead: 
   code_url: https://github.com/mapseed/platform
   link_url: https://heyduwamish.org
-  slack_channel: https://gitter.im/mapseed/Lobby
+  slack_channel: https://openseattle.slack.com/messages/heyduwamish/
   status: "live/ongoing"
   last_updated: null
 
