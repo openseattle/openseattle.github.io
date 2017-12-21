@@ -1,18 +1,44 @@
-- name: "Seattle Boundaries"
-  description: "Seattle has a lot of boundaries: city council districts, school districts, zoning, police beats, and a lot more. This tool makes it easy to know which boundaries you're in so you can better understand how city services and policies affect you."
-  project_tags: [javascript, node, community, games]
-  technology_tags: [javscript, node]
-  code_url: "https://github.com/seattleio/boundaries"
-  github_user: "seattleio"
-  github_repo: "boundaries"
-  link_url: "https://boundaries.seattle.io"
+- name: "Northwest Harvest - Produce Portal"
+  description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program!"
+  skills_needed: 
+  code_url: https://github.com/openseattle/northwest-harvest-growing-connections
+  github_user: 
+  github_repo:
+  link_url: https://northwest-harvest-growing-connections.azurewebsites.net/
+  slack_channel: 
+  status: null
+  contributors: 
+  screenshot_url: 
   status: "live/ongoing"
-  contributors: "sethvincent"
-  screenshot_url: "https://s21.postimg.org/j7d1350xj/Screen_Shot_2017-04-08_at_2.55.42_PM.png"
-  last_update: null
-  notes: null
-  type: null
-  categories: null
+  last_updated: null
+  
+- name: "Civic User Testing"
+  description: "Seattle’s Civic User Testing Group is a collaboration among Open Seattle, the University of Washington’s iSchool, and the City of Seattle. We are currently piloting this initiative with technology created by the City of Seattle, and our goal is to expand the CUTGroup more broadly in 2018 to provide user testing for developers working on civic apps and websites."
+  skills_needed: 
+  code_url: 
+  github_user: 
+  github_repo:
+  link_url: https://openseattle.org/cutgroup/
+  slack_channel: https://openseattle.slack.com/messages/cut-group/
+  status: null
+  contributors: 
+  screenshot_url: 
+  status: "live/ongoing"
+  last_updated: null
+  
+- name: "Democracy Lab"
+  description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention.  The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release. "
+  skills_needed: 
+  code_url: https://github.com/DemocracyLab/CivicTechExchange/tree/ssgs_hackathon_2017
+  github_user: 
+  github_repo:
+  link_url: https://www.democracylab.org 
+  slack_channel: https://openseattle.slack.com/messages/democracylab/
+  status: null
+  contributors: 
+  screenshot_url: 
+  status: "live/ongoing"
+  last_updated: null
 
 - name: "Hey Duwamish - River Cleanup Project"
   description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
@@ -26,7 +52,23 @@
   contributors: [Jacob Caggiano, Luke Swart]
   screenshot_url: "https://s22.postimg.org/ebern4xld/Screen_Shot_2017-04-08_at_3.14.00_PM.png"
   status: "live/ongoing"
-  last_update: null
+  last_updated: null
+  notes: null
+  type: null
+  categories: null
+
+- name: "Seattle Boundaries"
+  description: "Seattle has a lot of boundaries: city council districts, school districts, zoning, police beats, and a lot more. This tool makes it easy to know which boundaries you're in so you can better understand how city services and policies affect you."
+  project_tags: [javascript, node, community, games]
+  technology_tags: [javscript, node]
+  code_url: "https://github.com/seattleio/boundaries"
+  github_user: "seattleio"
+  github_repo: "boundaries"
+  link_url: "https://boundaries.seattle.io"
+  status: "live/ongoing"
+  contributors: "sethvincent"
+  screenshot_url: "https://s21.postimg.org/j7d1350xj/Screen_Shot_2017-04-08_at_2.55.42_PM.png"
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -42,7 +84,7 @@
   status: "live"
   contributors: "Seth Vincent, Ann Summy"
   screenshot_url: "https://s14.postimg.org/5goba8igh/Screen_Shot_2017-04-08_at_3.26.16_PM.png"
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -56,7 +98,7 @@
   status: "in progress"
   contributors: "Seth Vincent"
   screenshot_url: "https://s8.postimg.org/bptm65vp1/Screen_Shot_2017-04-08_at_3.59.47_PM.png"
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -70,7 +112,7 @@
   status: null
   contributors: [Anna Minard, Andrew Gall, Rob Dolin]
   screenshot_url: "https://s17.postimg.org/cw663in2n/Screen_Shot_2017-04-08_at_4.00.43_PM.png"
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -86,7 +128,7 @@
   status: "live"
   contributors: "Seth Vincent, Ann Summy"
   screenshot_url: "https://s10.postimg.org/u214rrgux/Screen_Shot_2017-04-08_at_4.01.53_PM.png"
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -102,7 +144,7 @@
   status: "live/ongoing"
   contributors: "George Lee, Colin Dietrich, Alan Vezina, Luke Swart"
   screenshot_url: "https://s16.postimg.org/w572315b9/Screen_Shot_2017-04-08_at_4.02.39_PM.png"
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -118,7 +160,7 @@
   status: "live/ongoing"
   contributors: "Wendy Call, Seth Vincent, Christina Montilla, Ann Summy, Adrian Limon"
   screenshot_url: "https://s13.postimg.org/70re798mv/Screen_Shot_2017-04-08_at_3.36.54_PM.png"
-  last_update: "4/24/2014"
+  last_updated: "4/24/2014"
   notes: null
   type: null
   categories: null
@@ -132,7 +174,7 @@
   status: active
   contributors: "Ethan Phelps-Goodman"
   screenshot_url: "https://s3.postimg.org/bd2hlt043/Screen_Shot_2017-04-08_at_4.03.34_PM.png"
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -148,7 +190,7 @@
   status: "in progress"
   contributors: null
   screenshot_url: null
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -162,7 +204,7 @@
   status: null
   contributors: "Shaya"
   screenshot_url: "https://s9.postimg.org/64npauyq7/Screen_Shot_2017-04-08_at_3.18.21_PM.png"
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -178,7 +220,7 @@
   status: null
   contributors: null
   screenshot_url: null
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
@@ -194,7 +236,7 @@
   status: "live/ongoing"
   contributors: ""
   screenshot_url: "https://s3.postimg.org/vud3hq0gj/Screen_Shot_2017-04-08_at_4.04.44_PM.png"
-  last_update: null
+  last_updated: null
   notes: null
   type: null
   categories: null
