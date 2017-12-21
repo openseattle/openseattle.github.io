@@ -2,241 +2,122 @@
   description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program!"
   skills_needed: 
   code_url: https://github.com/openseattle/northwest-harvest-growing-connections
-  github_user: 
-  github_repo:
   link_url: https://northwest-harvest-growing-connections.azurewebsites.net/
   slack_channel: 
-  status: null
-  contributors: 
-  screenshot_url: 
   status: "live/ongoing"
   last_updated: null
   
 - name: "Civic User Testing"
   description: "Seattle’s Civic User Testing Group is a collaboration among Open Seattle, the University of Washington’s iSchool, and the City of Seattle. We are currently piloting this initiative with technology created by the City of Seattle, and our goal is to expand the CUTGroup more broadly in 2018 to provide user testing for developers working on civic apps and websites."
   skills_needed: 
+  project_lead: 
   code_url: 
-  github_user: 
-  github_repo:
   link_url: https://openseattle.org/cutgroup/
   slack_channel: https://openseattle.slack.com/messages/cut-group/
-  status: null
-  contributors: 
-  screenshot_url: 
   status: "live/ongoing"
   last_updated: null
   
 - name: "Democracy Lab"
   description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention.  The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release. "
   skills_needed: 
+  project_lead: 
   code_url: https://github.com/DemocracyLab/CivicTechExchange/tree/ssgs_hackathon_2017
-  github_user: 
-  github_repo:
   link_url: https://www.democracylab.org 
   slack_channel: https://openseattle.slack.com/messages/democracylab/
-  status: null
-  contributors: 
-  screenshot_url: 
   status: "live/ongoing"
   last_updated: null
 
 - name: "Hey Duwamish - River Cleanup Project"
   description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
-  project_tags: [community, environment]
-  technology_tags: [django, python, javascript, node]
+  skills_needed: 
+  project_lead: 
   code_url: https://github.com/smartercleanup/duwamish
-  github_user: "smartercleanup"
-  github_repo: "platform"
   link_url: http://heyduwamish.org
-  status: null
-  contributors: [Jacob Caggiano, Luke Swart]
-  screenshot_url: "https://s22.postimg.org/ebern4xld/Screen_Shot_2017-04-08_at_3.14.00_PM.png"
+  slack_channel: 
   status: "live/ongoing"
   last_updated: null
-  notes: null
-  type: null
-  categories: null
 
 - name: "Seattle Boundaries"
   description: "Seattle has a lot of boundaries: city council districts, school districts, zoning, police beats, and a lot more. This tool makes it easy to know which boundaries you're in so you can better understand how city services and policies affect you."
-  project_tags: [javascript, node, community, games]
-  technology_tags: [javscript, node]
+  skills_needed: 
   code_url: "https://github.com/seattleio/boundaries"
-  github_user: "seattleio"
-  github_repo: "boundaries"
   link_url: "https://boundaries.seattle.io"
-  status: "live/ongoing"
-  contributors: "sethvincent"
-  screenshot_url: "https://s21.postimg.org/j7d1350xj/Screen_Shot_2017-04-08_at_2.55.42_PM.png"
+  project_lead: 
+  project_lead: [Seth Vincent]
+  status: "completed" 
   last_updated: null
-  notes: null
-  type: null
-  categories: null
   
 - name: "nwdata.org"
   description: "A directory of open data portals, apps, & other resources related to civic tech in the Pacific Northwest."
-  project_tags: [data, resources]
-  technology_tags: [html, css]
+  project_lead: 
+  skills_needed:
   code_url: "https://github.com/sethvincent/nwdata.org"
-  github_user: "sethvincent"
-  github_repo: "nwdata.org"
   link_url: "http://nwdata.org"
   status: "live"
-  contributors: "Seth Vincent, Ann Summy"
-  screenshot_url: "https://s14.postimg.org/5goba8igh/Screen_Shot_2017-04-08_at_3.26.16_PM.png"
+  slack_channel: 
+  contributors: [Seth Vincent, Ann Summy]
   last_updated: null
-  notes: null
-  type: null
-  categories: null
   
 - name: "seattle.io"
   description: "Tools and resources for building Seattle-focused apps."
-  project_tags: null
-  technology_tags: null
+  project_lead: 
+  slack_channel: 
+  skills_needed: 
   code_url: "https://github.com/seattleio"
   link_url: "http://seattle.io"
   status: "in progress"
   contributors: "Seth Vincent"
-  screenshot_url: "https://s8.postimg.org/bptm65vp1/Screen_Shot_2017-04-08_at_3.59.47_PM.png"
   last_updated: null
-  notes: null
-  type: null
-  categories: null
   
 - name: "What's My Wage?"
   description: "Learn what the new minimum wage should be based on your employer."
-  project_tags: null
-  technology_tags: null
   code_url: https://github.com/working-wa/whats-my-wage-app
   link_url: http://whatsmywage.org
   status: null
-  contributors: [Anna Minard, Andrew Gall, Rob Dolin]
-  screenshot_url: "https://s17.postimg.org/cw663in2n/Screen_Shot_2017-04-08_at_4.00.43_PM.png"
+  project_lead: [Anna Minard, Andrew Gall, Rob Dolin]
+  slack_channel:
+  skills_needed: 
   last_updated: null
-  notes: null
-  type: null
-  categories: null
   
 - name: "Seattle LocalWiki"
   description: null
-  project_tags: null
-  technology_tags: null
   code_url: "http://github.com/localwiki/localwiki"
-  github_user: "localwiki"
-  github_repo: "localwiki"
   link_url: "http://seattlewiki.net"
   status: "live"
-  contributors: "Seth Vincent, Ann Summy"
-  screenshot_url: "https://s10.postimg.org/u214rrgux/Screen_Shot_2017-04-08_at_4.01.53_PM.png"
+  project_lead: [Seth Vincent, Ann Summy]
+  skills_needed: 
   last_updated: null
-  notes: null
-  type: null
-  categories: null
 
 - name: "The Duwamish Lighthouse"
   description: "Brings visibility and presence to the Duwamish River, Seattle's only river. This project enhances our relationship with the river through a sculptural form and water quality data-driven lighting at night."
-  project_tags: [environmental, data, community]
-  technology_tags: [python, raspberry pi, bottle, Adafruit, i2c]
   code_url: "https://github.com/tipsqueal/duwamish-lighthouse"
-  github_user: "tipsqueal"
-  github_repo: "duwamish-lighthouse"
   link_url: "http://www.georgeleestudio.com/duwamishlighthouse/"
+  slack_channel: 
   status: "live/ongoing"
-  contributors: "George Lee, Colin Dietrich, Alan Vezina, Luke Swart"
-  screenshot_url: "https://s16.postimg.org/w572315b9/Screen_Shot_2017-04-08_at_4.02.39_PM.png"
+  project_lead: [George Lee, Colin Dietrich, Alan Vezina, Luke Swart]
+  skills_needed: 
   last_updated: null
-  notes: null
-  type: null
-  categories: null
 
 - name: "Seward Park Stories"
   description: "Documenting the art, historical, & cultural locations in Seward Park."
-  project_tags: [art, culture, history, parks]
-  technology_tags: [javascript]
+  project_lead: [Wendy Call, Seth Vincent, Christina Montilla, Ann Summy, Adrian Limon]
   code_url: "https://github.com/sethvincent/seward-park-map"
-  github_user: "sethvincent"
-  github_repo: "seward-park-map"
   link_url: "http://sewardparkstories.org"
+  slack_channel: 
+  skills_needed: 
   status: "live/ongoing"
-  contributors: "Wendy Call, Seth Vincent, Christina Montilla, Ann Summy, Adrian Limon"
-  screenshot_url: "https://s13.postimg.org/70re798mv/Screen_Shot_2017-04-08_at_3.36.54_PM.png"
   last_updated: "4/24/2014"
-  notes: null
-  type: null
-  categories: null
 
-- name: "Seattle in Progress"
-  description: null
-  project_tags: null
-  technology_tags: null
-  code_url: "closed source?"
-  link_url: http://www.seattleinprogress.com
-  status: active
-  contributors: "Ethan Phelps-Goodman"
-  screenshot_url: "https://s3.postimg.org/bd2hlt043/Screen_Shot_2017-04-08_at_4.03.34_PM.png"
-  last_updated: null
-  notes: null
-  type: null
-  categories: null
 
 - name: "Seattle One Night Count datasets"
   description: null
-  project_tags: data
-  technology_tags: null
+  project_lead:
+  skills_needed: 
   code_url: "https://github.com/licyeus/seattle-homeless-info"
-  github_user: "licyeus"
-  github_repo: "seattle-homeless-info"
   link_url: null
   status: "in progress"
-  contributors: null
-  screenshot_url: null
+  slack_channel: 
   last_updated: null
-  notes: null
-  type: null
-  categories: null
 
-- name: "Live Music Project"
-  description: "Member-developed project to help Seattle-area residents find upcoming classical music performances." 
-  project_tags: music
-  technology_tags: null
-  code_url: "closed source?"
-  link_url: "http://livemusicproject.org"
-  status: null
-  contributors: "Shaya"
-  screenshot_url: "https://s9.postimg.org/64npauyq7/Screen_Shot_2017-04-08_at_3.18.21_PM.png"
-  last_updated: null
-  notes: null
-  type: null
-  categories: null
 
-- name: "Seattle Icons"
-  description: "Designing icons to represent different areas and neighborhoods across Seattle."
-  project_tags: design
-  technology_tags: null
-  code_url: "http://github.com/openseattle/seattle-icons"
-  github_user: "openseattle"
-  github_repo: "seattle-icons"
-  link_url: "seattleicons.org"
-  status: null
-  contributors: null
-  screenshot_url: null
-  last_updated: null
-  notes: null
-  type: null
-  categories: null
-  
-- name: "Popup Arcade"
-  description: "Come help us create arcade machines that are designed to be played by residents of the area. See more at: http://popuparcade.org/"
-  project_tags: [javascript, node, community, games]
-  technology_tags: [javscript, node]
-  code_url: "https://github.com/popuparcade"
-  github_user: "popuparcade"
-  github_repo: "popup-arcade"
-  link_url: "http://popuparcade.org"
-  status: "live/ongoing"
-  contributors: ""
-  screenshot_url: "https://s3.postimg.org/vud3hq0gj/Screen_Shot_2017-04-08_at_4.04.44_PM.png"
-  last_updated: null
-  notes: null
-  type: null
-  categories: null
+
