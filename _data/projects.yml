@@ -1,4 +1,4 @@
-- name: "Northwest Harvest - Produce Portal"
+[- name: "Northwest Harvest - Produce Portal"
   description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program!"
   skills_needed: 
   project_lead: 
@@ -21,7 +21,7 @@
 - name: "Democracy Lab"
   description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention.  The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release. "
   skills_needed: 
-  project_lead: 
+  project_lead: [Luke Swart]
   code_url: https://github.com/DemocracyLab/CivicTechExchange/tree/ssgs_hackathon_2017
   link_url: https://www.democracylab.org 
   slack_channel: https://openseattle.slack.com/messages/democracylab/
