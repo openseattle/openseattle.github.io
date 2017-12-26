@@ -1,5 +1,5 @@
-[- name: "Northwest Harvest - Produce Portal"
-  description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program!"
+[- name: "Northwest Harvest's Produce Portal"
+  description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program! Note: The Produce Portal was originally developed at Seattle GiveCamp, thanks to a team of volunteer developers."
   skills_needed: 
   project_lead: 
   code_url: https://github.com/openseattle/northwest-harvest-growing-connections
@@ -8,30 +8,30 @@
   status: "live/ongoing"
   last_updated: null
   
-- name: "Civic User Testing"
-  description: "Seattle’s Civic User Testing Group is a collaboration among Open Seattle, the University of Washington’s iSchool, and the City of Seattle. We are currently piloting this initiative with technology created by the City of Seattle, and our goal is to expand the CUTGroup more broadly in 2018 to provide user testing for developers working on civic apps and websites."
+- name: "Civic User Testing Group"
+  description: "Seattle’s Civic User Testing Group is a community of residents who are paid to test civic websites and apps. Modeled after Smart Chicago's Civic User Testing Group, this initiative engages residents in creating technology that is intended to serve them."
   skills_needed: 
-  project_lead: 
-  code_url: 
+  project_lead: [Megan Bruce, Nic Weber] 
+  code_url: https://github.com/SeattleCUTGroup/UserTestingSession/wiki
   link_url: https://openseattle.org/cutgroup/
   slack_channel: https://openseattle.slack.com/messages/cut-group/
   status: "live/ongoing"
   last_updated: null
   
-- name: "Democracy Lab"
+- name: "DemocracyLab"
   description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention.  The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release. "
   skills_needed: 
-  project_lead: [Luke Swart]
+  project_lead: [Mark Frischmuth]
   code_url: https://github.com/DemocracyLab/CivicTechExchange/tree/ssgs_hackathon_2017
   link_url: https://www.democracylab.org 
-  slack_channel: https://openseattle.slack.com/messages/democracylab/
+  slack_channel: https://democracylab-org.slack.com/
   status: "live/ongoing"
   last_updated: null
 
-- name: "Hey Duwamish - River Cleanup Project"
+- name: "Hey Duwamish River Cleanup Project"
   description: "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
   skills_needed:
-  project_lead: 
+  project_lead: [Jacob Caggiano, Luke Swart] 
   code_url: https://github.com/mapseed/platform
   link_url: https://heyduwamish.org
   slack_channel: https://openseattle.slack.com/messages/heyduwamish/
