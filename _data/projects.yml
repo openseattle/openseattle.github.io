@@ -10,7 +10,7 @@
   
 - name: "Civic User Testing Group"
   description: "Seattle’s Civic User Testing Group is a community of residents who are paid to test civic websites and apps. Modeled after Smart Chicago's Civic User Testing Group, this initiative engages residents in creating technology that is intended to serve them."
-  skills_needed: 
+  skills_needed: UX designers/researchers, to help design and lead test sessions with residents
   project_lead: [Megan Bruce, Nic Weber] 
   code_url: https://github.com/SeattleCUTGroup/UserTestingSession/wiki
   link_url: https://openseattle.org/cutgroup/
@@ -19,12 +19,22 @@
   last_updated: null
   
 - name: "DemocracyLab"
-  description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention.  The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release. "
+  description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention. The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release."
   skills_needed: 
   project_lead: [Mark Frischmuth]
   code_url: https://github.com/DemocracyLab/CivicTechExchange/tree/ssgs_hackathon_2017
   link_url: https://www.democracylab.org 
   slack_channel: https://democracylab-org.slack.com/
+  status: "live/ongoing"
+  last_updated: null
+  
+- name: "Washington Legislative Services Redesign"
+  description: "An initiative to make it easier to track current legislation by restructuring WA Legislative Services' data and using their API to create a system to pull data and present it in a more user-friendly way."
+  skills_needed: 
+  project_lead: [Jackson Brown]
+  code_url: https://github.com/JacksonMaxfield/wa_legislature
+  link_url:  
+  slack_channel: 
   status: "live/ongoing"
   last_updated: null
 
