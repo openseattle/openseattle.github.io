@@ -6,7 +6,7 @@ description: "Seattle’s new Civic User Testing Group (CUTGroup) aims to involv
 type: post
 author: Emily F. Keller
 ---
-By Emily F. Keller
+By Megan Bruce and Emily F. Keller
 
 Seattle residents rely on government and nonprofit websites and apps to access key information and resources, like utility accounts, housing assistance, permits, and library services. But they don’t always get the chance to provide feedback on that technology and how useful — and usable — it is for them.
 
