@@ -1,5 +1,4 @@
-// Marks up repos for the /library/ page
-$(".repo").each(function(index, repo) {
+$.when($(".repo").each(function(index, repo) {
   var org = $(repo).attr("data-organization");
   var repo_name = $(repo).attr("data-repo");
 
@@ -12,8 +11,12 @@ $(".repo").each(function(index, repo) {
 
     // Update date fields to pretty print them
     $(repo).find(".date").each(function(idx, date) {
-      $(date).text(new Date($(date).text()));
+      $(date).text((new Date($(date).text())).toLocaleString());
     });
+
+    // Update the last-updated attribute so we can later sort
+    var date_epoch = (new Date(repo_details.updated_at)).getTime() / 1000;
+    $(repo).attr('data-last-updated', date_epoch);
   }).fail(function(jqxhr, text_status, error) {
     // If the repo wasn't found, remove it from the page
     if(error == "Not Found") {
@@ -29,16 +32,21 @@ $(".repo").each(function(index, repo) {
         + '<img src="' + contributor['author']['avatar_url'] + '" alt="' + contributor['author']['login'] + '"/>'
         + '</a></li>';
 
-
       $(repo).find(".contributors").append(li);
     });
 
-    $(".contributor").tooltip();
+    //$(".contributor").tooltip();
   }).fail(function(jqxhr, text_status, error) {
     if(error == "Not Found") {
       $(repo).find(".contributors").remove();
     }
   });
+})).done(function() { 
+  // Sort the repos based on their last updated date
+  var repos = $(".repo").sort(function(a, b) {
+    return $(a).attr('data-last-updated') - $(b).attr('data-last-updated');
+  });
+  console.log(repos);
 });
 
 $(".author").each(function(index, element) {
@@ -65,3 +73,4 @@ $(".author").each(function(index, element) {
     }
   });
 });
+
