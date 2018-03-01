@@ -1,4 +1,4 @@
-[- name: "Northwest Harvest's Produce Portal"
+- name: "Northwest Harvest's Produce Portal"
   description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program! Note: The Produce Portal was originally developed at Seattle GiveCamp, thanks to a team of volunteer developers."
   skills_needed: 
   project_lead: 
@@ -22,7 +22,7 @@
   description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention. The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release."
   skills_needed: 
   project_lead: [Mark Frischmuth]
-  code_url: https://github.com/DemocracyLab/CivicTechExchange/tree/ssgs_hackathon_2017
+  code_url: https://github.com/DemocracyLab/CivicTechExchange
   link_url: https://www.democracylab.org 
   slack_channel: https://democracylab-org.slack.com/
   status: "live/ongoing"
@@ -81,6 +81,8 @@
   description: "Learn what the new minimum wage should be based on your employer."
   code_url: https://github.com/working-wa/whats-my-wage-app
   link_url: http://whatsmywage.org
+  github_user: working-wa
+  github_repo: whats-my-wage-app
   status: null
   project_lead: [Anna Minard, Andrew Gall, Rob Dolin]
   slack_channel:
@@ -127,6 +129,3 @@
   status: "in progress"
   slack_channel: 
   last_updated: null
-
-
-

@@ -140,6 +140,10 @@ p {
   width: 40px;
 }
 
+.repo .meta {
+  font-size: 0.8em;
+}
+
 @media (min-width: 600px) {
   .landing-header h2 {
     font-size: 40px;
