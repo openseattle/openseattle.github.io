@@ -13,7 +13,7 @@ Women of color, LGBTQIA+ folks, people of color and other underrepresented folks
 Read more about the application process & the volunteer lead organizer position:
 
 ### What we'll ask of you
-- 1-year term commitment. February 2017 through January 2018
+- 1-year term commitment. June 2018 through May 2019
 - Attend monthly lead organizer meetings
 - Provide monthly update on activities at Open Seattle event
 - Attend events hosted by Open Seattle and other organizations to conduct outreach
@@ -27,9 +27,9 @@ Read more about the application process & the volunteer lead organizer position:
 - Shape the future of Open Seattle
 
 ### Application process
-- Application deadline is January 17
-- Selected applicants interview with appointment committee during last two weeks of January
-- Announcements in first week of February
+- Application deadline is May 5, 2018
+- Selected applicants interview with appointment committee during first two weeks of June
+- Announcements last week of June
 
 ### Appointment process
 - A committee of local community organizers will oversee the appointment process. This may be outgoing Open Seattle lead organizers, leaders of partner community organizations, or members of the board of the non-profit that fiscally sponsors Open Seattle.
@@ -37,9 +37,7 @@ Read more about the application process & the volunteer lead organizer position:
 
 The application review committee includes:
 
-- Shelly Farnham – Executive Director & Research Scientist at Third Place Technologies
-- Sarah Schacht – Operations Manager at Identity Ecosystem Steering Group
-- Sabrina Roach – Doer at Brown Paper Tickets, specializing in public media and digital equity
+TBD
 
 ### FAQ about becoming a lead organizer
 
@@ -53,7 +51,7 @@ No, most of the responsibilities of a lead organizer do not include writing code
 
 #### How many hours per month are required?
 
-There aren't strict requirements. You'll need to attend monthly events, and most work can happen whenever you have time throughout each week. A rough estimate might be between 15 and 20 hours per month, though it depends on your schedule and what responsibilities you take on.
+There aren't strict requirements. You'll need to attend monthly events, and most work can happen whenever you have time throughout each week. A rough estimate might be between 2 and 10 hours per month, though it depends on your schedule and what responsibilities you take on.
 
 #### Is this a paid position?
 
