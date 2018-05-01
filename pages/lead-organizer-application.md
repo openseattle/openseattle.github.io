@@ -8,7 +8,7 @@ We're recruiting a cohort of 5 volunteers to become lead organizers of Open Seat
 
 Women of color, LGBTQIA+ folks, people of color and other underrepresented folks are encouraged to apply!
 
-<p><a href="#apply" class="button">Apply now</a></p>
+<p><a href="https://openseattle.typeform.com/to/q4IGX5" class="button">Apply now</a></p>
 
 Read more about the application process & the volunteer lead organizer position:
 
