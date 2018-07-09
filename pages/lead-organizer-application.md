@@ -27,13 +27,12 @@ Read more about the application process & the volunteer lead organizer position:
 - Shape the future of Open Seattle
 
 ### Application process
-- Application deadline is June 15, 2018
-- Selected applicants interview with appointment committee during last two weeks of June
-- Announcements last week of June
+- We'll be accepting applications on a rolling basis. 
+- Within 2 weeks of receiving the application, an appointment committee will work with the applicant to schedule a video or in-person interview (~ 20-30 minutes). 
 
 ### Appointment process
 - A committee of local community organizers will oversee the appointment process. This may be outgoing Open Seattle lead organizers, leaders of partner community organizations, or members of the board of the non-profit that fiscally sponsors Open Seattle.
-- Applications are reviewed and applicants are interviewed in the first two weeks of December.
+- If deemed a good fit, selected candidates will be contacted via e-mail and invited to meet with the current organizers for an onboarding session. 
 
 ### FAQ about becoming a lead organizer
 
