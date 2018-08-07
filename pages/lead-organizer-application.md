@@ -13,7 +13,7 @@ Women of color, LGBTQIA+ folks, people of color and other underrepresented folks
 Read more about the application process & the volunteer lead organizer position:
 
 ### What we'll ask of you
-- 1-year term commitment. July 2018 through June 2019
+- 1-year term commitment
 - Attend monthly lead organizer meetings
 - Provide monthly update on activities at Open Seattle event
 - Attend events hosted by Open Seattle and other organizations to conduct outreach
