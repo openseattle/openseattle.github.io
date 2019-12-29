@@ -13,7 +13,7 @@ Members met on July 2nd at Socrata and discussed the new vision, structure, and 
 
 ### Website & Logo
 
-To focus on projects and to welcome people of backgrounds outside of technology, the new logo incorporates the passions of our Evergreen state with our goal to build connections between all the groups working on issues of civics. See more at [openseattle.org](http://openseattle.org).
+To focus on projects and to welcome people of backgrounds outside of technology, the new logo incorporates the passions of our Evergreen state with our goal to build connections between all the groups working on issues of civics. See more at [openseattle.org](https://openseattle.org).
 
 Have ideas for improvements on the logo? We'd like to also speak to our roots on the Puget Sound, and our love of hexagons (hexagons!). View our logo issue repo [here](https://github.com/openseattle/discuss/issues/10).
 

@@ -18,7 +18,7 @@ We have three projects for our first sprint! Two of the projects focus on Open S
 ## openseattle.org design changes
 [Seth Vincent](https://twitter.com/sethdvincent) is working on improvements to the design of openseattle.org. Work is in development at [github.com/openseattle/style](http://github.com/openseattle/style).
 
-You can see a demo of the in-progress work here: [openseattle.org/style](http://openseattle.org/style)
+You can see a demo of the in-progress work here: [openseattle.org/style](https://openseattle.org/style)
 
 The end result of this work has two parts: openseattle.org will have a new design, and the style repo will become a styleguide and reusable css that can be repurposed for new Open Seattle project & event websites.
 

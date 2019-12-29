@@ -14,7 +14,7 @@ author: Katherine Boyd
 
 Friday, February 26th was an exciting day for Civic Technology in Seattle: Mayor Ed Murray formally signed the city’s new Executive Order on Open Data at [Impact Hub Seattle](http://www.impacthubseattle.com). The City of Seattle, the Sunlight Foundation, Bloomberg Philanthropies’ national What Works Cities initiative, the University of Washington, and citizens collaborated to bring the Open Data Policy to life.
 
-[Candace Faber](http://openseattle.org/2016/02/02/candace-faber-interview), Civic Technology Advocate of the City of Seattle, hosted the event. One major theme of the presentation was the focus on **partnerships** among the government, businesses, other organizations, and individuals.  The presenters explained that resource-constrained governments need assistance to tap into the rich opportunities available from their data.
+[Candace Faber](https://openseattle.org/2016/02/02/candace-faber-interview), Civic Technology Advocate of the City of Seattle, hosted the event. One major theme of the presentation was the focus on **partnerships** among the government, businesses, other organizations, and individuals.  The presenters explained that resource-constrained governments need assistance to tap into the rich opportunities available from their data.
 
 A key aspect of the new policy is making data **open by preference**, versus open by default – the “preference” policy brings a focus on protecting privacy, ensuring security, and screening for quality.
 
