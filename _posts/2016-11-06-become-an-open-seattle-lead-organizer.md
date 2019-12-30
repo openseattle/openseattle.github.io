@@ -22,7 +22,7 @@ We're looking for volunteers to make a one year commitment to improving Open Sea
 
 **The deadline for applications is end of day January 17.** It is not required that you have previous experience with Open Seattle. 
 
-To learn more about the application process, visit the [lead organizer application page](http://openseattle.org/lead-organizer-application/)
+To learn more about the application process, visit the [lead organizer application page](https://openseattle.org/lead-organizer-application/)
 
 Over the coming weeks we'll share more about the roles that lead organizers can take on, and other ways you can get involved.
 

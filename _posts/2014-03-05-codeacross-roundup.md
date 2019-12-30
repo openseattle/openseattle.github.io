@@ -93,10 +93,10 @@ Sourcing and aggregating stolen bike data for Seattle, with a particular focus o
 
 It's not easy to get a sense of the impact of the proposed Metro bus cuts, so a team created a visualization to make that easier.
 
-[![Screenshot of metro cuts map](https://lh5.googleusercontent.com/-YcWNYJ6s2Mg/UwvVW9uQBmI/AAAAAAAABe4/CQ9sPYxJD2g/w954-h511-no/Screen+Shot+2014-02-24+at+3.25.24+PM.png)](http://openseattle.org/metrocuts)
+[![Screenshot of metro cuts map](https://lh5.googleusercontent.com/-YcWNYJ6s2Mg/UwvVW9uQBmI/AAAAAAAABe4/CQ9sPYxJD2g/w954-h511-no/Screen+Shot+2014-02-24+at+3.25.24+PM.png)](https://openseattle.org/metrocuts)
 
 ### Check out the live site:
-[http://openseattle.org/metrocuts](http://openseattle.org/metrocuts)
+[https://openseattle.org/metrocuts](https://openseattle.org/metrocuts)
 
 ### GitHub repository:
 [http://github.com/openseattle/metrocuts](http://github.com/openseattle/metrocuts)

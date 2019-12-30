@@ -1,4 +1,4 @@
-# [openseattle.org](http://openseattle.org)
+# [openseattle.org](https://openseattle.org)
 
 This is the repo for openseattle.org.
 
