@@ -2,21 +2,21 @@
   description: "placeholder_text"
   skills_needed: placeholder_role
   project_lead: [field not visible on site] 
-  code_url: 
-  link_url: 
-  slack_channel: 
+  code_url: placeholder.github.url
+  link_url: placeholder.link.url
+  slack_channel: placheolder.slack.channel
   status: "field not visible on site"
-  last_updated: null
+  last_updated: '2/1/2020'
 
-  - name: "Conviction Vacation Project"
+- name: "Conviction Vacation Project"
   description: "placeholder_text"
   skills_needed: placeholder_role
   project_lead: [field not visible on site] 
-  code_url: 
-  link_url: 
-  slack_channel: 
+  code_url: placeholder.github.url
+  link_url: placeholder.link.url
+  slack_channel: placheolder.slack.channel
   status: "field not visible on site"
-  last_updated: null
+  last_updated: '2/1/2020'
 
 - name: "Northwest Harvest's Produce Portal"
   description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program! Note: The Produce Portal was originally developed at Seattle GiveCamp, thanks to a team of volunteer developers."
