@@ -3,7 +3,7 @@ description: "Technology for civic engagement."
 baseurl: ""
 permalink: /:categories/:year/:month/:day/:title
 
-gems:
+plugins:
   - jekyll-mentions
   - jemoji
   - jekyll-redirect-from
