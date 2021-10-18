@@ -8,7 +8,7 @@ type: post
 
 Come discuss a new project opportunity with the [City of Seattle Office of Planning and Community Development](https://www.seattle.gov/opcd) for a community-driven public feedback platform. We'll also hear an update from long-time Open Seattle contributor and past lead organizer Jackson Brown on the [Council Data Project](https://councildataproject.org/).
 
-RSVP on [Meetup](https://www.meetup.com/openseattle/events/xrrspsyccnblc/)
+[RSVP on Meetup](https://www.meetup.com/openseattle/events/xrrspsyccnblc/).
 
 MEETING AGENDA:
 
@@ -20,10 +20,9 @@ MEETING AGENDA:
 
 7:40-8:00: Q&A and Open Discussion
 
-*Ping the #general channel in our Open Seattle Slack group (link below), or message current lead organizers Adrian, Jannie, or Robin. You don't need to be on the agenda to talk. We always leave open time for members to discuss projects/events.*
-
 HOW TO CONNECT:
 We plan things, ask/answer questions, and discuss projects using Slack.
-Join the Open Seattle Slack channel here:
+Join the Open Seattle Slack channel [here](https://join.slack.com/t/openseattle/shared_invite/enQtNzczMjg5MzYyNzg4LTgwZDExYmE2MWQ4N2ZiN2VmNDllMmU3ODI0YWFkMTQ5ODY4MGMwNDBhOTQwNTU3OGJmYTI5ZTE3YWQ2NTdjYWY).
 
-https://join.slack.com/t/openseattle/shared_invite/enQtNzczMjg5MzYyNzg4LTgwZDExYmE2MWQ4N2ZiN2VmNDllMmU3ODI0YWFkMTQ5ODY4MGMwNDBhOTQwNTU3OGJmYTI5ZTE3YWQ2NTdjYWY
+Ping the #general channel in Slack, or message current lead organizers Adrian, Jannie, or Robin. You don't need to be on the agenda to talk. We always leave open time for members to discuss projects/events.
+
