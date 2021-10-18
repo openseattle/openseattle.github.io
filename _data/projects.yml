@@ -1,3 +1,31 @@
+- name: "DemocracyLab"
+  description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention. The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release."
+  skills_needed: 
+  project_lead: [Mark Frischmuth]
+  code_url: https://github.com/DemocracyLab/CivicTechExchange
+  link_url: https://www.democracylab.org 
+  slack_channel: https://democracylab-org.slack.com/
+  status: "live/ongoing"
+  last_updated: null
+  
+- name: "Council Data Project"
+  description: "Transparency and accessibility in council action. Videos, transcripts, voting records, and legislation -- all searchable under a single website."
+  project_lead: [Jackson Brown]
+  code_url: https://github.com/councildataproject
+  link_url: https://councildataproject.org
+  slack_channel: https://join.slack.com/t/councildataproject/shared_invite/zt-wsnla5xt-dGyMQlo8TAxfjKhGRS88xg
+  status: "live/ongoing"
+  last_updated: null
+
+- name: "Conviction Vacation Project"
+  description: "Our mision is to benefit individuals with criminal convictions and decrease lifelong “collateral consequences.” We have identified the first product we hope to ship to the KCBA to help automate the process for record clearance (a pain point and manual process for lawyers): a conviction eligibility calculator."
+  project_lead: [Seamus Brugh]
+  code_url: https://github.com/openseattle/convictionvacation
+  link_url: http://convictionvacation.org/
+  slack_channel: https://convictionvacation.slack.com/
+  status: "live/ongoing"
+  last_updated: null
+
 - name: "Northwest Harvest's Produce Portal"
   description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program! Note: The Produce Portal was originally developed at Seattle GiveCamp, thanks to a team of volunteer developers."
   skills_needed: 
@@ -15,16 +43,6 @@
   code_url: https://github.com/SeattleCUTGroup/UserTestingSession/wiki
   link_url: https://openseattle.org/cutgroup/
   slack_channel: https://openseattle.slack.com/messages/cut-group/
-  status: "live/ongoing"
-  last_updated: null
-  
-- name: "DemocracyLab"
-  description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention. The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release."
-  skills_needed: 
-  project_lead: [Mark Frischmuth]
-  code_url: https://github.com/DemocracyLab/CivicTechExchange
-  link_url: https://www.democracylab.org 
-  slack_channel: https://democracylab-org.slack.com/
   status: "live/ongoing"
   last_updated: null
   
