@@ -1,0 +1,27 @@
+---
+title: "Open Seattle Monthly Meetup featuring Aja Hazelhoff / Jackson Brown"
+published: true
+layout: page
+description: "Discuss a new project opportunity with the City of Seattle Office of Planning and Community Development for a community-driven public feedback platform."
+type: post
+---
+
+RSVP on [Meetup] (https://www.meetup.com/openseattle/events/xrrspsyccnblc/)
+
+MEETING AGENDA:
+
+6:30: Announcements and Intros
+
+6:35-7:30: Aja Hazelhoff - City of Seattle Office of Planning and Community Development
+
+7:30-7:40: Jackson Brown - Council Data Project Update
+
+7:40-8:00: Q&A and Open Discussion
+
+*Ping the #general channel in our Open Seattle Slack group (link below), or email the organizers on Meetup if you would like to add a discussion topic to the agenda. However, you don't need to be on the agenda to talk. We always leave open time for members to discuss projects/events.
+
+HOW TO CONNECT:
+We plan things, ask/answer questions, and discuss projects using Slack.
+Join the Open Seattle Slack channel here:
+
+https://join.slack.com/t/openseattle/shared_invite/enQtNzczMjg5MzYyNzg4LTgwZDExYmE2MWQ4N2ZiN2VmNDllMmU3ODI0YWFkMTQ5ODY4MGMwNDBhOTQwNTU3OGJmYTI5ZTE3YWQ2NTdjYWY
