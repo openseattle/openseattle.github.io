@@ -20,7 +20,7 @@ MEETING AGENDA:
 
 7:40-8:00: Q&A and Open Discussion
 
-*Ping the #general channel in our Open Seattle Slack group (link below), or email the organizers on Meetup if you would like to add a discussion topic to the agenda. However, you don't need to be on the agenda to talk. We always leave open time for members to discuss projects/events.
+*Ping the #general channel in our Open Seattle Slack group (link below), or message current lead organizers Adrian, Jannie, or Robin. You don't need to be on the agenda to talk. We always leave open time for members to discuss projects/events.
 
 HOW TO CONNECT:
 We plan things, ask/answer questions, and discuss projects using Slack.
