@@ -1,11 +1,11 @@
 ---
-title: "Open Seattle Monthly Meetup featuring Aja Hazelhoff / Jackson Brown"
+title: "Open Seattle Monthly Meetup 10/28 featuring Aja Hazelhoff / Jackson Brown"
 published: true
 layout: page
 description: "Discuss a new project opportunity with the City of Seattle Office of Planning and Community Development for a community-driven public feedback platform."
 type: post
 ---
-
+Thursday October 28, 6:30 - 8:00 PM
 Come discuss a new project opportunity with the [City of Seattle Office of Planning and Community Development](https://www.seattle.gov/opcd) for a community-driven public feedback platform. We'll also hear an update from long-time Open Seattle contributor and past lead organizer Jackson Brown on the [Council Data Project](https://councildataproject.org/).
 
 RSVP on [Meetup](https://www.meetup.com/openseattle/events/xrrspsyccnblc/).
