@@ -6,7 +6,7 @@
   link_url: https://www.democracylab.org 
   slack_channel: https://democracylab-org.slack.com/
   status: "live/ongoing"
-  last_updated: null
+  last_updated: 10/18/2021
   
 - name: "Council Data Project"
   description: "Transparency and accessibility in council action. Videos, transcripts, voting records, and legislation -- all searchable under a single website."
@@ -15,7 +15,7 @@
   link_url: https://councildataproject.org
   slack_channel: https://join.slack.com/t/councildataproject/shared_invite/zt-wsnla5xt-dGyMQlo8TAxfjKhGRS88xg
   status: "live/ongoing"
-  last_updated: null
+  last_updated: 10/18/2021
 
 - name: "Conviction Vacation Project"
   description: "Our mision is to benefit individuals with criminal convictions and decrease lifelong “collateral consequences.” We have identified the first product we hope to ship to the KCBA to help automate the process for record clearance (a pain point and manual process for lawyers): a conviction eligibility calculator."
@@ -24,7 +24,7 @@
   link_url: http://convictionvacation.org/
   slack_channel: https://convictionvacation.slack.com/
   status: "live/ongoing"
-  last_updated: null
+  last_updated: 10/18/2021
 
 - name: "Northwest Harvest's Produce Portal"
   description: "The Growing Connections Produce Portal is a Fresh-to-Food Program (F2FP) initiative meant to connect growers with hunger relief agencies in an easy and straightforward way. A grower creates a listing when they have produce available for donation or for sale. A food program’s volunteer or staff can see listings in their area and respond. After claiming a listing, location and pickup details will be communicated automatically. Then, the volunteer/staff picks up the produce and delivers it to their food program! Note: The Produce Portal was originally developed at Seattle GiveCamp, thanks to a team of volunteer developers."
